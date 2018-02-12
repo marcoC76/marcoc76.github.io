@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://negmarko.github.io"
+url: "https://marcoc76.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -29,7 +29,7 @@ force-https: True
 #############
 
 lang: "es"
-author: "Neg Marko"
+author: "Marco Perez"
 title: "C76"
 description: "Blog Fisica 1."
 keywords: "Fisica, blog, c76"
@@ -145,7 +145,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "negus.marko@gmail.com"
+email: "marco.perez.cetis76@gmail.com"
 
 ################
 # Author Blurb #
@@ -164,7 +164,7 @@ author_blurb_image: "/img/giphy.gif"
 
 social:
   - title: "github"
-    url: "https://github.com/"
+    url: "https://github.com/marcoC76/negmarko.github.io"
   - title: "rss"
     url: "/feed.xml"
 
