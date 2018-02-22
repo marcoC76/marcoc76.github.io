@@ -6,6 +6,8 @@ category: primerperiodo
 tags: [ 'metodo' , 'grafico', 'vectores', 'poligono', 'triangulo', 'paralelogramo' ]
 ---
 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+
 Suma de vectores
 -----------------
 
@@ -24,11 +26,11 @@ $$\overrightarrow{C} = \ \overrightarrow{A} + \overrightarrow{B}$$
 Antes de pasar a la aplicación de estos métodos es necesario tener en cuenta las
 siguientes consideraciones.
 
--   La convención de signos en el plano cartesiano es: para la "x", positivo a
+>   La convención de signos en el plano cartesiano es: para la "x", positivo a
     la derecha y negativo a la izquierda; para la "y", positivo arriba y
     negativo abajo.
 
--   Debemos usar una escala para representar la magnitud vectorial por medio de
+>   Debemos usar una escala para representar la magnitud vectorial por medio de
     una flecha.
 
 Otro concepto de importancia a considerar antes de aprender cada método es el
@@ -74,14 +76,14 @@ obtiene sumando los dos vectores.
 Este método nos sirve para sumar dos vectores de acuerdo a las siguientes
 reglas:
 
-1.  Se traza el primer vector, respetando su dirección.
+1. Se traza el primer vector, respetando su dirección.
 
-2.  Al final del primero, se traza el segundo.
+2. Al final del primero, se traza el segundo.
 
-3.  Se une el principio del primero con el final del segundo y esa será su
+3. Se une el principio del primero con el final del segundo y esa será su
     resultante.
 
-4.  Se mide la magnitud y la dirección del vector resultante directamente en la
+4. Se mide la magnitud y la dirección del vector resultante directamente en la
     gráfica, obteniéndose valores aproximados
 
 ![]({{ site.baseurl }}/media/627d41fc20b25bf23fb2c76733c382d8.png)
@@ -100,14 +102,12 @@ desplazamiento y qué distancia recorrió?
 2. Se traza el desplazamiento del vector $$\overrightarrow{a}$$ hacia el norte
 (6 m = 6 cm) partiendo del origen.
 
-![]({{ site.baseurl }}/media/b0043f1ba45bbd0af1eaf673e5b0f05e.png)
-
-1.  Se traza el desplazamiento del vector$$\overrightarrow{b}$$ al oeste (3 m =
+3. Se traza el desplazamiento del vector$$\overrightarrow{b}$$ al oeste (3 m =
     3 cm) a partir de la punta de la flecha del vector $$\overrightarrow{a}$$.
 
 ![]({{ site.baseurl }}/media/548118dd8040611f92ad764747df2892.png)
 
-1.  Se traza la resultante a partir del origen y hasta llegar a la punta de la
+4. Se traza la resultante a partir del origen y hasta llegar a la punta de la
     flecha del vector $$\overrightarrow{b}$$, y se mide el vector resultante,
     con un desplazamiento de R = 6.7 cm o R = 6.7 m.
 
@@ -123,7 +123,7 @@ La distancia que recorrió esta persona fue de 6 m + 3 m = 9 m
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;" src="//giphy.com/embed/l3q2FLquVem1W45oY?hideSocial=true" width="480" height="324" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
+                  height: 100%;" src="//giphy.com/embed/l3q2FLquVem1W45oY?hideSocial=true" width="480" height="324" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div><br>
 
 <div style="position: relative;
             padding-bottom: 56.25%;
@@ -133,7 +133,7 @@ La distancia que recorrió esta persona fue de 6 m + 3 m = 9 m
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;" scrolling="no" src="https://www.geogebra.org/material/iframe/id/SYFr3VRF/width/700/height/572/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="700px" height="572px" style="border:0px;"> </iframe></div>
+                  height: 100%;" scrolling="no" src="https://www.geogebra.org/material/iframe/id/SYFr3VRF/width/700/height/572/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="700px" height="572px" style="border:0px;"> </iframe></div><br>
 
 Tambien puedes verlo en este link: <a target="_blank" href="https://ggbm.at/sMNBHHvu"> Ejemplo </a>
 
@@ -150,17 +150,17 @@ vectores de acuerdo a las siguientes reglas.
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;" src="//giphy.com/embed/18uqjN9ukvPwI?hideSocial=true" width="480" height="259" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
+                  height: 100%;" src="//giphy.com/embed/18uqjN9ukvPwI?hideSocial=true" width="480" height="259" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div><br>
 
-1.  Se traza dos vectores con un solo origen (deben de coincidir sus puntos de
+1. Se traza dos vectores con un solo origen (deben de coincidir sus puntos de
     aplicación).
 
-2.  Al final de cada vector, se traza paralelas al otro vector.
+2. Al final de cada vector, se traza paralelas al otro vector.
 
-3.  Se une el origen con el punto donde se cruzan las paralelas y esa será
+3. Se une el origen con el punto donde se cruzan las paralelas y esa será
     resultante.
 
-4.  Se mide la magnitud y al dirección de la resultante directamente sobre la
+4. Se mide la magnitud y al dirección de la resultante directamente sobre la
     gráfica obtenido valores aproximados.
 
 ![]({{ site.baseu rl }}/media/5dcf09a75b6c61565ba09f588c3db537.png)
@@ -173,7 +173,7 @@ vectores de acuerdo a las siguientes reglas.
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;" scrolling="no" src="https://www.geogebra.org/material/iframe/id/MxJcPN45/width/700/height/553/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="700px" height="553px" style="border:0px;"> </iframe></div>
+                  height: 100%;" scrolling="no" src="https://www.geogebra.org/material/iframe/id/MxJcPN45/width/700/height/553/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="700px" height="553px" style="border:0px;"> </iframe></div><br>
 
 Tambien lo puedes ver en este link:<a target="_blank" href="https://ggbm.at/BeaeZ2sw"> Ejemplo </a>
 
@@ -217,7 +217,7 @@ La distancia que recorrió esta persona fue de 6 m + 3 m = 9 m
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;"  src="//giphy.com/embed/26xBvPstoOPbtbckw?hideSocial=true" width="480" height="379" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
+                  height: 100%;"  src="//giphy.com/embed/26xBvPstoOPbtbckw?hideSocial=true" width="480" height="379" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div><br>
 
 #### Método del polígono
 
@@ -236,26 +236,26 @@ resultante final conserva su magnitud, dirección y sentido.
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;"   src="//giphy.com/embed/IurWuie6LZvbi?hideSocial=true" width="480" height="366" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
+                  height: 100%;"   src="//giphy.com/embed/IurWuie6LZvbi?hideSocial=true" width="480" height="366" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div><br>
 
 Este método sirve para sumar 3 o más vectores y se considera como una extensión
 del método del triángulo. La resultante se obtiene de acuerdo al siguiente
 procedimiento:
 
-1.  Se traza el primer vector.
+1. Se traza el primer vector.
 
-2.  Al final del primero, se traza el segundo.
+2. Al final del primero, se traza el segundo.
 
-3.  Al final del segundo, el tercero y así sucesivamente hasta que se agoten
+3. Al final del segundo, el tercero y así sucesivamente hasta que se agoten
     todos los vectores (no importa que se superpongan).
 
-4.  Se une el principio del primero con el final del último y esa será la
+4. Se une el principio del primero con el final del último y esa será la
     resultante.
 
-5.  La magnitud y la dirección de la resultante, se miden directamente en la
+5. La magnitud y la dirección de la resultante, se miden directamente en la
     gráfica.
 
-6.  No importa el orden en que se toman los vectores, el resultado será el
+6. No importa el orden en que se toman los vectores, el resultado será el
     mismo.
 
 ![]({{ site.baseurl }}/media/7015fad578d295067ee2bc7114f4a743.png)
@@ -268,7 +268,7 @@ procedimiento:
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;"   scrolling="no" src="https://www.geogebra.org/material/iframe/id/HTMx2jaw/width/700/height/553/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="700px" height="553px" style="border:0px;"> </iframe></div>
+                  height: 100%;"   scrolling="no" src="https://www.geogebra.org/material/iframe/id/HTMx2jaw/width/700/height/553/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="700px" height="553px" style="border:0px;"> </iframe></div><br>
 
 Tambien pudes verlo en este link: <a target="_blank" href="https://ggbm.at/GKsHdPva"> Ejemplo </a>
 
@@ -319,7 +319,7 @@ m+100 m = 900 m Distancia total recorrida = 900 m
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;" src="//giphy.com/embed/d3mnNY6G0soEU5G0?hideSocial=true" width="480" height="526" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
+                  height: 100%;" src="//giphy.com/embed/d3mnNY6G0soEU5G0?hideSocial=true" width="480" height="526" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div><br>
 
 <hr>
 
@@ -333,4 +333,4 @@ m+100 m = 900 m Distancia total recorrida = 900 m
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/ppk7uf2irjky/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE1UM0xkVmhmSVd4VW5RZEFTOGFaRWhpaDFMN3ZaSFdNY21KNFZnYU5MND0&amp;landing_sign=i6zxgMWzgrtWWDROo0sQGsVsuvi6WnVdeK0JWUiQkrM"></iframe></div>
+                  height: 100%;" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/ppk7uf2irjky/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE1UM0xkVmhmSVd4VW5RZEFTOGFaRWhpaDFMN3ZaSFdNY21KNFZnYU5MND0&amp;landing_sign=i6zxgMWzgrtWWDROo0sQGsVsuvi6WnVdeK0JWUiQkrM"></iframe></div><br>
