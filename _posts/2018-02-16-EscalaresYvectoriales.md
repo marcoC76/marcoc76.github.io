@@ -161,12 +161,6 @@ vector suma o vector resultante.
 Los sistemas vectoriales se clasifican dependiendo de la dirección de los
 componentes en:
 
-- Sistemas de vectores colineales.
-
-- Sistemas de vectores paralelos.
-
-- Sistemas de vectores concurrentes.
-
 >   VECTORES COLINEALES: Son aquellos que se encuentran actuando sobre una misma
 línea de acción (dirección); dicho vectores pueden actuar en el mismo sentido o
 sentido contrario. La magnitud del vector resultante es la suma algebraica de
