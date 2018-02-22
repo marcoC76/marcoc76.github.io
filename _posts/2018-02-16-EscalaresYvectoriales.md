@@ -35,7 +35,7 @@ desplazamiento, velocidad y aceleración en función del tiempo.
 cuerpos atendiendo a las causas que lo producen. Estudia conceptos como fuerza,
 masa, energía, trabajo y potencia.
 
-![]({{ site.baseurl }}/media/fuerza.jpg)
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3o7abySuBusMfam5sk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><br>
 
  Magnitudes Escalares y Vectoriales
 -----------------------------------
