@@ -76,14 +76,14 @@ obtiene sumando los dos vectores.
 Este método nos sirve para sumar dos vectores de acuerdo a las siguientes
 reglas:
 
-1. Se traza el primer vector, respetando su dirección.
+> 1.Se traza el primer vector, respetando su dirección.
 
-2. Al final del primero, se traza el segundo.
+> 2.Al final del primero, se traza el segundo.
 
-3. Se une el principio del primero con el final del segundo y esa será su
+> 3.Se une el principio del primero con el final del segundo y esa será su
     resultante.
 
-4. Se mide la magnitud y la dirección del vector resultante directamente en la
+> 4.Se mide la magnitud y la dirección del vector resultante directamente en la
     gráfica, obteniéndose valores aproximados
 
 ![]({{ site.baseurl }}/media/627d41fc20b25bf23fb2c76733c382d8.png)
@@ -97,17 +97,19 @@ desplazamiento y qué distancia recorrió?
 
 **Solución**
 
-1. Se toma la escala 1 m = 1 cm
+> 1.Se toma la escala 1 m = 1 cm
 
-2. Se traza el desplazamiento del vector $$\overrightarrow{a}$$ hacia el norte
+> 2.Se traza el desplazamiento del vector $$\overrightarrow{a}$$ hacia el norte
 (6 m = 6 cm) partiendo del origen.
 
-3. Se traza el desplazamiento del vector$$\overrightarrow{b}$$ al oeste (3 m =
+![]({{ site.baseurl }}/media/b0043f1ba45bbd0af1eaf673e5b0f05e.png)
+
+> 3.Se traza el desplazamiento del vector$$\overrightarrow{b}$$ al oeste (3 m =
     3 cm) a partir de la punta de la flecha del vector $$\overrightarrow{a}$$.
 
 ![]({{ site.baseurl }}/media/548118dd8040611f92ad764747df2892.png)
 
-4. Se traza la resultante a partir del origen y hasta llegar a la punta de la
+> 4.Se traza la resultante a partir del origen y hasta llegar a la punta de la
     flecha del vector $$\overrightarrow{b}$$, y se mide el vector resultante,
     con un desplazamiento de R = 6.7 cm o R = 6.7 m.
 
@@ -152,15 +154,15 @@ vectores de acuerdo a las siguientes reglas.
                   width: 100%;
                   height: 100%;" src="//giphy.com/embed/18uqjN9ukvPwI?hideSocial=true" width="480" height="259" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div><br>
 
-1. Se traza dos vectores con un solo origen (deben de coincidir sus puntos de
+> 1.Se traza dos vectores con un solo origen (deben de coincidir sus puntos de
     aplicación).
 
-2. Al final de cada vector, se traza paralelas al otro vector.
+> 2.Al final de cada vector, se traza paralelas al otro vector.
 
-3. Se une el origen con el punto donde se cruzan las paralelas y esa será
+> 3.Se une el origen con el punto donde se cruzan las paralelas y esa será
     resultante.
 
-4. Se mide la magnitud y al dirección de la resultante directamente sobre la
+> 4.Se mide la magnitud y al dirección de la resultante directamente sobre la
     gráfica obtenido valores aproximados.
 
 ![]({{ site.baseu rl }}/media/5dcf09a75b6c61565ba09f588c3db537.png)
@@ -184,24 +186,22 @@ desplazamiento y qué distancia recorrió?
 
 **Solución**
 
-1. Se toma la escala 1 m = 1 cm
+> 1.Se toma la escala 1 m = 1 cm
 
-2. Se traza el desplazamiento del vector a hacia el norte
+> 2.Se traza el desplazamiento del vector a hacia el norte
 (6 m = 6 cm) partiendo del origen.
 
 ![]({{ site.baseurl }}/media/d5cca26d6295b383ab62bf5c0367de66.png)
 
-3. Se traza el desplazamiento del vector b al oeste (3 m =
+> 3.Se traza el desplazamiento del vector b al oeste (3 m =
 3 cm) a partir del origen.
 
-![](media/f569a3a0e7f8b35e301bdd479eb27c89.png)
-
-4. Se trazan las dos paralelas de a y
+> 4.Se trazan las dos paralelas de a y
 b.
 
 ![]({{ site.baseurl }}/media/7cdb6081d0d848387a138525952e4ff3.png)
 
-5. Se traza la resultante a partir del origen y hasta llegar a la intersección
+> 5.Se traza la resultante a partir del origen y hasta llegar a la intersección
 de las dos paralelas, y se mide el vector resultante, con un desplazamiento de R
 = 6.7 cm o R = 6.7 m.
 
@@ -242,20 +242,20 @@ Este método sirve para sumar 3 o más vectores y se considera como una extensi�
 del método del triángulo. La resultante se obtiene de acuerdo al siguiente
 procedimiento:
 
-1. Se traza el primer vector.
+> 1.Se traza el primer vector.
 
-2. Al final del primero, se traza el segundo.
+> 2.Al final del primero, se traza el segundo.
 
-3. Al final del segundo, el tercero y así sucesivamente hasta que se agoten
+> 3.Al final del segundo, el tercero y así sucesivamente hasta que se agoten
     todos los vectores (no importa que se superpongan).
 
-4. Se une el principio del primero con el final del último y esa será la
+> 4.Se une el principio del primero con el final del último y esa será la
     resultante.
 
-5. La magnitud y la dirección de la resultante, se miden directamente en la
+> 5.La magnitud y la dirección de la resultante, se miden directamente en la
     gráfica.
 
-6. No importa el orden en que se toman los vectores, el resultado será el
+> 6.No importa el orden en que se toman los vectores, el resultado será el
     mismo.
 
 ![]({{ site.baseurl }}/media/7015fad578d295067ee2bc7114f4a743.png)
@@ -281,32 +281,32 @@ recorrida y cuál fue su desplazamiento? Toma la escala 100 m = 1 cm.
 
 **Solución:**
 
-1.  Se traza el vector $$\overrightarrow{a}$$ a partir del origen.
+> 1.Se traza el vector $$\overrightarrow{a}$$ a partir del origen.
 
 ![]({{ site.baseurl }}/media/58d3e4e61d26b27088e5c508492240a8.png)
 
-1.  Se traza el vector $$\overrightarrow{b}$$ a partir de la punta del vector
+> 2.Se traza el vector $$\overrightarrow{b}$$ a partir de la punta del vector
     $$\overrightarrow{a}$$
 
 ![]({{ site.baseurl }}/media/347ba21bb19db6cbc8eafe17c69ee67e.png)
 
-1.  Se traza el vector $$\overrightarrow{c}$$ a partir de la punta de la flecha
+> 3.Se traza el vector $$\overrightarrow{c}$$ a partir de la punta de la flecha
     del vector $$\overrightarrow{b}$$. Recuerda que el sureste es 45º al sur del
     este.
 
 ![]({{ site.baseurl }}/media/7cc4f90bee4490a2af2ef6f08b1e7552.png)
 
-1.  Se traza el vector $$\overrightarrow{d}$$ a partir de la punta de la flecha
+> 4.Se traza el vector $$\overrightarrow{d}$$ a partir de la punta de la flecha
     del vector $$\overrightarrow{c}$$.
 
 ![]({{ site.baseurl }}/media/5a8fd74af6a4e33f07771c8d1d03ee3a.png)
 
-1.  Se traza el vector resultante R a partir de la punta de la flecha del vector
+> 5.Se traza el vector resultante R a partir de la punta de la flecha del vector
     $$\overrightarrow{d}$$ al origen.
 
 ![]({{ site.baseurl }}/media/7015fad578d295067ee2bc7114f4a743.png)
 
-1.  El vector resultante, que es el desplazamiento total, es de 340 m=3.4 cm
+> 6.El vector resultante, que es el desplazamiento total, es de 340 m=3.4 cm
 
 La distancia que recorre esta persona al caminar es de: d = 350 m+200 m+150
 m+100 m = 900 m Distancia total recorrida = 900 m
