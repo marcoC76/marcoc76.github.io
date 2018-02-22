@@ -258,8 +258,6 @@ procedimiento:
 > 6.No importa el orden en que se toman los vectores, el resultado será el
     mismo.
 
-![]({{ site.baseurl }}/media/7015fad578d295067ee2bc7114f4a743.png)
-
 <div style="position: relative;
             padding-bottom: 56.25%;
             height: 0;
@@ -268,9 +266,7 @@ procedimiento:
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;"   scrolling="no" src="https://www.geogebra.org/material/iframe/id/HTMx2jaw/width/700/height/553/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="700px" height="553px" style="border:0px;"> </iframe></div><br>
-
-Tambien pudes verlo en este link: <a target="_blank" href="https://ggbm.at/GKsHdPva"> Ejemplo </a>
+                  height: 100%;" src="//giphy.com/embed/d3mnNY6G0soEU5G0?hideSocial=true" width="480" height="526" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div><br>
 
 
 **Ejemplo:**
@@ -311,6 +307,8 @@ recorrida y cuál fue su desplazamiento? Toma la escala 100 m = 1 cm.
 La distancia que recorre esta persona al caminar es de: d = 350 m+200 m+150
 m+100 m = 900 m Distancia total recorrida = 900 m
 
+![]({{ site.baseurl }}/media/7015fad578d295067ee2bc7114f4a743.png)
+
 <div style="position: relative;
             padding-bottom: 56.25%;
             height: 0;
@@ -319,8 +317,10 @@ m+100 m = 900 m Distancia total recorrida = 900 m
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;" src="//giphy.com/embed/d3mnNY6G0soEU5G0?hideSocial=true" width="480" height="526" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div><br>
+                  height: 100%;"   scrolling="no" src="https://www.geogebra.org/material/iframe/id/HTMx2jaw/width/700/height/553/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="700px" height="553px" style="border:0px;"> </iframe></div><br>
 
+Tambien pudes verlo en este link: <a target="_blank" href="https://ggbm.at/GKsHdPva"> Ejemplo </a>
+<br>
 <hr>
 
 # Presentación
