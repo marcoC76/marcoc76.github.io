@@ -6,6 +6,8 @@ category: primerperiodo
 tags: [ 'escalar' , 'vectorial', 'vectores', 'origen', 'extremo', 'direccion', 'sentido' ]
 ---
 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+
 Conceptos básicos de mecánica.
 ==============================
 
@@ -24,7 +26,7 @@ considerar la causa que provoca el movimiento.
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;"  src="//giphy.com/embed/3oGRFKJ8Ea3hKkLRyE?hideSocial=true" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
+                  height: 100%;"  src="//giphy.com/embed/3oGRFKJ8Ea3hKkLRyE?hideSocial=true" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div> <br>
 
 Las características del movimiento de un cuerpo son: trayectoria,
 desplazamiento, velocidad y aceleración en función del tiempo.
