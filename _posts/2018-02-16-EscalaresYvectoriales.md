@@ -81,21 +81,21 @@ estas cantidades se debe emplear algún método gráfico o analítico.
 dirección y sentido. Se representa con una letra mayúscula A o con una flecha
 encima de A.
 
-![]({{ site.baseurl }}/media/vectorial.png)
+![]({{ site.baseurl }}/media/vectorial.jpg)
 
 Un vector tiene las siguientes características:
 
-1.  *Magnitud:* Es la medida o tamaño del vector y se obtiene con la siguiente
+>  *Magnitud:* Es la medida o tamaño del vector y se obtiene con la siguiente
     expresión:
 
 $$\left| A \right| = \sqrt{\left( x_{2} - x_{1} \right)^{2} + \left( y_{2} - y_{1} \right)^{2}}$$
 
-1.  *Dirección:* Es el ángulo que forma el vector con la horizontal y se
+>  *Dirección:* Es el ángulo que forma el vector con la horizontal y se
     determina con:
 
 $$\theta = ang\ tang\frac{\left( y_{2} - y_{1} \right)}{\left( x_{2} - x_{1} \right)}$$
 
-1.  *Sentido:* Esta dado por los signos de las coordenadas del vector.
+>  *Sentido:* Esta dado por los signos de las coordenadas del vector.
 
 ### Características de un vector
 
@@ -161,11 +161,11 @@ vector suma o vector resultante.
 Los sistemas vectoriales se clasifican dependiendo de la dirección de los
 componentes en:
 
-1.  Sistemas de vectores colineales.
+-  Sistemas de vectores colineales.
 
-2.  Sistemas de vectores paralelos.
+-  Sistemas de vectores paralelos.
 
-3.  Sistemas de vectores concurrentes.
+-  Sistemas de vectores concurrentes.
 
 >   VECTORES COLINEALES: Son aquellos que se encuentran actuando sobre una misma
 línea de acción (dirección); dicho vectores pueden actuar en el mismo sentido o
@@ -218,3 +218,4 @@ acción sin que se alteren sus efectos.
                   width: 100%;
                   height: 100%;" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/4a5exxjeodox/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE1lOWpOcmUra2pWY29iVVhGZjZNekRBMEZ3V0paRThoZVRZVTkvRHZ6Zz0&amp;landing_sign=1zhcPbaChQY0rsOh7kZToA_0VpSPiQ8294ngsQg9KjQ"></iframe>
 </div>
+<br>
