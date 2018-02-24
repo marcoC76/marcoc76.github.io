@@ -23,11 +23,11 @@ que los métodos gráficos ya que se realizan a base de cálculos.
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;" src="//giphy.com/embed/yc67bWV0fcvMk?hideSocial=true" width="480" height="360" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
+                  height: 100%;" src="//giphy.com/embed/yc67bWV0fcvMk?hideSocial=true" width="480" height="360" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div><br>
 
 #### Método de Pitágoras
 
-![]({{ site.baseurl }}/media/pitagorasvectoresMeme.jpg)
+![]({{ site.baseurl }}/media/pitagorasMeme.jpg)
 
 Este método se basa en el teorema de Pitágoras y nos sirve para sumar dos
 vectores cuando forman un ángulo de 90° entre sí. El valor de la resultante se
@@ -198,7 +198,7 @@ positivo, y si está del lado inferior se toma como negativo.
 4. Para encontrar analíticamente la magnitud de la resultante, se utiliza el
 Teorema de Pitágoras
 
-![]({{ site.baseurl }}/media/pitagoras.jpg)
+![]({{ site.baseurl }}/media/pitagoras.png)
 
 $$R = \sqrt{\left( \sum{x} \right)^{2} + \left( \sum{y} \right)^{2}}$$
 
@@ -283,4 +283,4 @@ $$\alpha = 6.87^{\circ}$$
                   top:0;
                   left: 0;
                   width: 100%;
-                  height: 100%;"  id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/0_yv2r_xj-dd/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE1UM0xkVmhmSVd4VW5RZEFTOGFOSVZIL0ZhWXYybjdJbDZpb2V3VzNpZz0&amp;landing_sign=sBLHV8gPhX_Xq6kwm2Q2rbTxX1CVC-cmnlsrSwMCJCo"></iframe></div>
+                  height: 100%;"  id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/0_yv2r_xj-dd/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE1UM0xkVmhmSVd4VW5RZEFTOGFOSVZIL0ZhWXYybjdJbDZpb2V3VzNpZz0&amp;landing_sign=sBLHV8gPhX_Xq6kwm2Q2rbTxX1CVC-cmnlsrSwMCJCo"></iframe></div><br>
