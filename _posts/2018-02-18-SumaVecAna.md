@@ -77,8 +77,6 @@ a = 60 N a 90º
 
 **Solución:**
 
-
-
 ![]({{ site.baseurl }}/media/d653fc788f1f5baf7a1750235bc74c2a.png)
 
 #### Método de la ley de cosenos y la ley de senos
@@ -171,13 +169,13 @@ denomina composición.
 El procedimiento para determinar la suma de vectores por el método de los
 componentes es el siguiente:
 
-1. Se determina el componente horizontal y vertical de cada vector.
+> 1.Se determina el componente horizontal y vertical de cada vector.
 
 $$V_{y} = V\ sen\theta$$
 
 $$V_{x} = V\ cos\theta$$
 
-2. Se suman las componentes horizontales para obtener un vector en la dirección
+> 2.Se suman las componentes horizontales para obtener un vector en la dirección
 horizontal, denotado por Σx. Es importante mencionar que cada componente
 horizontal se multiplica por el coseno del ángulo, esto es:
 
@@ -186,7 +184,7 @@ $$\sum{x} = \left( F_{1}x \right)\left( \cos\alpha \right) + \left( F_{2}x \righ
 Hay que tomar en cuenta que si el vector está del lado derecho, se toma
 positivo, y si está del lado izquierdo se toma como negativo.
 
-3. Se suman las componentes verticales para obtener un vector en la dirección
+> 3.Se suman las componentes verticales para obtener un vector en la dirección
 vertical, denotado por Σy. Es importante mencionar que cada componente vertical
 se multiplica por el seno del ángulo, esto es:
 
@@ -195,14 +193,14 @@ $$\sum{y} = \left( F_{1}y \right)\left( \operatorname{sen}\alpha \right) + \left
 Hay que tomar en cuenta que si el vector está del lado superior, se toma
 positivo, y si está del lado inferior se toma como negativo.
 
-4. Para encontrar analíticamente la magnitud de la resultante, se utiliza el
+> 4.Para encontrar analíticamente la magnitud de la resultante, se utiliza el
 Teorema de Pitágoras
 
 ![]({{ site.baseurl }}/media/pitagoras.png)
 
 $$R = \sqrt{\left( \sum{x} \right)^{2} + \left( \sum{y} \right)^{2}}$$
 
-5. El ángulo se determina por
+> 5.El ángulo se determina por
 
 $$\theta = tan^{-1}\left( \frac{\sum{y}}{\sum{x}} \right)$$
 
