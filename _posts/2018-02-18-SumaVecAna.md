@@ -27,7 +27,7 @@ que los métodos gráficos ya que se realizan a base de cálculos.
 
 #### Método de Pitágoras
 
-![]({{ site.baseurl }}/media/pitagorasMeme.jpg)
+![]({{ site.baseurl }}/media/pitagorasMeme.png)
 
 Este método se basa en el teorema de Pitágoras y nos sirve para sumar dos
 vectores cuando forman un ángulo de 90° entre sí. El valor de la resultante se
