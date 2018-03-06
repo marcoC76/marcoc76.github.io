@@ -35,10 +35,6 @@ posición de un cuerpo.
 **Velocidad** es la variación de la posición con el tiempo. Nos indica si el
 móvil se mueve, es decir, si varía su posición a medida que varía el tiempo.
 
-<br>
-<img src="https://www.mememaker.net/static/images/memes/2495975.jpg">
-<br>
-
 **Aceleración** indica cuanto varia la velocidad al ir pasando el tiempo.
 
 <br>
