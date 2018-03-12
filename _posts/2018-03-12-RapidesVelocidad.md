@@ -237,5 +237,4 @@ tiempo correspondiente tiende a cero.
                  left: 0;
                  width: 100%;
                  height: 100%;"  id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/fggeu9iqhfsc/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE1WMHZZQkp4VVhINzlGRTZCUzRCRUEzWHJvdEhKeC9JemFnbCt4ZWdMWT0&amp;landing_sign=xtYb2xh1xE6LbV7ye49j3BGDSv98PEQ8UGqoGuij9vQ"></iframe>
-                 </div>
-<br>              
+                 </div><br>              
