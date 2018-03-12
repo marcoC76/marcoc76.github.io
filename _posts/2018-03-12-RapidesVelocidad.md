@@ -48,7 +48,7 @@ dividida por el tiempo empleado en recorrerla.
 
 Matemáticamente:
 
-$$Rapidez\ media = \frac{\text{distancia\ total\ recorrida}}{\text{tiempo\ empleado\ en\ el\ recorrido}}$$
+$$Rapidez\ media = \frac{\text{distancia total recorrida}}{\text{tiempo empleado en el recorrido}}$$
 
 Empleando símbolos:
 
@@ -84,7 +84,7 @@ Solución:
 
 Datos
 
-$$x_{0} = 50m" />
+$$x_{0} = 50m$$
 
 $$x = 300m$$
 
