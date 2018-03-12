@@ -48,10 +48,6 @@ dividida por el tiempo empleado en recorrerla.
 
 Matemáticamente:
 
-$$Rapidez\ media = \frac{\text{distancia\ total\ recorrida}}{\text{tiempo\ empleado\ en\ el\ recorrido}}$$
-
-Empleando símbolos:
-
 $$r_{m} = \frac{\Delta x_{t}}{\Delta t_{t}}$$
 
 $$r_{m} = \frac{d_{t}}{t_{t}}$$
