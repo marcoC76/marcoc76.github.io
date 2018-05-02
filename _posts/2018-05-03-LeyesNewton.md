@@ -50,18 +50,18 @@ proporcional a la magnitud de la fuerza aplicada e inversamente proporcional a
 la masa del cuerpo. Y se expresa F=ma, donde F es la fuerza, m es la masa y a la
 aceleración.
 
-<img src="https://latex.codecogs.com/svg.latex?F&space;=&space;ma" title="F = ma" />
+$$F = ma$$
 
 
 El peso de un cuerpo representa la fuerza con que la tierra atrae a la masa de
 dicho cuerpo y por lo tanto es una magnitud vectorial, se expresa w=mg, donde w
 es el peso, m es la masa y g es la gravedad.
 
-<img src="https://latex.codecogs.com/svg.latex?W&space;=&space;mg" title="W = mg" />
+$$W = mg$$
 
 La unidad de la fuerza es el Newton que equivale a
 
-<img src="https://latex.codecogs.com/svg.latex?1Newton&space;=&space;1\frac{\text{kg\&space;m}}{s^{2}}" title="1Newton = 1\frac{\text{kg\ m}}{s^{2}}" />
+$$1Newton = 1\frac{\text{kg\ m}}{s^{2}}$$
 
 Cuando aplicamos una fuerza a un cuerpo le proporcionamos movimiento pudiendo
 variar su velocidad y generando así una aceleración. Esto es precisamente lo que
@@ -71,9 +71,9 @@ Segunda ley de Newton: si aplicamos una fuerza F a una masa m se genera en ésta
 una aceleración a, de tal modo que la aceleración a es directamente proporcional
 a la fuerza F, e inversamente proporcional a la masa m.
 
-<img src="https://latex.codecogs.com/svg.latex?a&space;=&space;\frac{F}{m}" title="a = \frac{F}{m}" />
+$$a = \frac{F}{m}$$
 
-<img src="https://latex.codecogs.com/svg.latex?F&space;=&space;ma" title="F = ma" />
+$$F = ma$$
 
 Donde:
 
@@ -94,7 +94,7 @@ En un sistema vertical, el peso de los cuerpos es la fuerza y la aceleración es
 la gravedad por lo que al aplicar la segunda ley de Newton tenemos la siguiente
 relación:
 
-<img src="https://latex.codecogs.com/svg.latex?W&space;=&space;mg" title="W = mg" />
+$$W = mg$$
 
 Donde:
 
@@ -111,17 +111,17 @@ medio de una cuerda con una fuerza de 240 N. ¿Cuál es la aceleración del baú
 
 Solución:
 
-<img src="https://latex.codecogs.com/svg.latex?m&space;=&space;60kg" title="m = 60kg" />
+$$m = 60kg$$
 
-<img src="https://latex.codecogs.com/svg.latex?F&space;=&space;240N" title="F = 240N" />
+$$F = 240N$$
 
-<img src="https://latex.codecogs.com/svg.latex?a&space;=&space;?" title="a = ?" />
+$$a = ?$$
 
-<img src="https://latex.codecogs.com/svg.latex?a&space;=&space;\frac{F}{m}" title="a = \frac{F}{m}" />
+$$a = \frac{F}{m}$$
 
-<img src="https://latex.codecogs.com/svg.latex?a&space;=&space;\frac{240N}{60kg}" title="a = \frac{240N}{60kg}" />
+$$a = \frac{240N}{60kg}$$
 
-<img src="https://latex.codecogs.com/svg.latex?a&space;=&space;4\&space;m/s^{2}" title="a = 4\ m/s^{2}" />
+$$a = 4\ m/s^{2}$$
 
 Ejemplo:
 
@@ -130,15 +130,15 @@ Una bolsa de arroz tiene macada en su envoltura que contiene una masa de 5kg,
 
 Solución:
 
-<img src="https://latex.codecogs.com/svg.latex?m&space;=&space;5.0kg" title="m = 5.0kg" />
+$$m = 5.0kg$$
 
-<img src="https://latex.codecogs.com/svg.latex?g&space;=&space;9.8\frac{m}{s^{2}}" title="g = 9.8\frac{m}{s^{2}}" />
+$$g = 9.8\frac{m}{s^{2}}$$
 
-<img src="https://latex.codecogs.com/svg.latex?W&space;=&space;?" title="W = ?" />
+$$W = ?$$
 
-<img src="https://latex.codecogs.com/svg.latex?W&space;=&space;mg" title="W = mg" />
+$$W = mg$$
 
-<img src="https://latex.codecogs.com/svg.latex?W&space;=&space;49N" title="W = 49N" />
+$$W = 49N$$
 
 ####  Diagrama de cuerpo libre
 
@@ -173,7 +173,7 @@ dirección contraria a F.
 
 Matemáticamente:
 
-<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{F_{\text{ab}}}&space;=&space;-&space;\overrightarrow{F_{\text{ba}}}" title="\overrightarrow{F_{\text{ab}}} = - \overrightarrow{F_{\text{ba}}}" />
+$$\overrightarrow{F_{\text{ab}}} = - \overrightarrow{F_{\text{ba}}}$$
 
 A una de estas fuerzas (cualquiera de las dos) se le llama fuerza de acción, la
 otra recibe el nombre de fuerza de reacción. La tercera ley establece que fuerza
@@ -190,22 +190,22 @@ Ejemplo;
 
 Solución:
 
-<img src="https://latex.codecogs.com/svg.latex?m&space;=&space;1\&space;kg" title="m = 1\ kg" />
+$$m = 1\ kg$$
 
-<img src="https://latex.codecogs.com/svg.latex?g&space;=&space;9.8\frac{m}{s^{2}}" title="g = 9.8\frac{m}{s^{2}}" />
+$$g = 9.8\frac{m}{s^{2}}$$
 
 La fuerza con la que es atraído por la tierra (acción) es el peso
 
-<img src="https://latex.codecogs.com/svg.latex?W&space;=&space;mg" title="W = mg" />
+$$W = mg$$
 
-<img src="https://latex.codecogs.com/svg.latex?W&space;=&space;1(9.8)" title="W = 1(9.8)" />
+$$W = 1(9.8)$$
 
-<img src="https://latex.codecogs.com/svg.latex?W&space;=&space;9.8N" title="W = 9.8N" />
+$$W = 9.8N$$
 
 Dado que la tercera ley de Newton establece que la el objeto también atrae a la
 tierra (reacción):
 
-<img src="https://latex.codecogs.com/svg.latex?\overrightarrow{F_{t}}&space;=&space;9.8\&space;N" title="\overrightarrow{F_{t}} = 9.8\ N" />
+$$\overrightarrow{F_{t}} = 9.8\ N$$
 
 Pero esta fuerza es en sentido contrario.
 
