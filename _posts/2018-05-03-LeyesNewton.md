@@ -11,7 +11,7 @@ tags: [ 'fuerza' , 'movimiento', 'masa', 'aceleracion', 'dinamica', 'newton', 'a
 Leyes de Newton
 ===============
 
-<img src="https://img.memesuper.com/d59308d12c41f370c5cbdebfd1b2cb5f_meme-otros-bad-luck-isaac-memes-leyes_550-667.jpeg" />
+<img src="https://statics.memondo.com/p/99/ccs/2014/03/CC_2302849_1c1837756f1844f6a77613d308a30a3c_meme_otros_bad_luck_isaac_newton.jpg?cb=3102497" />
 
 ### Primera ley de Newton
 
@@ -156,7 +156,7 @@ cual se muestran las fuerzas externas que actúan sobre él.
 Tercera ley de Newton: para toda fuerza de acción existe otra de reacción de
 igual magnitud en la misma dirección pero en sentido contrario.
 
-<img src="http://statics.cuantocabron.com/ccs/2015/05/CC_2460589_newton_el_vengativo.jpg?cb=3541" /> 
+<img src="https://statics.memondo.com/p/s2/ccs/2015/05/CC_2460589_8ec08484055240e58c122859c53dbff0_meme_otros_newton_el_vengativo.jpg?cb=831562" /> 
 
 Cuando queremos saltar verticalmente hacia arriba, lo que en realidad hacemos es
 empujar el suelo para impulsarnos. La fuerza de reacción del suelo, la fuerza
@@ -169,7 +169,7 @@ Si el objeto A ejerce una fuerza F sobre el objeto B, entonces el objeto B
 ejerce una fuerza – F sobre el objeto A, la cual tiene igual magnitud pero
 dirección contraria a F.
 
-<img src="https://img.memesuper.com/f0102abf93196eac12763d416f9edef3_-la-tercera-ley-de-newton-memes-ley-de-newton_400-400.jpeg" />
+<img src="https://cdn.memegenerator.es/imagenes/memes/full/12/32/12323576.jpg" />
 
 Matemáticamente:
 
