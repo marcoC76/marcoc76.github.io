@@ -254,7 +254,9 @@ Un cuerpo rígido es aquel en el que las distancias entre dos de sus puntos
 cualquiera permanecen constantes, es decir, no se deforman por la acción de
 fuerzas externas.
 
-<br><div style="width:100%;height:0;padding-bottom:104%;position:relative;"><iframe src="https://giphy.com/embed/9qmq1WGohyFbO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><br>
+<br>
+<div style="width:100%;height:0;padding-bottom:104%;position:relative;"><iframe src="https://giphy.com/embed/9qmq1WGohyFbO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<br>
 
 Un cuerpo rígido debe satisfacer las siguientes condiciones para estar en
 equilibrio.
