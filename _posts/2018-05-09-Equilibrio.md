@@ -86,7 +86,7 @@ Para determinar las componentes rectangulares de las fuerzas, determinamos los
 
 Emplearemos la siguiente tabla:
 
-![]({{ site.baseurl }}/media/tablaEquilibrio.PNG)
+![]({{ site.baseurl }}/media/tablaEquilibrio.png)
 
 Al aplicar las ecuaciones de condición de equilibrio:
 
