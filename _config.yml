@@ -56,6 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Blog de apoyo para TICs"
+  - text: "Blog de apoyo para Física 1"
 
 me-img: "/img/browser.png"
 
