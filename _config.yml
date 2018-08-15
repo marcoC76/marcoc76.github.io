@@ -33,15 +33,15 @@ author: "Marco Perez"
 title: "C76"
 description: "Blog TICs y Fisica 1."
 keywords: "TICs, Fisica, blog, c76"
-favicon: "/img/favicon.ico"
+favicon: "/img/browser.png"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/physics.svg"
+black-favicon: "/img/browser.svg"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/tics.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Blog de apoyo para TICs"
 
-me-img: "/img/fisica5.png"
+me-img: "/img/browser.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -93,12 +93,12 @@ web-app-mode: True
 
 # Icons for Web App mode
 
-icon-36p: "/img/web-app/fisica0.png"
-icon-48p: "/img/web-app/fisica1.png"
-icon-72p: "/img/web-app/fisica2.png"
-icon-96p: "/img/web-app/fisica3.png"
-icon-144p: "/img/web-app/fisica4.png"
-icon-192p: "/img/web-app/fisica5.png"
+icon-36p: "/img/web-app/browser1.png"
+icon-48p: "/img/web-app/browser2.png"
+icon-72p: "/img/web-app/browser3.png"
+icon-96p: "/img/web-app/browser4.png"
+icon-144p: "/img/web-app/browser5.png"
+icon-192p: "/img/web-app/browser6.png"
 
 ########
 # Blog #
