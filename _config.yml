@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Blog de apoyo para TICs"
   - text: "Blog de apoyo para Física 1"
 
-me-img: "/img/chip.png"
+me-img: "/img/tics.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
