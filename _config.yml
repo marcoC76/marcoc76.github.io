@@ -31,8 +31,8 @@ force-https: True
 lang: "es"
 author: "Marco Perez"
 title: "C76"
-description: "Blog Fisica 1."
-keywords: "Fisica, blog, c76"
+description: "Blog TICs y Fisica 1."
+keywords: "TICs, Fisica, blog, c76"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,7 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Blog de apoyo para Física 1"
+  - text: "Blog de apoyo para TICs"
 
 me-img: "/img/fisica5.png"
 
