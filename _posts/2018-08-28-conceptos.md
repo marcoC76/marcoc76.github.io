@@ -31,9 +31,9 @@ procesamiento de los datos.
 En Estados Unidos no es muy conocido el término, que se toma como
 sinónimo de information technology  (IT) .
 
-### Conceptos importantes {#h.33jk6j1ymown .c11}
+### Conceptos importantes 
 
-#### CIENCIA. {#h.n4y7f21fa7cz .c5}
+#### CIENCIA
 
 En su definición más amplia, es el conocimiento ordenado que se utiliza
 para organizar experiencias y confirmarlas de manera objetiva. Se puede
@@ -41,7 +41,7 @@ dividir en dos partes: una es la ciencia pura, que es la búsqueda del
 conocimiento, la otra es la ciencia aplicada, que es la búsqueda de usos
 útiles para los conocimientos adquiridos.
 
-#### TECNOLOGÍA. {#h.ye5j63vpafj9 .c5}
+#### TECNOLOGÍA
 
 Es el proceso que le permite a los seres humanos diseñar herramientas y
 máquinas para controlar su ambiente material y aumentar la comprensión
@@ -52,7 +52,7 @@ u “oficio”, y logos, que significa “conocimiento” o “tratado”.
 
 En conclusión, la tecnología es el conocimiento de los oficios.
 
-#### DATOS {#h.hye8gxdyty5z .c5}
+#### DATOS
 
 Conjunto de símbolos que representan la información de manera que se
 permita su procesamiento.
@@ -72,7 +72,7 @@ computadora, se convierten en información. A la serie de instrucciones
 que indica a una computadora cómo realizar las tareas de procesamiento
 se le llama programa.
 
-#### INFORMACIÓN {#h.1sl5g16vszmp .c5}
+#### INFORMACIÓN
 
 El matemático estadounidense Claude E. Shannon es el creador de la
 “teoría moderna de la información”. De acuerdo con él, la información es
@@ -95,7 +95,7 @@ o actividades. En un contexto de negocios, las utilidades consolidadas
 del mes anterior después de fletes y comisiones, son de \$120,000.00.
 Esto es información porque apoya en el proceso de toma de decisiones.
 
-#### INFORMÁTICA {#h.8lb8n1smykao .c5}
+#### INFORMÁTICA
 
 Es la ciencia de la información. El término se forma de la combinación
 de las palabras información y automática. Por tanto, es el conjunto de
@@ -106,7 +106,7 @@ mediante equipos de procesamiento automático como las computadoras.
 La informática tiene que ver con la programación, la arquitectura de las
 computadoras, la inteligencia y la robótica, entre otros temas.
 
-### Campo de aplicación de la tecnología         {#h.53stpo6vtwym .c11}
+### Campo de aplicación de la tecnología 
 
 Todo el desarrollo tecnológico que hemos sufrido en estas últimas
 décadas ha permitido que las tecnologías de la información y la
@@ -123,7 +123,7 @@ Los campos de aplicación de la informática son tan variados y diversos
 que el hecho de tratar de citarlos a todos se convertiría una lista
 interminable. A continuación se citan lo más representativos:
 
-#### Comunicación {#h.53zqjty6cb0 .c5}
+#### Comunicación 
 
 La tecnología electrónica, con sus microprocesadores, memorias de
 capacidad cada vez más elevada y circuitos integrados, hace que los
@@ -144,7 +144,7 @@ computación y la informática se ha integrado en las telecomunicaciones y
 ha propiciado el surgimiento de nuevas formas de comunicación, que son
 aceptadas y usadas cada vez por más personas.
 
-#### Educación {#h.vjcd6mnohxwj .c5}
+#### Educación
 
 La "sociedad de la información" en general y las nuevas tecnologías en
 particular, inciden de manera significativa estudiante necesita así como
@@ -180,7 +180,7 @@ universidades y estudios avanzados. No cabe duda que la computación
  está abriendo nuevas posibilidades de conocimiento y desarrollo
 educativo a nivel mundial.
 
-#### Internet {#h.28dqfqbd05qn .c5}
+#### Internet
 
 Internet es el resultado de la conexión de miles de redes informáticas
 ya existentes, por eso se le ha llamado también la red de redes. Unos
@@ -199,7 +199,7 @@ diversas bases de datos alimentadas con informaciones concretas o con
 programas, guías de introducción a la propia red, catálogos de productos
 y servicios, informaciones de centros oficiales, etcétera.
 
-#### Aplicaciones ofimáticas {#h.3dmef9vxxqcu .c5}
+#### Aplicaciones ofimáticas 
 
 Existen en el campo de la computación unas aplicaciones de carácter
 general, es decir, que se utilizan en muchos campos, como el de la
@@ -210,7 +210,7 @@ presentaciones. Hay una tendencia a comercializar paquetes integrados
 que contienen, como mínimo, estos cuatro apartados; sin embargo, también
 se pueden encontrar estas aplicaciones por separado.
 
-#### Comercio {#h.osldu8om5ydj .c5}
+#### Comercio
 
 Las computadoras también han llegado al mundo de los negocios y del
 comercio, realizando funciones no sólo de cajas registradoras, sino
@@ -226,7 +226,7 @@ adecuar los productos ofrecidos a la demanda, anular los productos que
 tengan poca salido o rotación y optimizar el inventario para que se
 produzca menor cantidad de material inmovilizado.
 
-#### Arquitectura, diseño, construcción. {#h.mbbdgzohsyrj .c5}
+#### Arquitectura, diseño, construcción
 
 Otros campos con gran aplicación de la computación son el diseño
 asistido por computadora (CAD) y la fabricación asistida por computadora
@@ -260,7 +260,7 @@ hacen posible también que una misma cadena de montaje fabrique
 alternativamente diversas versiones de un mismo modelo, adaptándose a la
 demanda existente en cada momento.
 
-#### Medicina {#h.5xc1vwkg819t .c5}
+#### Medicina
 
 Desde hace varias décadas, las computadoras ayudan a los profesionales
 de la medicina en su larga lucha contra la enfermedad. Desde la gestión
@@ -277,7 +277,7 @@ médicos, tratamientos de enfermedades, estadísticas nacionales de
 epidemias, etcétera. Se utilizan también sistemas expertos, que son
 auténticos especialistas en la materia para la que están programados.
 
-#### Sistemas domésticos {#h.m27pzyiywi7x .c5}
+#### Sistemas domésticos
 
 Se conocen ya los primeros modelos de sistemas domésticos de control.
 Consisten en mecanismos de control remoto diseñados para su uso en
@@ -297,7 +297,7 @@ detectar fugas de gas y prevenir al usuario o cerrar la llave de paso,
 avisar a los bomberos en caso de fuego, controlar un sistema de
 seguridad, etc.
 
-#### Simulación y análisis de datos {#h.er5mdp9f35q5 .c5}
+#### Simulación y análisis de datos
 
 La simulación es una de las maneras más importantes en que las
 computadoras ayudan al hombre a realizar planificaciones para el futuro.
@@ -314,7 +314,7 @@ evolución de una estrella o galaxia, etc., pueden simularse con una
 computadora, para que ayude a determinar qué efectos causará la
 concurrencia de unas determinadas condiciones en el modelo real.
 
-#### Animación {#h.umnclhw1dp4c .c5}
+#### Animación
 
 La técnica de la animación por computadora proporciona a los medios
 audiovisuales muchas posibilidades de manipulación de imágenes y de
@@ -340,7 +340,7 @@ información y estamos envueltos de ella, y el contar con las
 herramientas que nos ayuden a procesar la se vuelve vitales para el
 quehacer humano.
 
-La computadora {#h.fe2q2j66a9hd .c12}
+La computadora
 ==============
 
 Al principio las computadoras se usaban para ayudar y facilitar las
@@ -374,7 +374,7 @@ una máquina de propósito general, es decir, puede realizar tareas muy
 diversas, de acuerdo a las posibilidades que brinde los lenguajes de
 programación y el hardware.
 
-Antecedentes {#h.gwps11e8hwxc .c8}
+Antecedentes
 ------------
 
 Las computadoras no siempre han sido iguales. En realidad existe un
@@ -392,17 +392,17 @@ continuación se describen los más representativos.
     calculadoras mecánicas de los años sesenta, que se volvieron
     obsoletas al seguir las calculadoras electrónicas (Leonardo de Vinci
     tuvo una visión 150 años antes).
--   Charles Babbage. Creó la Máquina diferencial en 1822, que calculaba
+> Charles Babbage. Creó la Máquina diferencial en 1822, que calculaba
     tablas matemáticas impulsada con vapor, no fue terminada porque se
     cortó el presupuesto en 1842; tenía dos metros de alto, tres de
     longitud y 4 000 partes, pesaba 3 toneladas. En 1833, construyó la
     Máquina analítica, que incluía una unidad de almacenamiento +, -,
     \*, / en 60 operaciones por minuto. Era impulsada por una locomotora
     y ocupaba un campo de fútbol.
--   Lady Ada Augusta Lovelace. Entre 1835-1850 colabora con Babbage en
+> Lady Ada Augusta Lovelace. Entre 1835-1850 colabora con Babbage en
     sus investigaciones. Fue hija de Lord Byron y es considerada la
     primera mujer programadora en tarjetas perforadas.
--   Herman Hollerith. Diseñó la Máquina tabuladora (1887-1890), que
+> Herman Hollerith. Diseñó la Máquina tabuladora (1887-1890), que
     funcionaba con tarjetas perforadas, acumulaba y clasificaba la
     información. Se utilizó para el censo de 1890, el cual le reditúo 40
     000 dólares y al gobierno de Estados Unidos le ahorró 5 millones de
@@ -411,15 +411,15 @@ continuación se describen los más representativos.
     Recording Company. En 1924, el director general, Thomas J. Watson,
     cambió su nombre a International Bussines Machines Corporation
     (IBM).
--   EAM (Electromechanical Accounting Machine). Entre 1920 y 1950 se
+> EAM (Electromechanical Accounting Machine). Entre 1920 y 1950 se
     crea la Máquina de contabilidad electromecánica. Tecnología con base
     en tarjetas perforadas; se llegó a utilizar carretillas para
     transportar las tarjetas.
--   Konrad Zuse. En 1941 construyó la primera computadora programable
+> Konrad Zuse. En 1941 construyó la primera computadora programable
     Z3,  que resolvía ecuaciones complejas de ingeniería, era controlada
     por tarjetas perforadas y fue la primera que operó con el sistema
     binario.
--   Atanasoff y Berry. Una antigua patente de un dispositivo, que mucha
+> Atanasoff y Berry. Una antigua patente de un dispositivo, que mucha
     gente creyó que era la primera computadora digital electrónica, se
     invalidó en 1973 por orden de un tribunal federal y oficialmente se
     le dio el crédito a John V. Atanasoff como el inventor de la
@@ -429,13 +429,13 @@ continuación se describen los más representativos.
     Llamó a su invento la computadora Atanasoff-Berry, o solo ABC
     (Atanasoff Berry Computer). Un estudiante graduado, Clifford Berry,
     fue una útil ayuda en la construcción de la computadora ABC.
--   Howard Aiken. Supervisó el diseño de la MARK I 1944, 1a primera
+> Howard Aiken. Supervisó el diseño de la MARK I 1944, 1a primera
     computadora electromecánica, de 17 metros de ancho y tres de alto.
     Un adelanto significativo, se construyó con el patrocinio de la IBM
     en la Universidad de Harvard. En lo fundamental, se trataba de una
     serie de calculadoras electromecánicas. En muchos aspectos, similar
     a la máquina analítica de Babbage.
--   Mauchly y Eckert. En 1946, después de varias conversaciones con el
+> Mauchly y Eckert. En 1946, después de varias conversaciones con el
     doctor Atanasoff, leen apuntes que describían los principios de la
     computadora ABC y desean verla en persona. El doctor John W. Mauchly
     colaboró con J. Presper Eckert Jr. para desarrollar una máquina que
@@ -452,7 +452,7 @@ continuación se describen los más representativos.
     cuadrados, llenaba un cuarto de 6 x 12 metros y contenía 18 000
     bulbos, tenía que programarse manualmente conectándola a 3 tableros
     que contenían más de 6 000 interruptores.
--   John von Neumann, que en 1945 había trabajado con Eckert y Mauchly
+> John von Neumann, que en 1945 había trabajado con Eckert y Mauchly
     en la Universidad de Pennsylvania, publicó un artículo acerca del
     almacenamiento de programas. El concepto de programa almacenado
     permitió la lectura de un programa dentro de la memoria de la
@@ -465,7 +465,7 @@ continuación se describen los más representativos.
     y confiabilidad tremendas, haciéndolas más rápidas y menos sujetas a
     errores que los programas mecánicos.
 
--   La IBM 650. Fue hasta que ocurrió el éxito de la UNIVAC1 cuando la
+> La IBM 650. Fue hasta que ocurrió el éxito de la UNIVAC1 cuando la
     IBM se decidió a desarrollar y comercializar computadoras. La IBM
     650 se diseñó como una actualización lógica de las máquinas de
     tarjetas perforadas. La gerencia de IBM superó las ventas calculadas
@@ -473,7 +473,7 @@ continuación se describen los más representativos.
     instaladas en los Estados Unidos en aquel entonces–; de hecho,
     vendió 1 000 de ellas. Lo demás es historia.
 
-### Generaciones de las computadoras {#h.f7np0vxefbqy .c11}
+### Generaciones de las computadoras 
 
 El desarrollo de las computadoras suele dividirse en generaciones. El
 criterio para determinar cuándo se da el cambio de una generación a otra
@@ -485,7 +485,7 @@ al menos dos requisitos estructurales:
 2.  Forma en que el ser humano se comunica con ellas: que haya
     experimentado progresos importantes.
 
-#### Primera generación {#h.jn6fhw9u2xj1 .c5}
+#### Primera generación
 
 Esta primera etapa abarcó la década de 1950. Las máquinas de esta
 generación cumplen los requisitos antes mencionados de la siguiente
@@ -502,7 +502,7 @@ manera:
 -   Requerían cilindros magnéticos para almacenar información e
     instrucciones internas.
 
-#### Segunda generación {#h.n516d3jy5uv7 .c5}
+#### Segunda generación
 
 Se acercaba la década de 1960 y las computadoras seguían en constante
 evolución, reduciendo de tamaño y aumentando sus capacidades de
@@ -526,7 +526,7 @@ primordiales:
 -   Se mejoraron los programas de computadoras que fueron desarrollados
     durante la primera generación.
 
-#### Tercera generación {#h.vg9vvrawk6yk .c5}
+#### Tercera generación 
 
 Con la aparición de nuevas y mejores maneras de comunicarse con las
 computadoras, junto con los progresos en la electrónica, surge lo que se
@@ -556,7 +556,7 @@ Las características estructurales de la tercera generación consisten en:
     eficientes.
 -   Consumían menos electricidad, por lo tanto, generaban menos calor.
 
-#### Cuarta generación {#h.jhz2ysd5kse3 .c5}
+#### Cuarta generación 
 
 El adelanto de la microelectrónica prosigue a una velocidad
 impresionante y ya para el año de 1972 surge en el mercado una nueva
@@ -579,7 +579,7 @@ son despreciables.
 -   Se desarrollan las microcomputadoras, o sea, las computadoras
     personales (PC).
 
-#### Quinta generación {#h.1pmdqgw2pzg1 .c5}
+#### Quinta generación 
 
 En vista de la acelerada marcha de la microelectrónica, la sociedad
 industrial se ha dado a la tarea de poner también a esa altura el
@@ -605,7 +605,7 @@ El futuro previsible de la computación es muy interesante, y se puede
 esperar que esta ciencia siga siendo objeto de atención prioritaria de
 gobiernos y de la sociedad de manera conjunta.
 
-Hardware y Software {#h.imrypi9pc1tj .c8}
+Hardware y Software 
 -------------------
 
 Cuando nos referimos a un sistema de cómputo, debemos considerar los
@@ -650,9 +650,9 @@ El hardware es el cuerpo de la computadora y el software el alma.
     uno tiene un propósito específico, es decir, los programas hacen que
     la computadora ejecute las funciones deseadas.
 
-### Componentes de una computadora {#h.eawq7rpsnpn1 .c11}
+### Componentes de una computadora
 
-#### Unidad central de procesamiento (CPU) {#h.vp9727k8haj2 .c5}
+#### Unidad central de procesamiento (CPU) 
 
 -   El término unidad central de procesamiento (Central Processing Unit:
     CPU) se refiere al hardware de procesamiento de la computadora, ya
@@ -667,7 +667,7 @@ El hardware es el cuerpo de la computadora y el software el alma.
 -   Cada CPU tiene, al menos, dos partes básicas: la unidad de control y
     la unidad lógica  aritmética.
 
-#### Unidad de control {#h.r77k6womesqg .c5}
+#### Unidad de control 
 
 -   La unidad de control se refiere a las instrucciones o conjuntos de
     instrucciones que enumeran todas las operaciones que puede realizar
@@ -682,7 +682,7 @@ El hardware es el cuerpo de la computadora y el software el alma.
 2.  Dirigir la operación de los componentes internos del procesador.
 3.  Controlar el flujo de entrada y salida de programas y datos en RAM.
 
-#### Unidad aritmético lógica (UAL) {#h.676hybdgg33t .c5}
+#### Unidad aritmético lógica (UAL) 
 
 -   Además de establecer secuencias ordenadas y cambiar éstas, la
     computadora puede realizar sólo dos tipos de operaciones:
@@ -699,7 +699,7 @@ El hardware es el cuerpo de la computadora y el software el alma.
     lógicas.
 -   Los resultados se colocan en un registro llamado acumulador.
 
-#### Memoria principal (RAM, ROM y EPROM) {#h.vhuv9w802gzl .c5}
+#### Memoria principal (RAM, ROM y EPROM) 
 
 -   La memoria es el espacio que necesita la CPU para poder guardar los
     programas y los datos que se manipulan mientras están en uso.
@@ -733,7 +733,7 @@ borrar y reprogramar, la cual recibe el nombre de EPROM). La ROM es un
 tipo de memoria especial llamada de sólo lectura, que el usuario no
 puede modificar.
 
-#### Memorias caché (de la UAL, de video y otras) {#h.qqme1md7g0io .c5}
+#### Memorias caché (de la UAL, de video y otras)
 
 Memoria caché. La memoria caché es similar a la RAM, excepto que es muy
 rápida  si la comparamos con la memoria normal, y se usa en forma
@@ -762,7 +762,7 @@ aritméticas mucho más rápido que la UAL debido a que usa aritmética de
 punto flotante, una técnica de cómputo que traduce los números a
 notación científica.
 
-#### Bus {#h.n0yhbzl5h8h5 .c5}
+#### Bus 
 
 El término bus se refiere a las rutas o caminos entre los componentes de
 una computadora. Hay dos buses principales en una computadora:
@@ -799,7 +799,7 @@ de direcciones para identificar una ubicación específica en memoria;
 después los datos y las instrucciones se transfieren por el bus de datos
 hacia esa ubicación o desde ella.
 
-#### Reloj {#h.db98d2ch6yjv .c5}
+#### Reloj
 
 Toda microcomputadora tiene un reloj de sistema, pero el propósito
 principal del reloj no es mantener la hora del día. Como la mayor parte
@@ -818,7 +818,7 @@ la frecuencia de sus oscilaciones, esto es, el número de ciclos de reloj
 por segundo. La velocidad de la mayoría de las computadoras personales
 actuales se sitúa entre los 133 y 900 megahertz (MHz).
 
-#### Puertos seriales y paralelos {#h.hka7d09uvb34 .c5}
+#### Puertos seriales y paralelos
 
 Un puerto es un enchufe en la parte posterior de la computadora que se
 usa para conectar dispositivos externos a ésta. Se le llama interfaz a
@@ -852,9 +852,9 @@ es, se transmiten varios bits simultáneamente. Estos puertos constituyen
 la interfaz de dispositivos tales como impresoras de alta velocidad,
 unidades de respaldo en cinta magnética y otras computadoras.
 
-### Dispositivos periféricos {#h.b5m28h73p5g4 .c11}
+### Dispositivos periféricos 
 
-#### Memoria secundaria {#h.sb1xe4xf746r .c5}
+#### Memoria secundaria
 
 Proporciona a la CPU una capacidad de almacenamiento adicional que le
 permite leer o escribir informaciones que se pueden conservar durante
@@ -945,7 +945,7 @@ el cual consiste de una cubierta estacionaria que contiene una bola
 móvil que se opera con la mano; se utiliza con frecuencia en
 computadoras laptop y juegos de video.
 
-#### Bandas magnéticas {#h.7t6vznlazr2f .c5}
+#### Bandas magnéticas 
 
 Las bandas magnéticas que se encuentran en el reverso de las tarjetas de
 crédito y gafetes de identificación, ofrecen otro medio de introducción
@@ -958,7 +958,7 @@ inteligentes, las cuales son similares en aspecto a las demás, pero
 contienen un microprocesador en cuya memoria conservan siempre ciertos
 datos personales y de seguridad.
 
-#### Sistemas de entrada visual {#h.iw7jq0oorbyi .c5}
+#### Sistemas de entrada visual 
 
 Los sistemas de entrada visual son adecuados para tareas más
 especializadas, en las que sólo se encuentran unas cuantas imágenes.
@@ -1035,7 +1035,7 @@ los sonidos digitales en corriente eléctrica que es enviada a las
 bocinas. El sonido se define como la presión de aire que varía a lo
 largo del tiempo.
 
-#### Dispositivos de entrada/salida (cintas y discos) {#h.j84mm3rywzhk .c5}
+#### Dispositivos de entrada/salida (cintas y discos) 
 
 Hoy en día, para almacenar datos, se usan dos tecnologías principales:
 almacenamiento magnético y óptico. Aunque, por lo general, los
@@ -1071,7 +1071,7 @@ concentrado, enfocado y dirigido con lentes, prismas y espejos. El foco
 conciso del rayo láser es posible debido a que toda la luz tiene la
 misma longitud de onda.
 
-#### Discos magnéticos {#h.bq3e78e9lqpr .c5}
+#### Discos magnéticos 
 
 El tipo de disco magnético intercambiable más utilizado es el disquete
 (o disco flexible) de 3.5. pulgadas, aunque aún se encuentran discos de
@@ -1086,7 +1086,7 @@ En la actualidad, el almacenamiento en cinta magnética ya no se usa con
 funciones: se usa como medio de respaldo, para conservar archivo muerto
 y para llevar archivo de una computadora a otra.
 
-### Sistema operativo {#h.nn3p0o7audks .c11}
+### Sistema operativo 
 
 El Sistema Operativo (SO) es el programa de control maestro de la
 computadora. El SO proporciona las herramientas (comandos) que nos
@@ -1110,7 +1110,7 @@ cómo se asigna a los programas la valiosa RAM, establece las prioridades
 para manejar las tareas y administra el flujo de información que entra y
 sale del procesador.
 
-##### Tipos de sistemas operativos {#h.399afafydtbo .c5}
+##### Tipos de sistemas operativos 
 
 Existen plataformas un solo usuario y multiusuario debido a los
 objetivos y orientación de los tipos de sistemas operativos. Las
@@ -1196,52 +1196,9 @@ El sistema operativo realiza las siguientes funciones:
     el procesador toma decisiones acerca de cuáles recursos debe asignar
     a determinadas tareas.
 
-### Breve        descripción de los sistemas operativos más conocidos (DOS, UNIX) {#h.de5m9bk9es17 .c11}
+### Representación interna de datos 
 
-#### MS-DOS {#h.phlenl5zg8em .c5}
-
-MS-DOS sigue siendo una plataforma muy utilizada, pero tiene cerca de 15
-años de edad y no está diseñada para aprovechar la moderna tecnología de
-una PC. Los usuarios de MS-DOS deben memorizar comandos de texto
-crípticos.
-
-#### Windows {#h.f6yy5tqtgfsd .c5}
-
-Windows es amistoso con el usuario, emplea una interfaz gráfica fácil de
-usar, consiente la ejecución simultánea de múltiples programas; esta
-característica multitarea permite al usuario imprimir un informe en Word
-mientras que trabaja en una sesión con Excel para Windows, que deja al
-usuario trabajar con archivos grandes.
-
-Windows permite transferir información entre aplicaciones. Con Windows
-es posible transferir en segundos el texto de un documento de procesador
-de palabras  a un registro de base de datos.
-
-#### Windows 95-98 {#h.8ofln04hj3hb .c5}
-
-Está reemplazando velozmente tanto a MS-DOS como al Windows original. No
-requiere del anticuado sistema operativo MS-DOS. Windows 95 ofrece la
-capacidad plug and play, la cual permite que un dispositivo periférico o
-tarjeta de expansión sea operativo de inmediato, sólo con conectarlo en
-un puerto o ranura de expansión.
-
-#### UNIX {#h.olkyzyn7r2br .c5}
-
-La plataforma multiusuario más difundida está definida por UNIX, la cual
-está disponible para PC compatibles. Gran parte del software creado para
-esta  plataforma se dirige a sistemas de información de oficinas o
-departamentos.
-
-#### Windows NT {#h.hcweom5gmsha .c5}
-
-La nueva oleada de plataformas multiusuarios incluye sistemas operativos
-que posibilitan la computación de trabajo en grupo en LAN. La
-computación de trabajo en grupo permite a los usuarios de la red
-aumentar la colaboración y compartir ideas y recursos.
-
-### Representación interna de datos {#h.xuu9iwgvu81z .c11}
-
-#### Representación binaria de datos {#h.pob6qgsvs0ry .c5}
+#### Representación binaria de datos 
 
 En una computadora, todos los datos deben ser reducidos a interruptores
 eléctricos. Un interruptor sólo tiene dos estados posibles, “encendido”
@@ -1319,7 +1276,7 @@ ASCII ampliado de IBM, las primeras 128 claves de ANSI son iguales a las
 claves de ASCII, pero las 128 siguientes están definidas para satisfacer
 las necesidades de las aplicaciones Windows.
 
-### Unidades de medición {#h.f8pwmk3f6oeu .c11 .c19}
+### Unidades de medición
 
 En la informática y en sistemas de cómputo se utilizan diversas unidades
 de medición, todo dependerá si se habla de almacenamiento, procesamiento
