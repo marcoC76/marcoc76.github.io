@@ -392,8 +392,7 @@ continuación se describen los más representativos.
     calculadoras mecánicas de los años sesenta, que se volvieron
     obsoletas al seguir las calculadoras electrónicas (Leonardo de Vinci
     tuvo una visión 150 años antes).
-    
-    <br>
+
 
 > Charles Babbage. Creó la Máquina diferencial en 1822, que calculaba
     tablas matemáticas impulsada con vapor, no fue terminada porque se
@@ -402,14 +401,12 @@ continuación se describen los más representativos.
     Máquina analítica, que incluía una unidad de almacenamiento +, -,
     \*, / en 60 operaciones por minuto. Era impulsada por una locomotora
     y ocupaba un campo de fútbol.
-    
-    <br>
+
     
 > Lady Ada Augusta Lovelace. Entre 1835-1850 colabora con Babbage en
     sus investigaciones. Fue hija de Lord Byron y es considerada la
     primera mujer programadora en tarjetas perforadas.
-    
-    <br>
+
     
 > Herman Hollerith. Diseñó la Máquina tabuladora (1887-1890), que
     funcionaba con tarjetas perforadas, acumulaba y clasificaba la
@@ -420,22 +417,19 @@ continuación se describen los más representativos.
     Recording Company. En 1924, el director general, Thomas J. Watson,
     cambió su nombre a International Bussines Machines Corporation
     (IBM).
-    
-    <br>
+
     
 > EAM (Electromechanical Accounting Machine). Entre 1920 y 1950 se
     crea la Máquina de contabilidad electromecánica. Tecnología con base
     en tarjetas perforadas; se llegó a utilizar carretillas para
     transportar las tarjetas.
-    
-    <br>
+
     
 > Konrad Zuse. En 1941 construyó la primera computadora programable
     Z3,  que resolvía ecuaciones complejas de ingeniería, era controlada
     por tarjetas perforadas y fue la primera que operó con el sistema
     binario.
-    
-    <br>
+
     
 > Atanasoff y Berry. Una antigua patente de un dispositivo, que mucha
     gente creyó que era la primera computadora digital electrónica, se
@@ -447,8 +441,7 @@ continuación se describen los más representativos.
     Llamó a su invento la computadora Atanasoff-Berry, o solo ABC
     (Atanasoff Berry Computer). Un estudiante graduado, Clifford Berry,
     fue una útil ayuda en la construcción de la computadora ABC.
-    
-    <br>
+
     
 > Howard Aiken. Supervisó el diseño de la MARK I 1944, 1a primera
     computadora electromecánica, de 17 metros de ancho y tres de alto.
@@ -456,8 +449,7 @@ continuación se describen los más representativos.
     en la Universidad de Harvard. En lo fundamental, se trataba de una
     serie de calculadoras electromecánicas. En muchos aspectos, similar
     a la máquina analítica de Babbage.
-    
-    <br>
+
     
 > Mauchly y Eckert. En 1946, después de varias conversaciones con el
     doctor Atanasoff, leen apuntes que describían los principios de la
@@ -476,8 +468,7 @@ continuación se describen los más representativos.
     cuadrados, llenaba un cuarto de 6 x 12 metros y contenía 18 000
     bulbos, tenía que programarse manualmente conectándola a 3 tableros
     que contenían más de 6 000 interruptores.
-    
-    <br>
+
     
 > John von Neumann, que en 1945 había trabajado con Eckert y Mauchly
     en la Universidad de Pennsylvania, publicó un artículo acerca del
@@ -492,7 +483,6 @@ continuación se describen los más representativos.
     y confiabilidad tremendas, haciéndolas más rápidas y menos sujetas a
     errores que los programas mecánicos.
     
-    <br>
     
 > La IBM 650. Fue hasta que ocurrió el éxito de la UNIVAC1 cuando la
     IBM se decidió a desarrollar y comercializar computadoras. La IBM
