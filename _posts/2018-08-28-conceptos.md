@@ -6,7 +6,7 @@ category: PrimerPeriodo
 tags: [ 'información' , 'datos', 'computadoras', 'binario', 'bit']
 ---
 
-# Presentación electronica
+### Presentación electronica
 
  <div style="position: relative;
             padding-bottom: 56.25%;
@@ -17,6 +17,8 @@ tags: [ 'información' , 'datos', 'computadoras', 'binario', 'bit']
                  left: 0;
                  width: 100%;
                  height: 100%;" width="550" height="400" src="https://marcoc76.github.io/musical-pancake/conceptos.html"></iframe></div><br>
+
+[Pantalla completa](https://marcoc76.github.io/musical-pancake/conceptos.html "Presentación en pantalla completa")
 
 Informática es una palabra que involucra en su estructura semántica dos
 términos: información y automática. Se acuñó en Francia hace 40 años con
