@@ -1332,27 +1332,3 @@ sino que también influyen los demás componentes, como son: memoria ram,
 disco duro, etc. Para el caso de definir las velocidades de transmisión
 se suele usar como base el bit, y más concretamente el bit por segundo,
 o bps.
-
- que involucra en su estructura semántica dos términos: información y
-automática. Se acuñó en Francia hace 40 años con la intención de definir
-el conjunto de procedimientos, métodos, técnicas y otros aspectos
-científicos de diferentes áreas que se venían desarrollando y aplicando
-al tratamiento de la información con el uso de las computadoras para
-resolver problemas económicos, sociales y políticos.
-
-Para definirla decimos que: “Informática es la sistematización racional
-de la información”. Consideramos que esta definición ubica a la
-informática en una actitud más próxima a una ciencia y en torno a la
-información, pero siempre tratada ésta en forma de sistema o sistemas.
-Es decir, sistematizar la información es la función básica de la
-informática, pero deberá hacerse racionalmente, de lo contrario la
-función es incompleta.
-
-Es obvio que para sistematizar la información es necesario el uso de
-herramientas que van desde el papel y el lápiz hasta las computadoras
-más sofisticadas, dependiendo del volumen de datos que se maneje para
-generar la información y los procedimientos que se establezcan para el
-procesamiento de los datos.
-
-En Estados Unidos no es muy conocido el término, que se toma como
-sinónimo de information technology  (IT) .
