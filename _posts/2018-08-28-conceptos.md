@@ -6,6 +6,18 @@ category: PrimerPeriodo
 tags: [ 'información' , 'datos', 'computadoras', 'binario', 'bit']
 ---
 
+# Presentación electronica
+
+ <div style="position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;">
+<iframe style="position: absolute;
+                 top:0;
+                 left: 0;
+                 width: 100%;
+                 height: 100%;" width="550" height="400" src="https://marcoc76.github.io/musical-pancake/conceptos.html"></iframe></div><br><hr><br>
+
 Informática es una palabra que involucra en su estructura semántica dos
 términos: información y automática. Se acuñó en Francia hace 40 años con
 la intención de definir el conjunto de procedimientos, métodos, técnicas
@@ -513,12 +525,15 @@ manera:
 1.  Por medio de circuitos de tubos de vacío.
 2.  Mediante la programación en lenguaje de máquina (lenguaje binario).
 
--   Estas máquinas son grandes y costosas (del orden de decenas o
+> Estas máquinas son grandes y costosas (del orden de decenas o
     cientos de miles de dólares).
--   Usaban tubos al vacío para procesar información.
--   Utilizaban tarjetas perforadas para entrar los datos y los
+
+> Usaban tubos al vacío para procesar información.
+
+> Utilizaban tarjetas perforadas para entrar los datos y los
     programas.
--   Requerían cilindros magnéticos para almacenar información e
+
+> Requerían cilindros magnéticos para almacenar información e
     instrucciones internas.
 
 #### Segunda generación
@@ -536,13 +551,16 @@ primordiales:
 1.  Están construidas con circuitos de transistores.
 2.  Se programan en nuevos lenguajes llamados de alto nivel.
 
--   En general, las computadoras de la segunda generación son de tamaño
+> En general, las computadoras de la segunda generación son de tamaño
     más reducido y de costo menor que las anteriores.
--   Usaban transistores para procesar información.
--   Los transistores eran más rápidos, pequeños y confiables que los
+
+> Usaban transistores para procesar información.
+
+> Los transistores eran más rápidos, pequeños y confiables que los
     tubos al vacío. Utilizaban pequeños anillos magnéticos para
     almacenar información e instrucciones.
--   Se mejoraron los programas de computadoras que fueron desarrollados
+
+> Se mejoraron los programas de computadoras que fueron desarrollados
     durante la primera generación.
 
 #### Tercera generación 
@@ -561,19 +579,23 @@ Las características estructurales de la tercera generación consisten en:
 2.  Su manejo es por medio de los lenguajes de control de los sistemas
     operativos.
 
--   Las grandes computadoras reciben en inglés el nombre de mainframes,
+> Las grandes computadoras reciben en inglés el nombre de mainframes,
     que significa, precisamente, gran sistema.
--   Entre las máquinas de la tercera generación hay algunas dedicadas a
+
+> Entre las máquinas de la tercera generación hay algunas dedicadas a
     propósitos especiales, que manejan cientos de millones de números en
     representación decimal y requieren diseños específicos para ser
     resueltos.
--   Se desarrollaron circuitos integrados para procesar información.
--   Se desarrollaron los "chips" para almacenar y procesar la
+
+> Se desarrollaron circuitos integrados para procesar información.
+
+> Se desarrollaron los "chips" para almacenar y procesar la
     información. Un "chip" es una pieza de silicio que contiene los
     componentes electrónicos en miniatura llamados semiconductores.
--   Otra vez las computadoras se tornan más pequeñas, ligeras y
+> Otra vez las computadoras se tornan más pequeñas, ligeras y
     eficientes.
--   Consumían menos electricidad, por lo tanto, generaban menos calor.
+
+> Consumían menos electricidad, por lo tanto, generaban menos calor.
 
 #### Cuarta generación 
 
@@ -591,11 +613,14 @@ generación de máquinas, aunque sólo en lo que respecta al equipo físico
 habido progresos de esta magnitud, aunque los cambios producidos tampoco
 son despreciables.
 
--   Se desarrolló el microprocesador.
--   Se colocan más circuitos dentro de un chip.
--   Se reemplaza la memoria de anillos magnéticos por la memoria de
+> Se desarrolló el microprocesador.
+
+> Se colocan más circuitos dentro de un chip.
+
+> Se reemplaza la memoria de anillos magnéticos por la memoria de
     chips de silicio.
--   Se desarrollan las microcomputadoras, o sea, las computadoras
+
+> Se desarrollan las microcomputadoras, o sea, las computadoras
     personales (PC).
 
 #### Quinta generación 
@@ -630,10 +655,13 @@ Hardware y Software
 Cuando nos referimos a un sistema de cómputo, debemos considerar los
 cuatro elementos básicos que lo componen:  
 
--   Hardware  
--   Software  
--   Datos  
--   Usuario
+> Hardware
+  
+> Software
+  
+> Datos
+  
+> Usuario
 
 Resulta interesante recordar el significado de la palabra Sistema, el
 cual refiere a un conjunto de elementos que están íntimamente
@@ -658,12 +686,13 @@ costo, desempeño, funcionalidades, periféricos, etc.
 
 El hardware es el cuerpo de la computadora y el software el alma.
 
--   El hardware consiste en dispositivos electrónicos interconectados
+> El hardware consiste en dispositivos electrónicos interconectados
     que podemos usar para controlar la operación, así como la entrada y
     la salida de la computadora; además, se refiere a los dispositivos
     físicos que conforman el sistema de computación. Cuando la gente
     habla de una computadora, por lo general se refiere al hardware.
--   El término software concierne al conjunto de instrucciones
+
+> El término software concierne al conjunto de instrucciones
     electrónicas que le dicen al hardware qué debe hacer. Estos
     conjuntos de instrucciones también se conocen como programas y cada
     uno tiene un propósito específico, es decir, los programas hacen que
@@ -673,29 +702,36 @@ El hardware es el cuerpo de la computadora y el software el alma.
 
 #### Unidad central de procesamiento (CPU) 
 
--   El término unidad central de procesamiento (Central Processing Unit:
+> El término unidad central de procesamiento (Central Processing Unit:
     CPU) se refiere al hardware de procesamiento de la computadora, ya
     sea que conste de un solo chip o de varias tarjetas de circuitos.
--   Este “órgano vital” ocupa un espacio sorprendentemente pequeño en
+
+> Este “órgano vital” ocupa un espacio sorprendentemente pequeño en
     una PC.
--   El procesador es como el cerebro de la computadora; es la parte que
+
+> El procesador es como el cerebro de la computadora; es la parte que
     organiza y lleva a cabo las instrucciones que provienen del usuario
     o del software.
--   Éste se localiza en la tarjeta madre, que es el tablero de circuitos
+
+> Éste se localiza en la tarjeta madre, que es el tablero de circuitos
     que conecta la CPU a todos los otros dispositivos de hardware.
--   Cada CPU tiene, al menos, dos partes básicas: la unidad de control y
+
+> Cada CPU tiene, al menos, dos partes básicas: la unidad de control y
     la unidad lógica  aritmética.
 
 #### Unidad de control 
 
--   La unidad de control se refiere a las instrucciones o conjuntos de
+> La unidad de control se refiere a las instrucciones o conjuntos de
     instrucciones que enumeran todas las operaciones que puede realizar
     la CPU.
--   Cada instrucción, en el conjunto de instrucciones, es expresada en
+
+> Cada instrucción, en el conjunto de instrucciones, es expresada en
     microcódigo, una serie de direcciones básicas que le dicen a la CPU
     cómo ejecutar operaciones más complejas.
--   La unidad de control es el núcleo del procesador.
--   La unidad de control tiene tres funciones básicas:
+
+> La unidad de control es el núcleo del procesador.
+
+> La unidad de control tiene tres funciones básicas:
 
 1.  Leer e interpretar las instrucciones de los programas.
 2.  Dirigir la operación de los componentes internos del procesador.
@@ -703,29 +739,35 @@ El hardware es el cuerpo de la computadora y el software el alma.
 
 #### Unidad aritmético lógica (UAL) 
 
--   Además de establecer secuencias ordenadas y cambiar éstas, la
+> Además de establecer secuencias ordenadas y cambiar éstas, la
     computadora puede realizar sólo dos tipos de operaciones:
     operaciones aritméticas y operaciones lógicas.
--   Las operaciones aritméticas incluyen suma, resta, multiplicación y
+
+> Las operaciones aritméticas incluyen suma, resta, multiplicación y
     división.
--   Las operaciones lógicas incluyen comparaciones, cómo determinar
+
+> Las operaciones lógicas incluyen comparaciones, cómo determinar
     cuándo un número es igual a, mayor que o menor que otro número.
     Asimismo, cada operación lógica tiene un puesto.
--   La unidad aritmética lógica (UAL) incluye un grupo de registros,
+
+> La unidad aritmética lógica (UAL) incluye un grupo de registros,
     ubicaciones de memoria de alta velocidad construidas directamente en
     la CPU que se usan para conservar los datos que se están procesando
     en este momento, realiza todos los cálculos y las operaciones
     lógicas.
--   Los resultados se colocan en un registro llamado acumulador.
+
+> Los resultados se colocan en un registro llamado acumulador.
 
 #### Memoria principal (RAM, ROM y EPROM) 
 
--   La memoria es el espacio que necesita la CPU para poder guardar los
+> La memoria es el espacio que necesita la CPU para poder guardar los
     programas y los datos que se manipulan mientras están en uso.
--   Desde el punto de vista físico, la memoria consiste en chips, ya sea
+
+> Desde el punto de vista físico, la memoria consiste en chips, ya sea
     en la tarjeta madre o en un pequeño tablero de circuitos conectados
     a ésta.
--   Tal memoria electrónica permite a la CPU almacenar y recuperar datos
+
+> Tal memoria electrónica permite a la CPU almacenar y recuperar datos
     rápidamente.
 
 RAM. Se le llama memoria de acceso aleatorio (Random Access Memory:
@@ -886,9 +928,9 @@ exterior o auxiliar se conocen como memoria de masa por su gran
 capacidad de almacenamiento en cintas, discos magnéticos, y se denominan
 unidades.
 
-#### Dispositivos de entrada (teclado, mouse, lectoras ópticas y magnéticas, sensores, etcétera) {#h.884jd0yn2hqw .c5}
+#### Dispositivos de entrada (teclado, mouse, lectoras ópticas y magnéticas, sensores, etcétera) 
 
-Teclado. El teclado es el principal dispositivo de entrada para
+> Teclado. El teclado es el principal dispositivo de entrada para
 introducir letras, números, símbolos, puntuación y comandos en la
 computadora. Es un dispositivo relativamente simple, que consta de más o
 menos 100 teclas, cada una de las  cuales envía un código de carácter
@@ -898,7 +940,7 @@ incorporado o conectado a todas las PC. Los teclados de computadora por
 lo general incluyen teclas numéricas, alfanuméricas, de movimiento del
 cursor, modificadoras y de función, así como otras teclas especiales.
 
-Mouse. Es un dispositivo de entrada que rueda sobre una superficie plana
+> Mouse. Es un dispositivo de entrada que rueda sobre una superficie plana
  (por lo general en el escritorio) y controla el puntero. El puntero es
 un objeto en la pantalla (normalmente una flecha), que se usa para
 seleccionar texto, tener acceso a menús, mover archivos o interactuar
@@ -907,7 +949,7 @@ obligarnos a teclear o emitir comandos desde el teclado,  el mouse y los
 sistemas operativos basados en éste nos permiten elegir comandos desde
 menús y cuadros de diálogo fáciles de usar.
 
-Lápices. Los sistemas basados en lápices usan un lápiz electrónico como
+> Lápices. Los sistemas basados en lápices usan un lápiz electrónico como
 el principal dispositivo de entrada. Se sostiene el lápiz en la mano y
 se escribe en una almohadilla especial o en forma directa en la
 pantalla. También se puede usar el lápiz como un dispositivo de
@@ -916,14 +958,14 @@ darse cuenta de que la pantalla es el dispositivo de entrada, no el
 lápiz. La pantalla detecta presión, luz o una carga electrostática que
 proviene del lápiz y luego almacena la posición de esa señal.
 
-Pantalla sensible al tacto. Permite al usuario señalar directamente en
+> Pantalla sensible al tacto. Permite al usuario señalar directamente en
 la visualización de la computadora, generalmente para seleccionar de un
 menú de opciones en la pantalla. La mayor parte de las computadoras con
 pantallas sensibles al tacto usan sensores en ésta, o cerca de ella, que
 pueden detectar el tacto de un dedo, sintiendo la presión o el calor de
 éste.
 
-Lectores de códigos de barras. Después del teclado, es el dispositivo de
+> Lectores de códigos de barras. Después del teclado, es el dispositivo de
 entrada usado en forma más amplia. El tipo más común de lector de
 códigos de barras es el modelo de cama plana, el cual se encuentra por
 lo común en supermercados y tiendas departamentales. Estos dispositivos
@@ -932,7 +974,7 @@ productos, en un número de producto emitiendo un rayo de luz, con
 frecuencia un rayo láser, que refleja la imagen del código de barras y
 convierte estos patrones de barras individuales en dígitos numéricos.
 
-Escáneres de imágenes y reconocimiento de caracteres (OCR). El lector de
+> Escáneres de imágenes y reconocimiento de caracteres (OCR). El lector de
 códigos de barras en realidad es un tipo especial de escáner de
 imágenes. Los escáneres de imágenes convierten electrónicamente
 cualquier imagen al dirigir una luz hacia la imagen y sentir la
@@ -940,7 +982,7 @@ intensidad del reflejo en cada punto. El escáner de imágenes es útil
 porque traduce imágenes impresas a un formato electrónico que puede
 usarse almacenado en la memoria de una computadora.
 
-Micrófonos y reconocimiento de voz. Los micrófonos se están volviendo
+> Micrófonos y reconocimiento de voz. Los micrófonos se están volviendo
 cada vez más importantes como dispositivos de entrada. Para este tipo de
 entrada acústica lo que se requiere es una grabación digitalizada. Todo
 lo que necesitamos para realizar una grabación así, es un micrófono (o
@@ -952,14 +994,14 @@ conocida como reconocimiento de voz (o reconocimiento del habla). Con
 ella, podemos hablar a la computadora en lugar de mecanografiar, y
 podemos controlarla con comandos simples, como “abrir” o “cancelar”.
 
-Entrada de video. Los usuarios de computadora están añadiendo a sus
+> Entrada de video. Los usuarios de computadora están añadiendo a sus
 sistemas capacidades de entrada de video en grandes cantidades.
 Aplicaciones como las videoconferencias permiten a los usuarios emplear
 imágenes de video de movimiento completo, capturadas por una cámara de
 video PC, y transmitirlas a un número limitado de receptores en una red
 o a todo el mundo en Internet.
 
-Trackball. Dispositivo de entrada que funciona como un ratón invertido,
+> Trackball. Dispositivo de entrada que funciona como un ratón invertido,
 el cual consiste de una cubierta estacionaria que contiene una bola
 móvil que se opera con la mano; se utiliza con frecuencia en
 computadoras laptop y juegos de video.
@@ -987,9 +1029,9 @@ aquellas piezas que no satisfacen ciertas especificaciones de calidad.
 El sistema visual realiza inspecciones rudimentarias de calibración y
 después indica a la computadora que ejecute  la acción correspondiente.
 
-#### Dispositivos de salida (pantalla, impresora, graficadora, etcétera) {#h.xfg4kuss7l3 .c5}
+#### Dispositivos de salida (pantalla, impresora, graficadora, etcétera) 
 
-Monitor. Es el más importante, porque es el dispositivo de salida con el
+> Monitor. Es el más importante, porque es el dispositivo de salida con el
 que los usuarios interactúan con más frecuencia. Dos elementos
 importantes determinan la calidad de la imagen que despliega un monitor:
 el monitor mismo y el controlador de video. Se usan dos tipos básicos de
@@ -998,52 +1040,14 @@ computadora de escritorio; se parece a un aparato de televisión y
 funciona en la misma forma. El segundo tipo, conocido como monitor de
 pantalla plana, se usa con las computadoras notebook.
 
-Los monitores se definen por su adaptador gráfico, el tamaño, la
-resolución (el número de pinceles), color o monocromático y calidad de
-despliegue.
-
-El despliegue en la PC es el modo texto o el modo gráfico. La resolución
-de  un monitor puede definirse en función del grado de punto. Se usa la
-escala de grises para referirse al número de tonos de un color que puede
-mostrar la pantalla de un monitor monocromático. Los cuatro tipos de
-monitor más usados en PC son: CGA, EGA, VGA, SVGA.
-
-Impresora. Dispositivo de salida que produce una copia impresa en papel.
+> Impresora. Dispositivo de salida que produce una copia impresa en papel.
 Hay muchos tipos de impresoras:
 
-Impresora de inyección de tinta. Impresora que produce imágenes rociando
-tinta en la página; imprime a velocidades altas y resulta económica.
-
-Impresora láser. Impresora rápida y silenciosa que produce salida de
-alta calidad. Un rayo láser enfocado en un tambor electrostático crea
-una imagen  a la que se adhiere la tinta en polvo (toner); esa imagen se
-transfiere al papel.
-
-Impresora térmica de cera. Impresora que produce imágenes de alta
-calidad basándose en una fuente de calor para evaporar cera de colores
-de una cinta, la cual se adhiere luego al papel.
-
-Impresora de sublimación de tintas. Impresora que produce imágenes con
-calidad fotográfica usando una fuente de calor para evaporar tintas de
-colores de una cinta, transfiriendo el color a un papel con
-recubrimiento especial. También se le llama transferencia térmica de
-tinta y difusión térmica de tinta.
-
-Impresora fiery. Impresora láser de color usada habitualmente para
-producir gráficos de alta calidad; la usan talleres de impresión y
-empresas editoriales.
-
-Impresora IRIS. Tipo de impresora de inyección de tinta que rocía la
-tinta en papel montado en un tambor giratorio. Se usa en talleres de
-impresión para producir gráficos de presentación de alta resolución y
-pruebas de color que se parecen a las imágenes a todo color impresas en
-offset.
-
-Plotter. Es como una impresora en vista de que produce imágenes en
+> Plotter. Es como una impresora en vista de que produce imágenes en
 papel, pero el plotter se usa para imprimir imágenes de formato grande,
  como dibujos de construcción o de ingeniería creados en un sistema CAD.
 
-Sistemas de sonido. Las bocinas y su tecnología asociada son sistemas
+> Sistemas de sonido. Las bocinas y su tecnología asociada son sistemas
 clave de salida. Cuando se compra una PC multimedia, se obtiene una
 máquina que incluye una unidad de CD-ROM, un controlador de video de
 alta calidad, bocinas y una tarjeta de sonido. Las bocinas conectadas a
@@ -1063,19 +1067,26 @@ ambas tecnologías.
 
 Los tipos principales de almacenamiento magnético son:
 
--   Disquetes.
--   Discos duros.
--   Discos duros removibles.
--   Cinta magnética.
+> Disquetes.
+
+> Discos duros.
+
+> Discos duros removibles.
+
+> Cinta magnética.
 
 Los tipos principales de almacenamiento óptico son:
 
--   Disco compacto de memoria de sólo lectura (CD-ROM).
--   Unidades escribir una vez, leer muchas (write once, read many;
+> Disco compacto de memoria de sólo lectura (CD-ROM).
+
+> Unidades escribir una vez, leer muchas (write once, read many;
     WORM).
--   Unidades regrabables de cambio de fase.
--   Disco magneto-ópticos.
--   Unidades ópticas.
+
+> Unidades regrabables de cambio de fase.
+
+> Disco magneto-ópticos.
+
+> Unidades ópticas.
 
 Las unidades de disquete y las unidades de disco duro se conocen como
 almacenamiento magnético porque registran los datos como campos
@@ -1089,21 +1100,6 @@ es posible con rayos láser. Un láser usa un rayo de luz reducido,
 concentrado, enfocado y dirigido con lentes, prismas y espejos. El foco
 conciso del rayo láser es posible debido a que toda la luz tiene la
 misma longitud de onda.
-
-#### Discos magnéticos 
-
-El tipo de disco magnético intercambiable más utilizado es el disquete
-(o disco flexible) de 3.5. pulgadas, aunque aún se encuentran discos de
-5.25 pulgadas. El disco magnético fijo de la microcomputadora también se
-llama disco duro. La unidad de disco óptico (unidad de disco zip) ofrece
-una capacidad de almacenamiento en disquetes intercambiables.
-
-Cintas magnéticas
-
-En la actualidad, el almacenamiento en cinta magnética ya no se usa con
- fines de procesamiento; sin embargo, aún tiene tres importantes
-funciones: se usa como medio de respaldo, para conservar archivo muerto
-y para llevar archivo de una computadora a otra.
 
 ### Sistema operativo 
 
@@ -1143,36 +1139,20 @@ microcomputadoras que son compatibles funcionalmente con la arquitectura
 IBM PC-AT de 1994 (la familia Intel de microprocesadores) y que ejecutan
 el sistema operativo MS-DOS. Esta plataforma domina por estas razones:
 
-La mayoría de los usuarios trabaja en un ambiente de un solo usuario,
+> La mayoría de los usuarios trabaja en un ambiente de un solo usuario,
 con una aplicación a la vez.
 
-Se han creado miles de paquetes de software para esta plataforma.
+> Se han creado miles de paquetes de software para esta plataforma.
 
-Millones de personas están familiarizadas con esta plataforma y tienen
+> Millones de personas están familiarizadas con esta plataforma y tienen
 reticencias para cambiarla.
 
-Los usuarios han hecho una tremenda inversión en el software y el
+> Los usuarios han hecho una tremenda inversión en el software y el
 hardware que se ejecuta en esta plataforma.
 
-Plataformas multiusuario, de nivel PC, se dividen en dos grupos: las que
+> Plataformas multiusuario, de nivel PC, se dividen en dos grupos: las que
 están basadas en UNIX y las que posibilitan la computación de trabajo en
 grupo.
-
-La plataforma multiusuario basada en UNIX es la más difundida y el tipo
-de  PC en la que se ejecuta. UNIX está disponible para PC compatibles
-con IBM, Macintosh y PC con PowerPC. Gran parte del software creado para
-esta plataforma se dirige a sistemas de información de oficinas o
-departamentos.
-
-Plataformas para trabajo en grupo. La nueva oleada de plataformas
-multiusuario incluye sistemas operativos que posibilitan la computación
-de trabajo en grupo en LAN. La computadora de trabajo en grupo permite a
-los usuarios de la red aumentar la colaboración y compartir ideas y
-recursos. Las plataformas para trabajo en grupo más notorias son
-productos de Microsoft, Windows 95 y Windows NT, otro sistema operativo
-de Microsoft. Para ejecutarse en plataformas de trabajo en grupo se
-desarrolla el software para grupos (groupware), como son los programas
-de mensajería, agendas, lluvia de ideas y citas.
 
 Los objetivos de los sistemas operativos se aplican a todos los sistemas
 de computación; sin embargo, los sistemas operativos de las mainframes y
@@ -1186,29 +1166,36 @@ microcomputadora.
 
 El sistema operativo realiza las siguientes funciones:
 
--   Provee las instrucciones para desplegar los elementos en pantalla
+> Provee las instrucciones para desplegar los elementos en pantalla
     con los cuales interactuamos. De manera colectiva, estos elementos
     se conocen como interfaz del usuario.
--   Carga programas (como programas de procesamiento de palabras y de
+
+> Carga programas (como programas de procesamiento de palabras y de
     hoja de cálculo) en la memoria de la computadora para que podamos
     usarlos.
--   Coordina cómo trabajan los programas con la CPU, RAM, teclado,
+
+> Coordina cómo trabajan los programas con la CPU, RAM, teclado,
     ratón, impresora y demás hardware, así como otro software.
--   Administra la forma en que se almacena la información y se recupera
+
+> Administra la forma en que se almacena la información y se recupera
     de los discos.
--   Facilita la comunicación entre el sistema de computación y la gente
+
+> Facilita la comunicación entre el sistema de computación y la gente
     que lo maneja. La interfaz a través de la cual los usuarios emiten
     los comandos relacionados con el sistema es parte del sistema
     operativo.
--   Facilita la comunicación entre los componentes del sistema de
+
+> Facilita la comunicación entre los componentes del sistema de
     computación. El sistema operativo administra los recursos del
     sistema para maximizar el rendimiento, esto es, la cantidad de
     procesamiento entre la unidad de tiempo.
--   Minimiza el tiempo necesario para ejecutar un comando del usuario.
+
+> Minimiza el tiempo necesario para ejecutar un comando del usuario.
     En los sistemas interactivos actuales, cualquier reducción del
     tiempo de espera por pequeña que sea, rinde dividendos en la
     eficiencia del usuario.
--   Optimiza el uso de los recursos del sistema de computación. El
+
+> Optimiza el uso de los recursos del sistema de computación. El
     sistema operativo está detectando constantemente cuáles tareas deben
     llevarse a cabo y  qué recursos (procesador, RAM y dispositivos
     periféricos) están disponibles para realizarlas. Cada milisegundo,
@@ -1246,7 +1233,7 @@ apagado. La naturaleza electrónica de la computadora le permite combinar
 estos dos estados para representar letras, números, colores, sonidos,
 imágenes, formas y mucho más (incluso olores).
 
-#### Códigos de representación de datos (ASCII, etcétera) {#h.iktkpfczol76 .c5}
+#### Códigos de representación de datos (ASCII, etcétera) 
 
 EBCDIC. IBM desarrolló el sistema EBCDIC (se pronuncia “Eb-si-dic”) que
 significa Código de intercambio de decimales codificados en binarios
