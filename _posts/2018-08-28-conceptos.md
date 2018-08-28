@@ -16,7 +16,7 @@ tags: [ 'información' , 'datos', 'computadoras', 'binario', 'bit']
                  top:0;
                  left: 0;
                  width: 100%;
-                 height: 100%;" width="550" height="400" src="https://marcoc76.github.io/musical-pancake/conceptos.html"></iframe></div><br><hr><br>
+                 height: 100%;" width="550" height="400" src="https://marcoc76.github.io/musical-pancake/conceptos.html"></iframe></div><br>
 
 Informática es una palabra que involucra en su estructura semántica dos
 términos: información y automática. Se acuñó en Francia hace 40 años con
