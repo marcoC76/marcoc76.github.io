@@ -274,21 +274,21 @@ Pseudocódigo de la suma de dos números
 Dado un número del 1 al 7, decir qué día de la semana es, partiendo de
 que el lunes es 1.
 
-+--------------------------------------------------------------------------+
-| Comienza\                                                                |
-|   Escribe ('día' )\                                                      |
-|   Lee día\                                                               |
-|   Caso día:\                                                             |
-|      1:Escribe ('Lunes' )\                                               |
-|     2:Escribe  ('Martes')\                                               |
-|      3:Escribe ('Miércoles' )\                                           |
-|     4:Escribe  ('Jueves')\                                               |
-|      5:Escribe ( 'Viernes')\                                             |
-|      6 :Escribe ('Sábado' )\                                             |
-|      7:Escribe  ('Domingo')\                                             |
-|   Fin\_caso\                                                             |
-| Termina                                                                  |
-+--------------------------------------------------------------------------+
+
+    Comienza
+        Escribe ('día' )          
+        Lee día                   
+        Caso día:                 
+            1:Escribe ('Lunes' )   
+            2:Escribe  ('Martes')   
+            3:Escribe ('Miércoles' )
+            4:Escribe  ('Jueves')   
+            5:Escribe ( 'Viernes')
+            6 :Escribe ('Sábado' ) 
+            7:Escribe  ('Domingo') 
+        Fin_caso                
+    Termina                      
+
 
 [https://g.co/doodle/ygxau2?ds=cl](https://www.google.com/url?q=https://g.co/doodle/ygxau2?ds%3Dcl&sa=D&ust=1537900270722000)
  
