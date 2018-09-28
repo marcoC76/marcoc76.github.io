@@ -1,9 +1,9 @@
 ---
 layout: post
 section-type: post
-title: CSS
-category: PrimerPeriodo
-tags: [ 'estilos' , 'casacada', 'color', 'funtes', 'tamaños']
+title: Algoritmos
+category: SegundoPeriodo
+tags: [ 'instrucciones' , 'pasos', 'secuencia', 'inicio', 'final']
 ---
 
 ### Presentación electronica
