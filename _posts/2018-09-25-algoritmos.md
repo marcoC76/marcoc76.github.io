@@ -53,7 +53,7 @@ adecuado. (Fase de codificación).
 La completa ejecución de un algoritmo debe finalizar con la producción
 del resultado esperado a partir de las entradas proporcionadas.
 
-![]({{ site.baseurl }}/img/image1.png)
+<!-- ![]({{ site.baseurl }}/img/image1.png) -->
 
 > Corresponde al insumo, a los datos necesarios que requiere el proceso
 para ofrecer los resultados esperados.
@@ -169,15 +169,15 @@ representa el tipo de operación a ejecutar.
 
 Elaboremos el algoritmo y el diagrama de flujo de la suma de dos números
 
-![]({{ site.baseurl }}/imgimage5.png)
+<!-- ![]({{ site.baseurl }}/imgimage5.png) -->
 
 Con base en lo anterior se aprecian los principales símbolos:
 
-![]({{ site.baseurl }}/img/image3.png)
+<!-- ![]({{ site.baseurl }}/img/image3.png) -->
 
 Otros símbolos son:
 
-![]({{ site.baseurl }}/img/image2.png)
+<!-- ![]({{ site.baseurl }}/img/image2.png) -->
 
 Cuando se utiliza el símbolo de decisión, puede ser simple o múltiple:
 
@@ -194,7 +194,7 @@ en caso no existir una opción equivalente al resultado, se podrá
 implementar una acción para una respuesta diferente a las esperadas.
 También se le llama estructura algorítmica selectiva múltiple.
 
-![]({{ site.baseurl }}/img/image4.png)
+<!-- ![]({{ site.baseurl }}/img/image4.png) -->
 
 Algunas reglas que debes de tener en cuenta al construir los diagramas
 de flujo son:
