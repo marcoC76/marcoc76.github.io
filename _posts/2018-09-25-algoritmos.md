@@ -83,26 +83,31 @@ Los algoritmos tienen las siguientes propiedades:
 
 > Un algoritmo debe ser preciso e indicar el orden de realización de
     cada paso.
+
 > Un algoritmo debe estar definido. Si se sigue un algoritmo dos
     veces, se debe obtener el mismo resultado cada vez.
+
 > Un algoritmo debe ser finito. Si se sigue un algoritmo, se debe
     terminar en algún momento; o sea, debe tener un número finito de
     pasos.
 
 Ejemplos de algoritmos
 
+<hr>
+
 Se quiere abrir una puerta, la persona se encuentra frente de ella,
 tiene la llave que abre
 
 ¿Qué pasos requieres hacer para abrirla?
 
-+--------------------------------------------------------------------------+
-| Paso 1 Coloca la llave en  la cerradura\                                 |
-| Paso 2 Gira la  llave a la derecha\                                      |
-| Paso 3 Da una vuelta\                                                    |
-| Paso 4 El pasador cede\                                                  |
-| Paso 5 La puerta se abre                                                 |
-+--------------------------------------------------------------------------+
+
+> Paso 1 Coloca la llave en  la cerradura                                 
+> Paso 2 Gira la  llave a la derecha                                  
+> Paso 3 Da una vuelta                                       
+> Paso 4 El pasador cede                                                 
+> Paso 5 La puerta se abre
+
+<hr>
 
 Algoritmo para comprar las boletas de entrada al cine.
 
@@ -134,6 +139,8 @@ Si no hay la película
 
 ​12. Fin
 
+<hr>
+
 Calcular el área y el perímetro de un rectángulo.
 
 Datos de entrada:
@@ -152,12 +159,12 @@ perímetro resulta de 2\*(base + altura)
 
 Algoritmo:
 
-+--------------------------------------------------------------------------+
-| Inicio\                                                                  |
-|   Leer (base , altura)\                                                  |
-|   area vale base\*altura\                                                |
-|   perimetro vale 2\*( base + altura)                                     |
-+--------------------------------------------------------------------------+
+
+ Inicio                                                                  
+   Leer (base , altura)                                                  
+   area vale base\*altura                                                
+   perimetro vale 2\*( base + altura)                                     
+
 
 ### Diagramas de flujo 
 
@@ -270,14 +277,13 @@ repetitivas.
 
 Pseudocódigo de la suma de dos números
 
-+--------------------------------------------------------------------------+
-| Comienza\                                                                |
-|   Lee (N1)\                                                              |
-|   Lee (N2)\                                                              |
-|   Suma = N1 + N2\                                                        |
-|   Escribe (Suma)\                                                        |
-| Termina                                                                  |
-+--------------------------------------------------------------------------+
+
+ Comienza                                                                
+   Lee (N1)                                                              
+   Lee (N2)                                                              
+   Suma = N1 + N2                                                        
+   Escribe (Suma)                                                        
+ Termina                                                                  
 
 Dado un número del 1 al 7, decir qué día de la semana es, partiendo de
 que el lunes es 1.
