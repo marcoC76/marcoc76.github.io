@@ -53,7 +53,7 @@ adecuado. (Fase de codificación).
 La completa ejecución de un algoritmo debe finalizar con la producción
 del resultado esperado a partir de las entradas proporcionadas.
 
-![]({{ site.baseurl }}/img/entradaysalida.png)
+![]({{ site.baseurl }}/img/entradaysalida.PNG)
 
 > Corresponde al insumo, a los datos necesarios que requiere el proceso
 para ofrecer los resultados esperados.
@@ -163,7 +163,7 @@ representa el tipo de operación a ejecutar.
 
 Elaboremos el algoritmo y el diagrama de flujo de la suma de dos números
 
-![]({{ site.baseurl }}/ejemplo.png)
+![]({{ site.baseurl }}/img/ejemplo.png)
 
 Con base en lo anterior se aprecian los principales símbolos:
 
@@ -185,7 +185,7 @@ en caso no existir una opción equivalente al resultado, se podrá
 implementar una acción para una respuesta diferente a las esperadas.
 También se le llama estructura algorítmica selectiva múltiple.
 
-![]({{ site.baseurl }}/img/decisionMultiple.png)
+![]({{ site.baseurl }}/img/decisionMultiple.jpg)
 
 Algunas reglas que debes de tener en cuenta al construir los diagramas
 de flujo son:
@@ -207,7 +207,7 @@ programación .
 ​6. No debe de llegar más de una línea a un símbolo.
 
 ![]({{ site.baseurl }}/img/joder.PNG)
-![]({{ site.baseurl }}/img/unicornio.JPEG)
+![]({{ site.baseurl }}/img/unicornio.jpeg)
 ![]({{ site.baseurl }}/img/image7.png)
 
 ### Pseudocódigo 
