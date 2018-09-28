@@ -264,12 +264,11 @@ repetitivas.
 
 Pseudocódigo de la suma de dos números
 
-
     Comienza                                                                
-         Lee (N1)                                                              
-         Lee (N2)                                                              
-         Suma = N1 + N2                                                        
-         Escribe (Suma)                                                        
+        Lee (N1)                                                              
+        Lee (N2)                                                              
+        Suma = N1 + N2                                                        
+        Escribe (Suma)                                                        
     Termina                                                                  
 
 Dado un número del 1 al 7, decir qué día de la semana es, partiendo de
