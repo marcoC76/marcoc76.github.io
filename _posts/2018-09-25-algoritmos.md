@@ -264,18 +264,18 @@ repetitivas.
 
 Pseudocódigo de la suma de dos números
 
-    Comienza                                                                
+    Inicio                                                                
         Lee (N1)                                                              
         Lee (N2)                                                              
         Suma = N1 + N2                                                        
         Escribe (Suma)                                                        
-    Termina                                                                  
+    Fin                                                                  
 
 Dado un número del 1 al 7, decir qué día de la semana es, partiendo de
 que el lunes es 1.
 
 
-    Comienza
+    Inicio
         Escribe ('día' )          
         Lee día                   
         Caso día:                 
@@ -287,10 +287,10 @@ que el lunes es 1.
             6 :Escribe ('Sábado' ) 
             7:Escribe  ('Domingo') 
         Fin_caso                
-    Termina                      
+    Fin                      
 
 
-[https://g.co/doodle/ygxau2?ds=cl](https://www.google.com/url?q=https://g.co/doodle/ygxau2?ds%3Dcl&sa=D&ust=1537900270722000)
+El conejo y las zanahorias](https://www.google.com/url?q=https://g.co/doodle/ygxau2?ds%3Dcl&sa=D&ust=1537900270722000)
  
 
 ### Lenguajes de programación 
