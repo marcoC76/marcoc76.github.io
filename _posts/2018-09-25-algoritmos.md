@@ -20,7 +20,7 @@ tags: [ 'estilos' , 'casacada', 'color', 'funtes', 'tamaños']
 
 [Pantalla completa](https://marcoc76.github.io/musical-pancake/algoritmos.html "Presentación en pantalla completa")
 
-### Algoritmos {#h.6xtg6gr38nye .c12}
+### Algoritmos 
 
 La lógica computacional está relacionada íntimamente con la manera en
 que utilizas tu pensamiento lógico, esto es, con la  forma en que
@@ -53,15 +53,15 @@ adecuado. (Fase de codificación).
 La completa ejecución de un algoritmo debe finalizar con la producción
 del resultado esperado a partir de las entradas proporcionadas.
 
-![](images/image1.png)
+![]({{ site.baseurl }}/img/image1.png)
 
-•Corresponde al insumo, a los datos necesarios que requiere el proceso
+> Corresponde al insumo, a los datos necesarios que requiere el proceso
 para ofrecer los resultados esperados.
 
-•Pasos necesarios para obtener la solución del problema o la situación
+> Pasos necesarios para obtener la solución del problema o la situación
 planteada.
 
-•Resultados arrojados por el proceso como solución.
+> Resultados arrojados por el proceso como solución.
 
 El orden en que se disponen los pasos del algoritmo debe ser riguroso;
 esto implica que deben existir unos pasos antes que otros u otros antes
@@ -81,11 +81,11 @@ humanos.
 
 Los algoritmos tienen las siguientes propiedades:
 
--   Un algoritmo debe ser preciso e indicar el orden de realización de
+> Un algoritmo debe ser preciso e indicar el orden de realización de
     cada paso.
--   Un algoritmo debe estar definido. Si se sigue un algoritmo dos
+> Un algoritmo debe estar definido. Si se sigue un algoritmo dos
     veces, se debe obtener el mismo resultado cada vez.
--   Un algoritmo debe ser finito. Si se sigue un algoritmo, se debe
+> Un algoritmo debe ser finito. Si se sigue un algoritmo, se debe
     terminar en algún momento; o sea, debe tener un número finito de
     pasos.
 
@@ -159,7 +159,7 @@ Algoritmo:
 |   perimetro vale 2\*( base + altura)                                     |
 +--------------------------------------------------------------------------+
 
-### Diagramas de flujo {#h.w5vyyc34fd0j .c12}
+### Diagramas de flujo 
 
 Un diagrama de flujo es una técnica que te permite la representación
 gráfica de un algoritmo, muestra los pasos o procesos para alcanzar la
@@ -169,15 +169,15 @@ representa el tipo de operación a ejecutar.
 
 Elaboremos el algoritmo y el diagrama de flujo de la suma de dos números
 
-![](images/image5.png)
+![]({{ site.baseurl }}/imgimage5.png)
 
 Con base en lo anterior se aprecian los principales símbolos:
 
-![](images/image3.png)
+![]({{ site.baseurl }}/img/image3.png)
 
 Otros símbolos son:
 
-![](images/image2.png)
+![]({{ site.baseurl }}/img/image2.png)
 
 Cuando se utiliza el símbolo de decisión, puede ser simple o múltiple:
 
@@ -186,7 +186,7 @@ del resultado, se selecciona uno de los caminos establecidos.  Este
 símbolo también es conocido como estructura algorítmica (o de control)
 selectiva sí entonces y sí entonces / sino.
 
-![](images/image6.png)
+![]({{ site.baseurl }}/img/image6.png)
 
 Decisión múltiple: En su interior se evalúa una condición, y a partir
 del valor del resultado, se selecciona una de las acciones planteadas ,
@@ -194,7 +194,7 @@ en caso no existir una opción equivalente al resultado, se podrá
 implementar una acción para una respuesta diferente a las esperadas.
 También se le llama estructura algorítmica selectiva múltiple.
 
-![](images/image4.png)
+![]({{ site.baseurl }}/img/image4.png)
 
 Algunas reglas que debes de tener en cuenta al construir los diagramas
 de flujo son:
@@ -215,9 +215,9 @@ programación .
 
 ​6. No debe de llegar más de una línea a un símbol o.
 
-![](images/image7.png)
+![]({{ site.baseurl }}/img/image7.png)
 
-### Pseudocódigo {#h.o5cmuqplycc1 .c12}
+### Pseudocódigo 
 
 Una de las formas de especificar un algoritmo es mediante la escritura
 en lenguaje natural  de una secuencia de pasos numerados. El regreso a
@@ -252,21 +252,21 @@ lenguaje de programación.
 
 Con base en esto tenemos que:
 
-\> El pseudocódigo es compacto.
+> El pseudocódigo es compacto.
 
-\> Puede modificarse fácilmente.
+> Puede modificarse fácilmente.
 
-\> Se utilizan palabras claves en mayúsculas en español , que
+> Se utilizan palabras claves en mayúsculas en español , que
 identifican las estructuras algorítmicas secuenciales, selectivas y
 repetitivas.
 
-\> Se construye de manera estructurada (de arriba hacia abajo).
+> Se construye de manera estructurada (de arriba hacia abajo).
 
-\> No existen reglas estándar para utilizarlo.
+> No existen reglas estándar para utilizarlo.
 
-\> No se tiene una representación gráfica de la lógica del programa ,
+> No se tiene una representación gráfica de la lógica del programa ,
 
-\> No puede ser representado en una computadora .
+> No puede ser representado en una computadora .
 
 Pseudocódigo de la suma de dos números
 
@@ -301,7 +301,7 @@ que el lunes es 1.
 [https://g.co/doodle/ygxau2?ds=cl](https://www.google.com/url?q=https://g.co/doodle/ygxau2?ds%3Dcl&sa=D&ust=1537900270722000)
  
 
-### Lenguajes de programación {#h.1456eh6xmix1 .c12}
+### Lenguajes de programación 
 
 Cuando se aplica cualquier metodología para la resolución de problemas,
 con la intención de presentar un programa que se pueda ejecutar en la
