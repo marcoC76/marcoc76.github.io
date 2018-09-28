@@ -160,10 +160,10 @@ perímetro resulta de 2\*(base + altura)
 Algoritmo:
 
 
- Inicio                                                                  
-   Leer (base , altura)                                                  
-   area vale base\*altura                                                
-   perimetro vale 2\*( base + altura)                                     
+    Inicio                                                                  
+        Leer (base , altura)                                                  
+        area vale base\*altura                                                
+    perimetro vale 2\*( base + altura)                                     
 
 
 ### Diagramas de flujo 
