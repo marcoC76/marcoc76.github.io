@@ -111,33 +111,20 @@ tiene la llave que abre
 
 Algoritmo para comprar las boletas de entrada al cine.
 
-​1. Inicio
-
-​2. Seleccionar la película
-
-​3. Llegar al lugar de proyección de la película
-
-​4. Revisar la cartelera
-
-​5. Hacer la fila de pago
-
-​6. Esperar el turno
-
-​7. Solicitar la película.
-
-    Si la hay
-
-​       8. Entregar el dinero
-
-​       9. Esperar por las boletas y la diferencia de pago
-
-​       10. Retirarse
-
-    Si no hay la película
-
-​       11. Escoger otra película o retirarse
-
-​12. Fin
+    ​1. Inicio
+    ​2. Seleccionar la película
+    ​3. Llegar al lugar de proyección de la película
+    ​4. Revisar la cartelera
+    ​5. Hacer la fila de pago
+    ​6. Esperar el turno
+    ​7. Solicitar la película.
+        Si la hay
+    ​       8. Entregar el dinero
+    ​       9. Esperar por las boletas y la diferencia de pago
+    ​       10. Retirarse
+        Si no hay la película
+    ​       11. Escoger otra película o retirarse
+    ​12. Fin
 
 <hr>
 
@@ -278,12 +265,12 @@ repetitivas.
 Pseudocódigo de la suma de dos números
 
 
- Comienza                                                                
-   Lee (N1)                                                              
-   Lee (N2)                                                              
-   Suma = N1 + N2                                                        
-   Escribe (Suma)                                                        
- Termina                                                                  
+    Comienza                                                                
+         Lee (N1)                                                              
+         Lee (N2)                                                              
+         Suma = N1 + N2                                                        
+         Escribe (Suma)                                                        
+    Termina                                                                  
 
 Dado un número del 1 al 7, decir qué día de la semana es, partiendo de
 que el lunes es 1.
