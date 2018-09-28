@@ -125,17 +125,17 @@ Algoritmo para comprar las boletas de entrada al cine.
 
 ​7. Solicitar la película.
 
-Si la hay
+    Si la hay
 
-​8. Entregar el dinero
+​       8. Entregar el dinero
 
-​9. Esperar por las boletas y la diferencia de pago
+​       9. Esperar por las boletas y la diferencia de pago
 
-​10. Retirarse
+​       10. Retirarse
 
-Si no hay la película
+    Si no hay la película
 
-​11. Escoger otra película o retirarse
+​       11. Escoger otra película o retirarse
 
 ​12. Fin
 
