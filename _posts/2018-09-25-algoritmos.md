@@ -206,7 +206,7 @@ programación .
 
 ​6. No debe de llegar más de una línea a un símbolo.
 
-![]({{ site.baseurl }}/img/joder.PNG)
+![]({{ site.baseurl }}/img/joder.png)
 ![]({{ site.baseurl }}/img/unicornio.jpeg)
 ![]({{ site.baseurl }}/img/image7.png)
 
