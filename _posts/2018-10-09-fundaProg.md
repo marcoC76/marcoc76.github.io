@@ -516,18 +516,15 @@ JavaScript nos permite utilizar else.
 El programa solo puede ejecutar una de las dos opciones, por tanto una
 parte del código quedará sin ejecutarse.
 
-
     if(condicion) {                                                           
         bloque_de_codigo_1                                                     
     }else{                                                                    
       bloque_de_codigo_2                                                     
     }                                                                          
 
-
 Con este tipo de sentencia, si se cumple la condición pasa como el
 anterior modelo, se ejecuta el bloque de código 1, y si la condición a
 evaluar no se cumple, se ejecuta el bloque de código 2.
-
 
     console.log( "pase lo que pase... esto se ejecutará" );                    
     if  ( true ) {                                                             
@@ -536,7 +533,6 @@ evaluar no se cumple, se ejecuta el bloque de código 2.
         console.log( "false, por eso me ejecuto" );                             
     }                                                                           
         console.log( "pase lo que pase... esto se ejecutará también" );          
-
 
 ### Sentencia Switch  
 
@@ -547,7 +543,6 @@ utiliza la palabra break que permite salir de toda la sentencia. Tiene
 un bloque default que se ejecuta en el caso de que no se cumpla ningún
 caso. Veamos un ejemplo, esto sería un switch siguiendo el ejemplo
 anterior del if-else :
-
 
     switch (condicion) {                                                        
         case  condicion_1:                                                        
@@ -562,7 +557,6 @@ anterior del if-else :
         default :                                                                  
             bloque_4                                                                   
     }                                                                          
-
 
 El bloque default no es obligatorio.
 
@@ -584,7 +578,6 @@ if-else
 
 Entendiendo la estructura:
 
-
     switch (expresión) {                                                        
      case  n1:                                                                  
      //Código                                                                   
@@ -596,9 +589,7 @@ Entendiendo la estructura:
      //Código                                                                   
     }                                                                          
 
-
 Trabajando con “casos únicos”:
-
 
     var  nombre = "" ;                                                          
      switch  (nombre) {                                                         
@@ -622,7 +613,6 @@ Es una colección de datos que pueden ser números, strings, objetos,
 otros arrays, etc… Se puede crear de dos formas con el literal [...] o
 creando una nueva instancia de la clase Array
 
-
     var  miArray = [];                                                          
      var  miArray = new   Array ();                                             
      var  miArray = [ 1 , 2 , 3 , 4 ]; // Array de números                      
@@ -633,22 +623,17 @@ creando una nueva instancia de la clase Array
      var  miArray = [ 1 , true , [ 3 , 2 ], "Hola" , { clave : "valor" }];     
     // Array mixto                                                             
 
-
 Se puede acceder a los elementos del array a través de su índice y con
 length conocer su longitud.
-
 
     var  miArray = [ "uno" , "dos" , "tres" ];                                  
     miArray[ 1 ]; // Devuelve: "dos"                                            
     miArray.length; // Devuelve 3                                              
 
-
 Si accedemos a una posición que no existe en el array, nos devuelve
 undefined .
 
-
     miArray[ 8 ]; // undefined                                                 
-
 
 ### String  
 
@@ -660,7 +645,6 @@ Un string se comporta como un Array, no es más que un conjunto de
 caracteres, con índices que van desde el 0 para el primer carácter hasta
 el último. Veamos algunos ejemplos de cómo acceder a los caracteres y
 los métodos que posee esta clase.
-
 
     // Supongamos el string  con el texto "javascript"                          
      "javascript" [ 2 ] // Acceso como array, devuelve el tercer carácter v    
@@ -675,18 +659,14 @@ los métodos que posee esta clase.
      comprendida entre los indices 4  y 10 -Para crear un string  podemos      
     hacerlo con notación de tipo o creando un nuevo objeto.                    
 
-
 Por simplicidad se utiliza la forma primitiva.
-
 
     var  texto = "Hola Mundo" ;                                                 
     var  texto = new   String ( "Hola Mundo" );                               
 
-
 Un string puede ser transformado en array con el método split()
 pasándole como parámetro el delimitador que queramos que separe los
 elementos. Por ejemplo:+
-
 
     var fecha = new Date();                                                     
     fecha = fecha.toString(); // "Wed May 20 2015 20:16:25 GMT+0200 (CEST)"    
@@ -730,26 +710,21 @@ bucle while:
 
 Código: JavaScript
 
-
     while (condicion) {                                                         
     sentencia_1;                                                             
     sentencia_2;                                                             
     sentencia_3;                                                             
     }                                                                          
 
-
 ##### Funcionamiento  
 
 > Estructura:
-
 
     while(-Condición-) {                                                      
     -Instrucciones>                                                           
     };                                                                         
 
-
 > Ejemplo:
-
 
     var  condicion = true                                                       
      while  (condicion) {                                                       
@@ -757,10 +732,8 @@ Código: JavaScript
     condicion = false ;                                                         
     };                                                                         
 
-
 Por ejemplo si queremos mostrar por consola los números del 1 al 10, con
 un bucle while sería así:
-
 
     var  i = 1 ; // Inicialización                                              
      while  (i   < 11 ) { // Condición de permanencia                            
@@ -768,7 +741,6 @@ un bucle while sería así:
     i++; // Actualización de la variable de control                             
     }                                                                           
      // Devuelve: 1 2 3 4 5 6 7 8 9 10                                         
-
 
 #### Do while  
 
@@ -781,12 +753,11 @@ while es:
 
 Código: JavaScript
 
-
     do {                                                                        
     sentenci a  _1 ;                                                             
     sentenci a  _2 ;                                                             
     sentenci a  _3 ;                                                             
-    } while (condición) ;                                                      
+    } while (condición) ;
 
 
 Hay una diferencia fundamental de escritura respecto al bucle while, que
@@ -796,7 +767,6 @@ porque los programadores suelen emplear un bucle while normal con una
 condición que hace que siempre se ejecute una vez. Atención a la
 sintaxis del ciclo do while: hay un punto y coma después del paréntesis
 de cierre de while.
-
 
     var  i = 1 ;                                                                
      do  {                                                                      
@@ -851,11 +821,9 @@ Se ejecutará al final de cada iteración.
 Es un error muy común y deberías evitarlo a toda costa. Suele ocurrir
 cuando no tenemos una estructura de control funcionando adecuadamente.
 
-
     while  ( true ) {                                                           
      console .log( "Este texto se imprime hasta el infinito..." );              
-    };                                                                         
-
+    };
 
 ##### Bucle que no se ejecutará  
 
@@ -864,14 +832,11 @@ jamás se ejecuta…
 
 ¡sobra!
 
-
     while  ( false ) {                                                          
      console .log( "Este texto jamas se imprimirá..." );                        
-    };                                                                         
-
-
+    };
+    
 Ejemplo:
-
 
    var  control = 1 ;                                                          
     while  (control   <= 10 ) {                                                 
@@ -896,11 +861,9 @@ Los Paréntesis pueden Incluir nombres de Parámetros Separados por comas:
 
 El código se ejecutará Que, por la Función, se Coloca Entre llaves: {}
 
-
     function   name (parameter1, parameter2, parameter3) {                      
         //code to be executed                                                   
-    }                                                                          
-
+    }
 
 Función parámetros se enumerar dentro de la paréntesis () en la
 definición de función.
@@ -921,23 +884,18 @@ entidades de orden superior.
 
 Como valor de una variable:
 
-
     var  miFuncion = function (){                                               
        console.log( "Hola!" );                                                  
-    }                                                                          
-
+    }
 
 > Ejecutar funciones
 
 Ahora ejecutamos nuestras propias funciones y métodos.
 
-
     var  miFuncion = function (){                                               
        console.log( "Hola!" );                                                 
     }                                                                           
-                                                                               
-   miFuncion();                                                                
-
+   miFuncion();
 
 Las funciones normalmente, al acabar su ejecución devuelven un valor,
 que conseguimos con el parámetro return . Se declaran con la palabra
@@ -946,7 +904,6 @@ invocarlas más adelante. Si no llevan nombre se les llama funciones
 anónimas.
 
 Veamos un ejemplo de función:
-
 
     var saludar = function  (nombre) {                                      
        return  ( "Hola "  + nombre + "!" );                                 
