@@ -543,50 +543,50 @@ de otras personas.
 
 ## Algunas ventajas son:
 
-1 Te permiten conocer personas, y reconectarte con aquellos que tenías
+> Te permiten conocer personas, y reconectarte con aquellos que tenías
     años sin ver
 
-2 Te permite estar al día con esas personas
+> Te permite estar al día con esas personas
 
-3 Te permite organizar eventos, y hasta enviar invitaciones sin
+> Te permite organizar eventos, y hasta enviar invitaciones sin
     siquiera pararte de la silla
 
-4 Incluso hasta podrás estar informado sobre hechos y eventos
+> Incluso hasta podrás estar informado sobre hechos y eventos
     actuales, tanto sociales como académicos, políticos, de cualquier
     índole
 
-5 La facilidad de tener álbumes digitales, en el caso de MySpace y
+> La facilidad de tener álbumes digitales, en el caso de MySpace y
     Facebook
 
-6 Tienes la opción de bloquear usuarios no deseados
+> Tienes la opción de bloquear usuarios no deseados
 
 
 ## Algunas desventajas son:
 
-1 Permite que personas no deseadas se enteren de todos tus
+> Permite que personas no deseadas se enteren de todos tus
     movimientos.
 
-2 Tus imágenes cargadas pueden ser utilizadas para cualquier fin.
+> Tus imágenes cargadas pueden ser utilizadas para cualquier fin.
 
-3 Tu vida deja de ser privada. Los datos que se proporcionan a los
+> Tu vida deja de ser privada. Los datos que se proporcionan a los
     administradores de las redes entran a formar parte de los archivos
     de estos. Al mismo tiempo, un mal uso de las redes puede llevar a
     facilitar datos propios, de familiares o amigos. Existe además el
     llamado “phising”, llevado a cabo por quienes roban contraseñas de
     acceso de otras personas para manipular o espiar sus sesiones.
 
-1 Acceso a contenidos inadecuados. Pueden ser de diverso tipo:
+> Acceso a contenidos inadecuados. Pueden ser de diverso tipo:
     violentos, de índole sexual, relacionados con el consumo de
     sustancias estupefacientes, lenguaje soez, etc.
 
-2 Acoso por parte de compañeros o conocidos. Por un lado, el
+> Acoso por parte de compañeros o conocidos. Por un lado, el
     ciberbullying, el acoso llevado a cabo por compañeros del centro
     escolar. Por otra parte está el cibergooming que efectúan adultos
     que buscan entrar en contacto con menores para primero obtener sus
     imágenes y otra información que después utilizan para lograr nuevas
     exigencias.
 
-3 Puedes llegar a perder más tiempo pendiente de lo que ocurre allí
+> Puedes llegar a perder más tiempo pendiente de lo que ocurre allí
     que en tu vida real.
 
     
