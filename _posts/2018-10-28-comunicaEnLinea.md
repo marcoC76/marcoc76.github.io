@@ -20,7 +20,7 @@ tags: [ 'Correo' , 'electrónico', 'foro', 'chat', 'redes', 'sociales']
 
 [Pantalla completa](https://marcoc76.github.io/musical-pancake/comuicaOnline.html "Presentación en pantalla completa")
 
-### Herramientas de la información y comunicación 
+# Herramientas de la información y comunicación 
 
 Correo electrónico 
 ------------------
@@ -36,23 +36,23 @@ enviar un email.
 > 1978: Se envía el primer anuncio a través de medios electrónicos en una
 red gubernamental y universitaria.
 
-1982: Se utiliza por primera vez la palabra “email”.
+> 1982: Se utiliza por primera vez la palabra “email”.
 
-1982: Scott Fahlman inventa el primer “emoticono”.
+> 1982: Scott Fahlman inventa el primer “emoticono”.
 
-1997: Microsoft compra Hotmail por alrededor de 400 millones de dólares.
+> 1997: Microsoft compra Hotmail por alrededor de 400 millones de dólares.
 
-1998: El diccionario Oxford incorpora la palabra “spam” a sus entradas.
+> 1998: El diccionario Oxford incorpora la palabra “spam” a sus entradas.
 
-2003: En un episodio de Los Simpsons, Homer revela su dirección de
+> 2003: En un episodio de Los Simpsons, Homer revela su dirección de
 correo electrónico: chunkylover53@aol.com.
 
-2004: LOL y otros acrónimos surgidos al calor de internet son incluidos
+> 2004: LOL y otros acrónimos surgidos al calor de internet son incluidos
 en el diccionario Oxford.
 
-2007: Google lanza Gmail.
+> 2007: Google lanza Gmail.
 
-2011: El libro de estilo de la agencia Associated Press cambia el
+> 2011: El libro de estilo de la agencia Associated Press cambia el
 término “e-mail” por “email”.
 
 ### FUNCIONAMIENTO DEL CORREO ELECTRÓNICO 
@@ -116,21 +116,24 @@ reglas con el objeto de respetar a los emisores y receptores de mensajes
 y asegurar un comportamiento correcto en los mensajes. Entre estas
 normas se destacan las siguientes:
 
--   Lectura del correo. Los mensajes deben leerse con regularidad (una o
+> Lectura del correo. Los mensajes deben leerse con regularidad (una o
     dos veces al día) y ser respondidos con la mayor celeridad posible.
     El retraso en la recepción y envío es una actitud poco educada hacia
     los demás interlocutores y puede hacer que algún mensaje importante
     no cumpla su función comunicativa a tiempo.
--   Identificar el asunto. Es importante rellenar el campo Asunto con el
+
+> Identificar el asunto. Es importante rellenar el campo Asunto con el
     objeto de que el receptor priorice la lectura de los mensajes.
     Cuando el volumen de correo es grande facilita enormemente la tarea.
--   Identificarse como emisor. Aunque el receptor de los mensajes
+
+> Identificarse como emisor. Aunque el receptor de los mensajes
     siempre puede conocer la dirección de correo del emisor, ésta es
     insuficiente para identificar a quién envía el mensaje. Introducir
     una "firma", es decir, un breve texto con datos esenciales (nombre,
     dirección, cargo, organización, teléfono, etc.) es una opción
     oportuna.
--   Cuidar la expresión. Un escrito con errores sintácticos u
+
+> Cuidar la expresión. Un escrito con errores sintácticos u
     ortográficos produce un efecto negativo en el receptor. Es fácil
     cometer errores si los mensajes se redactan con excesiva rapidez.
     Algunos programas poseen un corrector ortográfico para avisar y
@@ -138,28 +141,33 @@ normas se destacan las siguientes:
     de correo es percibido por el receptor como si le estuvieran
     gritando, por lo que debería evitarse. Es recomendable se parar el
     texto en párrafos para facilitar su lectura.
--   Concisión. Los mensajes electrónicos han de ser breves y expresar
+
+> Concisión. Los mensajes electrónicos han de ser breves y expresar
     con precisión lo que se quiere comunicar. Los textos largos no serán
     leídos en su totalidad en la mayoría de los casos. En cualquier
     caso, la concisión no debería conducir a la ambigüedad o la
     confusión.
--   Evitar los envíos masivos de mensajes. La facilidad con la que un
+
+> Evitar los envíos masivos de mensajes. La facilidad con la que un
     mensaje puede ser distribuido entre diversos receptores puede hacer
     que determinados contenidos se envíen a personas que no estén
     interesadas en su contenido. A nadie le gusta perder su tiempo en
     algo inútil.
--   Utilizar la prioridad con mesura. Algunos programas de correo
+
+> Utilizar la prioridad con mesura. Algunos programas de correo
     permiten etiquetar los mensajes con algunas señales que indican
     urgencia o prioridad alta. Estas opciones sólo deben ser utilizadas
     cuando el mensaje así lo exija, ya que un uso abusivo las convierte
     en ineficaces por la incredulidad del receptor.
--   Usar en la respuesta parte del texto recibido. En ocasiones para
+
+> Usar en la respuesta parte del texto recibido. En ocasiones para
     clarificar las razones de una respuesta puede ser necesario
     introducir en el mensaje algunas frases del correo al que se está
     respondiendo. Esto es muy útil porque puede que el receptor no
     recuerde con exactitud lo que escribió, o que quien responde no
     comprenda adecuadamente las intenciones comunicativas del emisor.
--   Controlar el tamaño de los mensajes. Para facilitar la agilidad en
+
+> Controlar el tamaño de los mensajes. Para facilitar la agilidad en
     la recepción y envió de los mensajes, éstos no deben ocupar mucho
     (no más de 50 Kb). Hay que tener cuidado especialmente cuando se
     adjunta con el mensaje algún fichero (por ejemplo, un documento de
@@ -180,13 +188,13 @@ Los primeros mensajes de correo electrónico solo incluían texto; luego
 se intercambiaron mensajes con archivos; y en la actualidad es posible
 enviar un mensaje en formato HTML.
 
-1.  Cuando un usuario envía un correo, el mensaje se dirige hasta el
+1 Cuando un usuario envía un correo, el mensaje se dirige hasta el
     buzón de correo de su proveedor de Internet.
 
-2.  Luego este lo almacena y lo reenvía al servidor de correo del
+2 Luego este lo almacena y lo reenvía al servidor de correo del
     destinatario, donde se guarda.
 
-3.  Y cuando el destinatario solicita sus mensajes, el servidor de
+3 Y cuando el destinatario solicita sus mensajes, el servidor de
     correo del proveedor se los envía.
 
 Todo esto se realiza en un período de tiempo breve. Pocos minutos bastan
@@ -195,7 +203,10 @@ para que llegue el mensaje hasta su destino.
 El formato que presentan las cuentas de correo es el
 siguiente:NombreUsuario@SUbdominio.dominio
 
-Ej.: claudio99@hotmail.com  ,  sony@yahoo.com.ar
+Ej: 
+
+    claudio99@hotmail.com
+    sony@yahoo.com.ar
 
 También tenemos la opción de adjuntar archivos al mensaje. Esta función
 nos permite enviar datos informáticos, independientemente del tipo que
@@ -238,20 +249,20 @@ innumerables que gastaría mucho tiempo crear una cuenta en cada uno de
 ellos, tanto que las empresas tienen su página web en la cual también
 ofrece un servidor de correo corporativo para su personal de trabajo. A
 continuación veremos los servidores o proveedores de correo electrónico
-mas importantes.\
-\
- 1. Gmail: Es posiblemente el mejor proveedor de servicios de correo
+mas importantes.
+
+1 Gmail: Es posiblemente el mejor proveedor de servicios de correo
 electrónico gratuito del momento porque es simple y fácil de usar,
 además viene incorporado en el sistema operativo Android siendo este el
-más popular del mercado para teléfonos inteligentes.\
-\
- 3. Outlook.com: es el nuevo servicio de correo electrónico de Hotmail,
-es muy fácil de usar con una interfaz muy entretenida.\
-\
- 5. Yahoo! Mail: se encuentra entre los mejores servicios de correo
-electrónicos gratuitos disponibles en la web y dispositivos móviles.\
+más popular del mercado para teléfonos inteligentes.
 
-​7. Yopmail YOPmail no es más que un servicio de correo electrónico
+3 Outlook.com: es el nuevo servicio de correo electrónico de Hotmail,
+es muy fácil de usar con una interfaz muy entretenida.
+
+5 Yahoo! Mail: se encuentra entre los mejores servicios de correo
+electrónicos gratuitos disponibles en la web y dispositivos móviles.
+
+​7 Yopmail: no es más que un servicio de correo electrónico
 temporal, anónimo y sin registro. Más falso que los billetes de 666
 euros. ¿Qué significa esto? Que todas las cuentas de correo ya existen y
 sus buzones están disponibles para su consulta inmediata desde
@@ -355,23 +366,23 @@ mensajes basados ​​en texto.
 En general, la mayoría de los programas de chat tienen las siguientes
 características:
 
-Mensajes instantáneos – El chat permiten enviar y recibir notas con un
+> Mensajes instantáneos – El chat permiten enviar y recibir notas con un
 participante que este en línea
 
-Salón de Chat – El chat Crear una sala de chat con sus amigos o
+> Salón de Chat – El chat Crear una sala de chat con sus amigos o
 compañeros de trabajo
 
-Enlaces Web – El chat permite compartir enlaces de sitios web y noticias
+> Enlaces Web – El chat permite compartir enlaces de sitios web y noticias
 
-Video – El chat permite visualizar videos para chatear cara a cara con
+> Video – El chat permite visualizar videos para chatear cara a cara con
 otras personas
 
-Imágenes – El chat permite compartir imágenes almacenadas en el
+> Imágenes – El chat permite compartir imágenes almacenadas en el
 ordenador
 
-Audio – El chat permite compartir sonidos
+> Audio – El chat permite compartir sonidos
 
-Archivos – El chat permite enviar o recibir archivos con los
+> Archivos – El chat permite enviar o recibir archivos con los
 participantes
 
 #### Chats basados en la web o Salas de Chat 
@@ -485,15 +496,22 @@ Los clientes que compran en Internet se denominan  ciberconsumidores .
 El  comercio electrónico no se limita a las ventas en línea, sino que
 también abarca:
 
--   La preparación de presupuestos en línea
--   Las consultas de los usuarios
--   El suministro de catálogos electrónicos
--   Los planes de acceso a los puntos de venta
--   La gestión en tiempo real de la disponibilidad de los productos
+> La preparación de presupuestos en línea
+
+> Las consultas de los usuarios
+
+> El suministro de catálogos electrónicos
+
+> Los planes de acceso a los puntos de venta
+
+> La gestión en tiempo real de la disponibilidad de los productos
     (existencias)
--   Los pagos en línea
--   El rastreo de las entregas
--   Los servicios posventa
+
+> Los pagos en línea
+
+> El rastreo de las entregas
+
+> Los servicios posventa
 
 En algunos casos, el comercio electrónico permite personalizar los
 productos de manera significativa, en especial si el sitio de comercio
@@ -525,17 +543,17 @@ como subtítulos, gráficos, textos, fotografías, animaciones y películas.
 
 #### Beneficios de la Videoconferencia 
 
-Disminuye las distancias, reduciendo tiempos y costos.
+> Disminuye las distancias, reduciendo tiempos y costos.
 
-Favorece y aumenta a la productividad de los equipos de trabajo.
+> Favorece y aumenta a la productividad de los equipos de trabajo.
 
-Maximiza el tiempo de empleados y ejecutivos.
+> Maximiza el tiempo de empleados y ejecutivos.
 
-Fortalece la participación y relación entre las personas.
+> Fortalece la participación y relación entre las personas.
 
-Mejora los sistemas de información y comunicación de la empresa.
+> Mejora los sistemas de información y comunicación de la empresa.
 
-Acelera el proceso de toma de decisiones y resolución de problemas.
+> Acelera el proceso de toma de decisiones y resolución de problemas.
 
 ### Descarga de archivos 
 
@@ -598,15 +616,18 @@ peso.
 
 El streaming funciona de la siguiente forma:
 
-1.  Conexión con el servidor. El reproductor cliente conecta con el
+1 Conexión con el servidor. El reproductor cliente conecta con el
     servidor remoto y éste comienza a enviarle el archivo.
-2.  Buffer. El cliente comienza a recibir el fichero y construye un
+
+2 Buffer. El cliente comienza a recibir el fichero y construye un
     buffer o almacén donde empieza a guardarlo.
-3.  Inicio de la reproducción. Cuando el buffer se ha llenado con una
+
+3 Inicio de la reproducción. Cuando el buffer se ha llenado con una
     pequeña fracción inicial del archivo original, el reproductor
     cliente comienza a mostrarlo mientras continúa en segundo plano con
     el resto de la descarga.
-4.  Caídas de la velocidad de conexión. Si la conexión experimenta
+
+4 Caídas de la velocidad de conexión. Si la conexión experimenta
     ligeros descensos de velocidad durante la reproducción, el cliente
     podría seguir mostrando el contenido consumiendo la información
     almacenada en el buffer. Si llega a consumir todo el buffer se
@@ -615,14 +636,15 @@ El streaming funciona de la siguiente forma:
 El streaming puede ser de dos tipos dependiendo de la tecnología
 instalada en el servidor:
 
--   Descarga progresiva. Se produce en servidores web que disponen de
+> Descarga progresiva. Se produce en servidores web que disponen de
     Internet Information Server (IIS), Apache, Tomcat, etc. El archivo
     de vídeo o audio solicitado por el cliente es liberado por el
     servidor como cualquier otro archivo utilizando el protocolo HTTP.
     Sin embargo, si el archivo ha sido especialmente empaquetado para
     streaming, al ser leído por el reproductor cliente, se iniciará en
     streaming en cuanto se llene el buffer.
--   Transmisión por secuencias. Se produce en servidores multimedia que
+
+> Transmisión por secuencias. Se produce en servidores multimedia que
     disponen de un software especial para gestionar más óptimamente el
     streaming de audio y vídeo: Windows Media Server, Flash
     Communication Server, etc.
@@ -630,18 +652,23 @@ instalada en el servidor:
 La utilización de un servidor multimedia ofrece múltiples ventajas
 frente al servidor web. Las más destacadas son:
 
--   Mayor rapidez en la visualización de este tipo de contenidos.
--   La comunicación entre servidor/cliente se puede realizar por
+> Mayor rapidez en la visualización de este tipo de contenidos.
+
+> La comunicación entre servidor/cliente se puede realizar por
     protocolos alternativos al HTTP. Tiene el inconveniente del bloqueo
     impuesto por Firewalls pero tiene la ventaja de una mayor rapidez.
--   Mejor gestión del procesador y ancho de banda de la máquina del
+
+> Mejor gestión del procesador y ancho de banda de la máquina del
     servidor ante peticiones simultáneas de varios clientes del mismo
     archivo de audio o vídeo.
--   Control predefinido sobre la descarga que pueden realizar los
+
+> Control predefinido sobre la descarga que pueden realizar los
     clientes: autentificada, filtrada por IP, sin almacenarla en la
     caché del cliente, etc.
--   Mayor garantía de una reproducción ininterrumpida gracias al
+
+> Mayor garantía de una reproducción ininterrumpida gracias al
     establecimiento de una conexión de control inteligente entre
     servidor y cliente.
--   Posibilidad de distribución de transmisiones de audio y vídeo en
+    
+> Posibilidad de distribución de transmisiones de audio y vídeo en
     directo.
