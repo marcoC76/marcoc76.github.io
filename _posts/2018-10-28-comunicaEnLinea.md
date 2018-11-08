@@ -188,13 +188,13 @@ Los primeros mensajes de correo electrónico solo incluían texto; luego
 se intercambiaron mensajes con archivos; y en la actualidad es posible
 enviar un mensaje en formato HTML.
 
-1. Cuando un usuario envía un correo, el mensaje se dirige hasta el
+> 1. Cuando un usuario envía un correo, el mensaje se dirige hasta el
     buzón de correo de su proveedor de Internet.
 
-2. Luego este lo almacena y lo reenvía al servidor de correo del
+> 2. Luego este lo almacena y lo reenvía al servidor de correo del
     destinatario, donde se guarda.
 
-3. Y cuando el destinatario solicita sus mensajes, el servidor de
+> 3. Y cuando el destinatario solicita sus mensajes, el servidor de
     correo del proveedor se los envía.
 
 Todo esto se realiza en un período de tiempo breve. Pocos minutos bastan
@@ -212,7 +212,7 @@ También tenemos la opción de adjuntar archivos al mensaje. Esta función
 nos permite enviar datos informáticos, independientemente del tipo que
 sean.
 
- Para especificar el destinatario, sólo tenemos que introducir la
+Para especificar el destinatario, sólo tenemos que introducir la
 dirección de correo electrónico (ana@gmail.com), si deseamos enviar el
 mismo mensaje a varios destinatarios, lo normal es que se use una lista
 de contactos que nosotros mismos creeos en el sistema. Habitualmente,
@@ -253,24 +253,24 @@ mas importantes.
 
 > Gmail: 
 
- : Es posiblemente el mejor proveedor de servicios de correo
+Es posiblemente el mejor proveedor de servicios de correo
 electrónico gratuito del momento porque es simple y fácil de usar,
 además viene incorporado en el sistema operativo Android siendo este el
 más popular del mercado para teléfonos inteligentes.
 
 > Outlook.com: 
 
- : Es el nuevo servicio de correo electrónico de Hotmail,
+Es el nuevo servicio de correo electrónico de Hotmail,
 es muy fácil de usar con una interfaz muy entretenida.
 
 > Yahoo! Mail: 
 
- : Se encuentra entre los mejores servicios de correo
+Se encuentra entre los mejores servicios de correo
 electrónicos gratuitos disponibles en la web y dispositivos móviles.
 
 ​> Yopmail: 
 
- : No es más que un servicio de correo electrónico
+No es más que un servicio de correo electrónico
 temporal, anónimo y sin registro. Más falso que los billetes de 666
 euros. ¿Qué significa esto? Que todas las cuentas de correo ya existen y
 sus buzones están disponibles para su consulta inmediata desde
@@ -305,7 +305,7 @@ multitudinaria. Al conjunto de respuestas a un tema se le llama  Hilo,
 antes de responder al tema es recomendable leer todo el hilo, para así
 ver las conclusiones y respuestas que se han ido planteando.
 
- Esta herramienta es, por lo tanto, muy socorrida a la hora de plantear
+Esta herramienta es, por lo tanto, muy socorrida a la hora de plantear
 dudas sobre cualquier tema. Eso sí, asegúrate de que eliges el foro
 adecuado para plantear tu duda. Seguro que lo encuentres, hay foros de
 todo tipo en la red. Sobre mascotas, sobre coches, sobre viajes, etc.
@@ -624,18 +624,18 @@ peso.
 
 El streaming funciona de la siguiente forma:
 
-1. Conexión con el servidor. El reproductor cliente conecta con el
+> 1. Conexión con el servidor. El reproductor cliente conecta con el
     servidor remoto y éste comienza a enviarle el archivo.
 
-2. Buffer. El cliente comienza a recibir el fichero y construye un
+> 2. Buffer. El cliente comienza a recibir el fichero y construye un
     buffer o almacén donde empieza a guardarlo.
 
-3. Inicio de la reproducción. Cuando el buffer se ha llenado con una
+> 3. Inicio de la reproducción. Cuando el buffer se ha llenado con una
     pequeña fracción inicial del archivo original, el reproductor
     cliente comienza a mostrarlo mientras continúa en segundo plano con
     el resto de la descarga.
 
-4. Caídas de la velocidad de conexión. Si la conexión experimenta
+> 4. Caídas de la velocidad de conexión. Si la conexión experimenta
     ligeros descensos de velocidad durante la reproducción, el cliente
     podría seguir mostrando el contenido consumiendo la información
     almacenada en el buffer. Si llega a consumir todo el buffer se
