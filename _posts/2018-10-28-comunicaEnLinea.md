@@ -253,24 +253,24 @@ mas importantes.
 
 > Gmail: 
 
-Es posiblemente el mejor proveedor de servicios de correo
+ : Es posiblemente el mejor proveedor de servicios de correo
 electrónico gratuito del momento porque es simple y fácil de usar,
 además viene incorporado en el sistema operativo Android siendo este el
 más popular del mercado para teléfonos inteligentes.
 
 > Outlook.com: 
 
-Es el nuevo servicio de correo electrónico de Hotmail,
+ : Es el nuevo servicio de correo electrónico de Hotmail,
 es muy fácil de usar con una interfaz muy entretenida.
 
 > Yahoo! Mail: 
 
-Se encuentra entre los mejores servicios de correo
+ : Se encuentra entre los mejores servicios de correo
 electrónicos gratuitos disponibles en la web y dispositivos móviles.
 
 ​> Yopmail: 
 
-No es más que un servicio de correo electrónico
+ : No es más que un servicio de correo electrónico
 temporal, anónimo y sin registro. Más falso que los billetes de 666
 euros. ¿Qué significa esto? Que todas las cuentas de correo ya existen y
 sus buzones están disponibles para su consulta inmediata desde
