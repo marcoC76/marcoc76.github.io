@@ -188,13 +188,13 @@ Los primeros mensajes de correo electrónico solo incluían texto; luego
 se intercambiaron mensajes con archivos; y en la actualidad es posible
 enviar un mensaje en formato HTML.
 
-1 Cuando un usuario envía un correo, el mensaje se dirige hasta el
+1. Cuando un usuario envía un correo, el mensaje se dirige hasta el
     buzón de correo de su proveedor de Internet.
 
-2 Luego este lo almacena y lo reenvía al servidor de correo del
+2. Luego este lo almacena y lo reenvía al servidor de correo del
     destinatario, donde se guarda.
 
-3 Y cuando el destinatario solicita sus mensajes, el servidor de
+3. Y cuando el destinatario solicita sus mensajes, el servidor de
     correo del proveedor se los envía.
 
 Todo esto se realiza en un período de tiempo breve. Pocos minutos bastan
@@ -251,18 +251,26 @@ ofrece un servidor de correo corporativo para su personal de trabajo. A
 continuación veremos los servidores o proveedores de correo electrónico
 mas importantes.
 
-1 Gmail: Es posiblemente el mejor proveedor de servicios de correo
+> Gmail: 
+
+Es posiblemente el mejor proveedor de servicios de correo
 electrónico gratuito del momento porque es simple y fácil de usar,
 además viene incorporado en el sistema operativo Android siendo este el
 más popular del mercado para teléfonos inteligentes.
 
-3 Outlook.com: es el nuevo servicio de correo electrónico de Hotmail,
+> Outlook.com: 
+
+Es el nuevo servicio de correo electrónico de Hotmail,
 es muy fácil de usar con una interfaz muy entretenida.
 
-5 Yahoo! Mail: se encuentra entre los mejores servicios de correo
+> Yahoo! Mail: 
+
+Se encuentra entre los mejores servicios de correo
 electrónicos gratuitos disponibles en la web y dispositivos móviles.
 
-​7 Yopmail: no es más que un servicio de correo electrónico
+​> Yopmail: 
+
+No es más que un servicio de correo electrónico
 temporal, anónimo y sin registro. Más falso que los billetes de 666
 euros. ¿Qué significa esto? Que todas las cuentas de correo ya existen y
 sus buzones están disponibles para su consulta inmediata desde
@@ -669,6 +677,6 @@ frente al servidor web. Las más destacadas son:
 > Mayor garantía de una reproducción ininterrumpida gracias al
     establecimiento de una conexión de control inteligente entre
     servidor y cliente.
-    
+
 > Posibilidad de distribución de transmisiones de audio y vídeo en
     directo.
