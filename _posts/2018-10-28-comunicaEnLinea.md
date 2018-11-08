@@ -188,13 +188,13 @@ Los primeros mensajes de correo electrónico solo incluían texto; luego
 se intercambiaron mensajes con archivos; y en la actualidad es posible
 enviar un mensaje en formato HTML.
 
-> 1. Cuando un usuario envía un correo, el mensaje se dirige hasta el
+> 1.Cuando un usuario envía un correo, el mensaje se dirige hasta el
     buzón de correo de su proveedor de Internet.
 
-> 2. Luego este lo almacena y lo reenvía al servidor de correo del
+> 2.Luego este lo almacena y lo reenvía al servidor de correo del
     destinatario, donde se guarda.
 
-> 3. Y cuando el destinatario solicita sus mensajes, el servidor de
+> 3.Y cuando el destinatario solicita sus mensajes, el servidor de
     correo del proveedor se los envía.
 
 Todo esto se realiza en un período de tiempo breve. Pocos minutos bastan
@@ -624,18 +624,18 @@ peso.
 
 El streaming funciona de la siguiente forma:
 
-> 1. Conexión con el servidor. El reproductor cliente conecta con el
+> 1.Conexión con el servidor. El reproductor cliente conecta con el
     servidor remoto y éste comienza a enviarle el archivo.
 
-> 2. Buffer. El cliente comienza a recibir el fichero y construye un
+> 2.Buffer. El cliente comienza a recibir el fichero y construye un
     buffer o almacén donde empieza a guardarlo.
 
-> 3. Inicio de la reproducción. Cuando el buffer se ha llenado con una
+> 3.Inicio de la reproducción. Cuando el buffer se ha llenado con una
     pequeña fracción inicial del archivo original, el reproductor
     cliente comienza a mostrarlo mientras continúa en segundo plano con
     el resto de la descarga.
 
-> 4. Caídas de la velocidad de conexión. Si la conexión experimenta
+> 4.Caídas de la velocidad de conexión. Si la conexión experimenta
     ligeros descensos de velocidad durante la reproducción, el cliente
     podría seguir mostrando el contenido consumiendo la información
     almacenada en el buffer. Si llega a consumir todo el buffer se
