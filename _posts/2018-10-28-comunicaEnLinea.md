@@ -72,7 +72,7 @@ automáticamente al emisor), cómodo (por la posibilidad de reenvío,
 réplica y redistribución de los mensajes) y fácil de usar, de ahí su
 enorme popularidad.
 
-        El funcionamiento del correo electrónico puede comprenderse más
+El funcionamiento del correo electrónico puede comprenderse más
 fácilmente si se compara, precisamente, con el sistema de correo
 tradicional (aunque ciertamente no es equiparable en sus efectos). Una
 carta tiene que recorrer un camino hasta llegar a su destino, del mismo
@@ -80,7 +80,7 @@ modo que un e-mail, y en ese proceso hay una serie de intermediarios.
 Comenzaremos por describir el correo postal para, después, establecer la
 comparación con el correo electrónico.
 
-        En el correo tradicional, el emisor, después de escribir la
+En el correo tradicional, el emisor, después de escribir la
 carta y adjuntar, por ejemplo, una fotografía, ha de poner la dirección
 en el sobre y pegar el sello. Después debe depositar el mensaje en un
 buzón u oficina de correos, desde la cual, probablemente, recorrerá
@@ -92,7 +92,7 @@ apartado quiere ver su correo debe necesariamente acercarse a la
 oficina, ir a su buzón y, con su llave, abrirlo para extraer las cartas
 recibidas desde la última vez que fue (seguramente, el día anterior).
 
-        Del mismo modo ocurre con un correo electrónico: tras redactar
+Del mismo modo ocurre con un correo electrónico: tras redactar
 el mensaje y adjuntar, si es necesario, algún fichero de texto, imagen o
 sonido, gracias a un programa de correo, se debe teclear una dirección y
 ordenar su envío (con un simple clic de ratón) a un servidor SMTP
@@ -111,7 +111,7 @@ todos los mensajes recibidos desde la última conexión sean descargados
 en su ordenador y, desde allí, finalmente leídos en el monitor de su
 computadora.
 
-        Los usuarios del correo electrónico deben seguir una serie de
+Los usuarios del correo electrónico deben seguir una serie de
 reglas con el objeto de respetar a los emisores y receptores de mensajes
 y asegurar un comportamiento correcto en los mensajes. Entre estas
 normas se destacan las siguientes:
