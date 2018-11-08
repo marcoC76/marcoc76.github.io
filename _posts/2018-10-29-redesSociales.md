@@ -90,50 +90,50 @@ sus publicaciones.
 A continuación veremos una pequeña reseña histórica de las redes
 sociales:
 
-1971: Se envía el primer mail. Los dos ordenadores protagonistas del
+> 1971: Se envía el primer mail. Los dos ordenadores protagonistas del
 envío estaban uno al lado del otro.
 
-1978: Se intercambian BBS (Bulletin Board Systems) a través de líneas
+> 1978: Se intercambian BBS (Bulletin Board Systems) a través de líneas
 telefónicas con otros usuarios.
 
-1978: La primeras copias de navegadores de internet se distribuyen a
+> 1978: La primeras copias de navegadores de internet se distribuyen a
 través de la plataforma Usenet.
 
-1994: Se funda GeoCities, una de las primeras redes sociales de internet
+> 1994: Se funda GeoCities, una de las primeras redes sociales de internet
 tal y como hoy las conocemos. La idea era que los usuarios crearan sus
 propias páginas web y que las alojaran en determinados barrios según su
 contenido (Hollywood, Wallstreet, etc.).
 
-1995: TheGlobe.com da a sus usuarios la posibilidad de personalizar sus
+> 1995: TheGlobe.com da a sus usuarios la posibilidad de personalizar sus
 propias experiencias online publicando su propio contenido e
 interactuando con otras personas con intereses similares.
 
-1997: Se lanza AOL Instant Messenger.
+> 1997: Se lanza AOL Instant Messenger.
 
-1997: Se inaugura la web Sixdegrees.com, que permite la creación de
+> 1997: Se inaugura la web Sixdegrees.com, que permite la creación de
 perfiles personales y el listado de amigos.
 
-2000: La “burbuja de internet” estalla.
+> 2000: La “burbuja de internet” estalla.
 
-2002: Se lanza el portal Friendster, pionero en la conexión online de
+> 2002: Se lanza el portal Friendster, pionero en la conexión online de
 “amigos reales”. Alcanza los 3 millones de usuarios en sólo tres meses.
 
-2003: Se inaugura la web MySpace, concebida en un principio como un
+> 2003: Se inaugura la web MySpace, concebida en un principio como un
 “clon” de Friendster. Creada por una empresa de marketing online, su
 primera versión fue codificada en apenas 10 días.
 
-2004: Se lanza Facebook, concebida originalmente como una plataforma
+> 2004: Se lanza Facebook, concebida originalmente como una plataforma
 para conectar a estudiantes universitarios. Su pistoletazo de salida
 tuvo lugar en la Universidad de Harvard y más de la mitad de sus 19.500
 estudiantes se suscribieron a ella durante su primer mes de
 funcionamiento.
 
-2006: Se inaugura la red de microblogging Twitter.
+> 2006: Se inaugura la red de microblogging Twitter.
 
-2008: Facebook adelanta a MySpace como red social líder en cuanto a
+> 2008: Facebook adelanta a MySpace como red social líder en cuanto a
 visitantes únicos mensuales.
 
-2011: Facebook tiene 600 millones de usuarios repartidos por todo el
+> 2011: Facebook tiene 600 millones de usuarios repartidos por todo el
 mundo, MySpace 260 millones, Twitter 190 millones y Friendster apenas 90
 millones.
 
@@ -274,23 +274,23 @@ Las herramientas informáticas para potenciar la eficacia de las redes
 sociales online (‘software social’), operan en tres ámbitos, “las 3Cs”,
 de forma cruzada:
 
-Comunicación (nos ayudan a poner en común conocimientos).
+> Comunicación (nos ayudan a poner en común conocimientos).
 
-Comunidad (nos ayudan a encontrar e integrar comunidades).
+> Comunidad (nos ayudan a encontrar e integrar comunidades).
 
-Cooperación (nos ayudan a hacer cosas juntos).
+> Cooperación (nos ayudan a hacer cosas juntos).
 
 ### Clasificaciones de redes sociales en Internet 
 
-Por su público, objetivo y temática
+## Por su público, objetivo y temática
 
- Redes sociales horizontales:
+# Redes sociales horizontales:
 
 Son aquellas dirigidas a todo tipo de usuario y sin una temática
 definida. Los ejemplos más representativos del sector son Facebook,
 Orkut, Identi.ca, Twitter.
 
- Redes sociales verticales
+# Redes sociales verticales
 
 Están concebidas sobre la base de un eje temático agregador. Su objetivo
 es el de congregar en torno a una temática definida a un colectivo
@@ -312,7 +312,7 @@ personales en torno a sus perfiles; Yuglo, Unience, PideCita, 11870.
 
 Por el sujeto principal en la relación
 
- Redes sociales humanas:
+# Redes sociales humanas:
 
 Son aquellas que centran su atención en fomentar las elaciones entre
 personas uniendo individuos según su perfil social y en función de sus
@@ -321,30 +321,30 @@ gustos, aficiones, lugares de trabajo, viajes y actividades.
 Ejemplos de este tipo de redes encontrarnos en Koornk, Dopplr, Youare y
 Tuenti.
 
-Redes sociales de contenidos
+# Redes sociales de contenidos
 
 Las relaciones se desarrolla uniendo perfiles a través de contenido
 publicado, los objetos que posee el usuario o los archivos que se
 encuentran en su ordenador. Los ejemplos más significativos son Scribs,
 Flickr .
 
-Redes sociales de OBJETOS
+# Redes sociales de OBJETOS
 
 Conforman un sector novedoso entre las redes sociales. Su objetivo es
 unir marcas, automóviles y lugares. Entre estas redes sociales destacan
 las de difuntos, siendo estos los sujetos principales de la red. El
 ejemplo más llamativo es Respectance.
 
-Por su localización geográfica
+## Por su localización geográfica
 
-Redes sociales sedentarias
+# Redes sociales sedentarias
 
 Este tipo de red social muta en función de las relaciones entre
 personas, los contenidos compartidos o los evento creados. Ejemplo de
 este tipo de redes son: Rejaw, Bogger, Kwippy, Plaxo, Bitacoras.com,
 Plurk.
 
-Redes sociales nómadas
+# Redes sociales nómadas
 
 Este tipo de redes se componen y recomponen a tenor de los sujetos que
 se hallen geográficamente cerca del lugar en el que se encuentra el
@@ -352,9 +352,9 @@ usuario, los lugares que haya visitado o aquellos a los que tenga
 previsto acudir. Los ejemplos más destacados son: Latitud, Brigthkite,
 ire Eagle y Skout.
 
-Por su plataforma
+## Por su plataforma
 
-Red social MMORPG y Meteversis
+# Red social MMORPG y Meteversis
 
 Los videojuegos de rol multijugador masivos en línea o MMORPG, son
 videojuegos de rol que permiten a miles de jugadores introducirse en un
@@ -376,7 +376,7 @@ Normalmente están construidos sobre una base técnica Cliente-Servidor
 (WOW, SecondLife, Lineage), pero no tiene por qué (Gladiatus, Travian,
 habbo).
 
-Red social Web
+# Red social Web
 
 Su plataforma de desarrollo está basada en una estructura típica de web.
 Algunos ejemplos representativos son: MySpace, Friendfeed y Hi5.
@@ -395,9 +395,7 @@ y las normas que no podemos infringir.
 
 En cuanto a redes sociales en internet podemos destacar las siguientes:
 
- 
-
-FACEBOOK 
+## FACEBOOK 
 
 La red social más grande del mundo (por ahora) ha cambiado el rumbo
 desde que nació hasta hoy.
@@ -412,36 +410,45 @@ Es así que cuando los dueños de Facebook vieron este perfil comercial
 que estaba tomando el sitio, decidieron darle rienda suelta a esta
 faceta, logrando ser lo que es hoy en día.
 
-¿Cómo funciona y para qué sirve Facebook? 
+# ¿Cómo funciona y para qué sirve Facebook? 
 
 Las principales características son:
 
--   Para participar y/o firmar en post o perfiles es necesario estar
+> Para participar y/o firmar en post o perfiles es necesario estar
     registrado. Abre una impresionante red de amigos o conocidos, ya que
     al agregar un amigo a tu perfil, podrás ver los amigos de éste y
     agregarlos y así sucesivamente.
--   El sistema realiza recomendaciones automáticas de gente que “Tal vez
+
+> El sistema realiza recomendaciones automáticas de gente que “Tal vez
     conozcas”, basándose en los datos de tu perfil y tu posible amigo,
     logrando de esta forma encontrarte con gente que tal vez ni
     recordabas.
--   Permite difundir tu “Mensaje de estado” a toda tu red de amigos de
-    forma instantánea.
--   Se pueden subir fotos y videos desde tu móvil u ordenador y
-    compartirlo con tus amigos.
--    Recomendación de links.
--    Jugar a juegos desarrollados por terceros y competir con tu red de
-    amigos.
--    Admite publicidad de pago por click.
--    Puedes comentar y evaluar posts que hagan tus amigos.
--   Desde tu móvil puedes manejar casi la totalidad de las opciones que
-    permite tu perfil.
--    Permite enviar mensajes privados a usuarios.
 
-![http://histinf.blogs.upv.es/files/2011/12/foto2.png](images/image5.png)
+> Permite difundir tu “Mensaje de estado” a toda tu red de amigos de
+    forma instantánea.
+
+> Se pueden subir fotos y videos desde tu móvil u ordenador y
+    compartirlo con tus amigos.
+
+>  Recomendación de links.
+
+>  Jugar a juegos desarrollados por terceros y competir con tu red de
+    amigos.
+
+>  Admite publicidad de pago por click.
+
+>  Puedes comentar y evaluar posts que hagan tus amigos.
+
+> Desde tu móvil puedes manejar casi la totalidad de las opciones que
+    permite tu perfil.
+
+>  Permite enviar mensajes privados a usuarios.
+
+![](http://histinf.blogs.upv.es/files/2011/12/foto2.png)
 
  
 
-TWITTER
+## TWITTER
 
 Twitter comenzó a gestarse en marzo de 2006 y fue lanzado al mercado en
 octubre del mismo año.
@@ -454,55 +461,65 @@ A principios de 2008, el equipo de Twitter estaba compuesto por 18
 personas, durante 2009 han multiplicado su plantilla por cuatro y siguen
 creciendo.
 
-¿Cómo funciona y para qué sirve Twitter? 
+# ¿Cómo funciona y para qué sirve Twitter? 
 
--   Tienes que registrarte y crear tu perfil de usuario.
--   Puedes tener seguidores y también desde tu cuenta puedes seguir
+> Tienes que registrarte y crear tu perfil de usuario.
+
+> Puedes tener seguidores y también desde tu cuenta puedes seguir
     otros usuarios para que se informe cada vez que postean algo.
--   La técnica que se utiliza en Twitter es denominada “microblogging”,
+
+> La técnica que se utiliza en Twitter es denominada “microblogging”,
     ya que hay que limitarse a postear en un espacio de 140 caracteres.
--   Comunicas a tu red de seguidores o amigos lo que estás haciendo en
+
+> Comunicas a tu red de seguidores o amigos lo que estás haciendo en
     ese momento, recomiendas enlaces e interactúas fluida y rápidamente
     con ellos.
--   Los mensajes los puedes postear desde tu móvil y tus seguidores
+
+> Los mensajes los puedes postear desde tu móvil y tus seguidores
     tienen la opción de que éste les llegue incluso como mensaje de
     texto.
--   Estás informado constantemente sobre lo que realizan las personas,
+
+> Estás informado constantemente sobre lo que realizan las personas,
     empresas o blogs que vos estés siguiendo.
--   Actualmente están utilizando Twitter personas famosas para estar en
+
+> Actualmente están utilizando Twitter personas famosas para estar en
     contacto con sus fans e incluso se comenzaron a realizar entrevistas
     vía twitter.
 
-![http://histinf.blogs.upv.es/files/2011/12/foto3.png](images/image4.png)
+![](http://histinf.blogs.upv.es/files/2011/12/foto3.png)
 
-YAHOO ANSWERS 
+## YAHOO! ANSWERS 
 
 Yahoo! Respuestas es un sitio donde la gente puede plantear preguntas
 sobre cualquier tema y obtener respuestas compartiendo conocimientos,
 opiniones y experiencias personales.
 
-¿Cómo funciona Yahoo Answers?
+# ¿Cómo funciona Yahoo Answers?
 
--   Una vez que tengas tu perfil creado, podrás realizar y contestar
+> Una vez que tengas tu perfil creado, podrás realizar y contestar
     preguntas. Mediante estas preguntas y respuestas, según su
     relevancia, irás sumando o descontando puntos, haciendo que tu
     perfil gane o pierda grado de popularidad.
--   Los puntos y los niveles son útiles para tener una idea de tu grado
+
+> Los puntos y los niveles son útiles para tener una idea de tu grado
     de participación (y el de otros miembros) en Yahoo! Respuestas. Los
     puntos se conceden por realizar diferentes actividades como
     responder preguntas. Tu nivel dependerá de los puntos que consigas.
--   La temática de las preguntas es muy amplia, por lo que podrás
+
+> La temática de las preguntas es muy amplia, por lo que podrás
     encontrar de todo tipo.
--   Las preguntas y respuestas estarán clasificadas por categorías para
+
+> Las preguntas y respuestas estarán clasificadas por categorías para
     que sea más fácil la búsqueda.
--    Si no quieres preguntar o responder nada, tienes preguntas
+
+>  Si no quieres preguntar o responder nada, tienes preguntas
     resueltas, las que tal vez puedan resultar de tu interés y evacuar
     las dudas que tengas en ese momento sin tener que preguntar nada.
 
  
-![http://histinf.blogs.upv.es/files/2011/12/foto6.png](images/image1.png)
+![](http://histinf.blogs.upv.es/files/2011/12/foto6.png)
 
-Google+
+## Google+
 
 La nueva red social Google+ llega con la intención de quedarse, en la
 que se han incluido varias funciones que corrigen algunos de los puntos
@@ -526,9 +543,9 @@ fotos, aparte de seleccionar a los usuarios que podrán visualizarlos,
 podemos configurar nuestro perfil, seleccionando la información deseada
 y la que quieres que sea publicada.
 
-![http://histinf.blogs.upv.es/files/2011/12/foto9.png](images/image3.png)
+![](http://histinf.blogs.upv.es/files/2011/12/foto9.png)
 
-Linked In
+## Linked In
 
 Muchos son los que, por el paso del tiempo o despiste, pierden los
 contactos laborales que han recopilado.
@@ -543,9 +560,9 @@ que se comparten conocimientos con otros integrantes con las mismas
 inquietudes, lo que resulta muy útil en caso de tener alguna duda.
 
  
-![http://histinf.blogs.upv.es/files/2011/12/foto13.png](images/image2.png)
+![](http://histinf.blogs.upv.es/files/2011/12/foto13.png)
 
-Ventajas y desventajas
+### Ventajas y desventajas
 
 Las redes sociales ofrecen infinitas posibilidades, tales como, entrar
 en contacto con gente de otros países y culturas, mantener el contacto
@@ -563,46 +580,51 @@ víctimas de alguna de las amenazas o también, por desconocimiento,
 pueden incumplir alguna de las normas referidas a datos o informaciones
 de otras personas.
 
- 
 
-Algunas ventajas son:
+## Algunas ventajas son:
 
-1.  Te permiten conocer personas, y reconectarte con aquellos que tenías
+1 Te permiten conocer personas, y reconectarte con aquellos que tenías
     años sin ver
-2.  Te permite estar al día con esas personas
-3.  Te permite organizar eventos, y hasta enviar invitaciones sin
+
+2 Te permite estar al día con esas personas
+
+3 Te permite organizar eventos, y hasta enviar invitaciones sin
     siquiera pararte de la silla
-4.  Incluso hasta podrás estar informado sobre hechos y eventos
+
+4 Incluso hasta podrás estar informado sobre hechos y eventos
     actuales, tanto sociales como académicos, políticos, de cualquier
     índole
-5.  La facilidad de tener álbumes digitales, en el caso de MySpace y
+
+5 La facilidad de tener álbumes digitales, en el caso de MySpace y
     Facebook
-6.  Tienes la opción de bloquear usuarios no deseados
 
- 
+6 Tienes la opción de bloquear usuarios no deseados
 
-Algunas desventajas son:
 
-Los principales riesgos en el uso de las redes sociales.
+## Algunas desventajas son:
 
-1.  Permite que personas no deseadas se enteren de todos tus
+1 Permite que personas no deseadas se enteren de todos tus
     movimientos.
-2.  Tus imágenes cargadas pueden ser utilizadas para cualquier fin.
-3.  Tu vida deja de ser privada. Los datos que se proporcionan a los
+
+2 Tus imágenes cargadas pueden ser utilizadas para cualquier fin.
+
+3 Tu vida deja de ser privada. Los datos que se proporcionan a los
     administradores de las redes entran a formar parte de los archivos
     de estos. Al mismo tiempo, un mal uso de las redes puede llevar a
     facilitar datos propios, de familiares o amigos. Existe además el
     llamado “phising”, llevado a cabo por quienes roban contraseñas de
     acceso de otras personas para manipular o espiar sus sesiones.
 
-1.  Acceso a contenidos inadecuados. Pueden ser de diverso tipo:
+1 Acceso a contenidos inadecuados. Pueden ser de diverso tipo:
     violentos, de índole sexual, relacionados con el consumo de
     sustancias estupefacientes, lenguaje soez, etc.
-2.  Acoso por parte de compañeros o conocidos. Por un lado, el
+
+2 Acoso por parte de compañeros o conocidos. Por un lado, el
     ciberbullying, el acoso llevado a cabo por compañeros del centro
     escolar. Por otra parte está el cibergooming que efectúan adultos
     que buscan entrar en contacto con menores para primero obtener sus
     imágenes y otra información que después utilizan para lograr nuevas
     exigencias.
-3.  Puedes llegar a perder más tiempo pendiente de lo que ocurre allí
+    
+3 Puedes llegar a perder más tiempo pendiente de lo que ocurre allí
     que en tu vida real.
