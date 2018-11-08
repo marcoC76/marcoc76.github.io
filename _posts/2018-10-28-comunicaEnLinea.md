@@ -624,18 +624,18 @@ peso.
 
 El streaming funciona de la siguiente forma:
 
-1 Conexión con el servidor. El reproductor cliente conecta con el
+1. Conexión con el servidor. El reproductor cliente conecta con el
     servidor remoto y éste comienza a enviarle el archivo.
 
-2 Buffer. El cliente comienza a recibir el fichero y construye un
+2. Buffer. El cliente comienza a recibir el fichero y construye un
     buffer o almacén donde empieza a guardarlo.
 
-3 Inicio de la reproducción. Cuando el buffer se ha llenado con una
+3. Inicio de la reproducción. Cuando el buffer se ha llenado con una
     pequeña fracción inicial del archivo original, el reproductor
     cliente comienza a mostrarlo mientras continúa en segundo plano con
     el resto de la descarga.
 
-4 Caídas de la velocidad de conexión. Si la conexión experimenta
+4. Caídas de la velocidad de conexión. Si la conexión experimenta
     ligeros descensos de velocidad durante la reproducción, el cliente
     podría seguir mostrando el contenido consumiendo la información
     almacenada en el buffer. Si llega a consumir todo el buffer se
