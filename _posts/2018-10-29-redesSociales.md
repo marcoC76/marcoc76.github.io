@@ -36,26 +36,6 @@ contacto a través de una red social, sino que pueden hacerlo a través de
 ella, y ese es uno de los mayores beneficios de las comunidades
 virtuales.
 
-Tipos de Redes Sociales 
------------------------
-
-Si se quisiera clasificar a las redes sociales, podría hacerse según su
-origen y función: existen las de tipo genéricas, las cuales son muy
-numerosas y populares (como Facebook  o Twitter); están a su vez las
-redes profesionales como LinkedIn, que involucran individuos que
-comparten el ámbito laboral o que buscan ampliar sus fronteras laborales
-y pueden ser abiertas o cerradas; y por último, tenemos a las redes
-temáticas que relacionan personas con intereses específicos en común,
-como música, hobbies, deportes, etc., siendo la más famosa Flickr
-(temática: fotografía).
-
-En general, ingresar en una red social es muy sencillo, ya que
-simplemente implica rellenar un cuestionario con datos personales
-básicos y así obtener un Nombre de usuario y una Contraseña, que le
-servirán al usuario para ingresar de manera privada a la red. Mientras
-el usuario cumpla los requisitos para el registro en dicha red (por ej.
-mayoría de edad), podrá hacerlo sin inconvenientes.
-
 Origen y Evolución de las Redes Sociales 
 ----------------------------------------
 
@@ -67,7 +47,7 @@ era exitoso, comenzaron a aparecer nuevas redes que pretendían reunir
 amigos, y para el año 2003 ya se habían hecho populares sitios como
 LinkedIn y MySpace, con objetivos más específicos.
 
-### La Historia detrás de Facebook y Twitter 
+# La Historia detrás de Facebook y Twitter 
 
 Algunas de las redes sociales más utilizadas al día de hoy son Facebook
 y Twitter. Con respecto a Facebook, éste fue creado alrededor de 2004
@@ -137,26 +117,6 @@ visitantes únicos mensuales.
 mundo, MySpace 260 millones, Twitter 190 millones y Friendster apenas 90
 millones.
 
-Fallas de las Redes Sociales: El Aspecto Negativo 
--------------------------------------------------
-
-A pesar de que el uso de redes sociales tiene muchos beneficios, como
-por ejemplo, contactar con gente que está lejos, conocer gente nueva,
-promover la participación del trabajo en equipo, compartir archivos de
-manera sencilla (documentos, música, fotografías, entre otros), también
-existe un aspecto negativo de éstas, que radica en la falta de
-privacidad, ya que cada archivo o publicación de los usuarios cae en
-manos de los administradores de la red social, o pueden a su vez ser
-alcanzados por hackers, los cuales manipulan así la información para
-beneficio propio y perjuicio del usuario. Otro aspecto riesgoso, es el
-acceso a todo tipo de contenido (por ejemplo de tipo sexual o violento),
-que muchas veces resulta inadecuado sobre todo para grupos sociales
-vulnerables, como los niños. Esto se ve evidenciado en muchas ocasiones
-a casos de acoso, como puede ser el de adultos que buscan contactar con
-niños o personas vulnerables; o por parte de conocidos, como compañeros
-de escuela que buscan burlarse de otros. Todo esto está favorecido por
-el hecho de que los adolescentes y jóvenes son el principal grupo
-usuario de las redes sociales.
 
 Redes sociales en Internet 
 --------------------------
@@ -280,17 +240,17 @@ de forma cruzada:
 
 > Cooperación (nos ayudan a hacer cosas juntos).
 
-### Clasificaciones de redes sociales en Internet 
+## Clasificaciones de redes sociales en Internet 
 
-## Por su público, objetivo y temática
+### Por su público, objetivo y temática
 
-# Redes sociales horizontales:
+#### Redes sociales horizontales:
 
 Son aquellas dirigidas a todo tipo de usuario y sin una temática
 definida. Los ejemplos más representativos del sector son Facebook,
 Orkut, Identi.ca, Twitter.
 
-# Redes sociales verticales
+#### Redes sociales verticales
 
 Están concebidas sobre la base de un eje temático agregador. Su objetivo
 es el de congregar en torno a una temática definida a un colectivo
@@ -310,9 +270,9 @@ Redes sociales verticales mixtas: ofrecen a usuarios y empresas un
 entorno específico para desarrollar actividades tanto profesionales con
 personales en torno a sus perfiles; Yuglo, Unience, PideCita, 11870.
 
-Por el sujeto principal en la relación
+### Por el sujeto principal en la relación
 
-# Redes sociales humanas:
+#### Redes sociales humanas:
 
 Son aquellas que centran su atención en fomentar las elaciones entre
 personas uniendo individuos según su perfil social y en función de sus
@@ -321,30 +281,30 @@ gustos, aficiones, lugares de trabajo, viajes y actividades.
 Ejemplos de este tipo de redes encontrarnos en Koornk, Dopplr, Youare y
 Tuenti.
 
-# Redes sociales de contenidos
+#### Redes sociales de contenidos
 
 Las relaciones se desarrolla uniendo perfiles a través de contenido
 publicado, los objetos que posee el usuario o los archivos que se
 encuentran en su ordenador. Los ejemplos más significativos son Scribs,
 Flickr .
 
-# Redes sociales de OBJETOS
+#### Redes sociales de OBJETOS
 
 Conforman un sector novedoso entre las redes sociales. Su objetivo es
 unir marcas, automóviles y lugares. Entre estas redes sociales destacan
 las de difuntos, siendo estos los sujetos principales de la red. El
 ejemplo más llamativo es Respectance.
 
-## Por su localización geográfica
+### Por su localización geográfica
 
-# Redes sociales sedentarias
+#### Redes sociales sedentarias
 
 Este tipo de red social muta en función de las relaciones entre
 personas, los contenidos compartidos o los evento creados. Ejemplo de
 este tipo de redes son: Rejaw, Bogger, Kwippy, Plaxo, Bitacoras.com,
 Plurk.
 
-# Redes sociales nómadas
+#### Redes sociales nómadas
 
 Este tipo de redes se componen y recomponen a tenor de los sujetos que
 se hallen geográficamente cerca del lugar en el que se encuentra el
@@ -352,9 +312,9 @@ usuario, los lugares que haya visitado o aquellos a los que tenga
 previsto acudir. Los ejemplos más destacados son: Latitud, Brigthkite,
 ire Eagle y Skout.
 
-## Por su plataforma
+### Por su plataforma
 
-# Red social MMORPG y Meteversis
+#### Red social MMORPG y Meteversis
 
 Los videojuegos de rol multijugador masivos en línea o MMORPG, son
 videojuegos de rol que permiten a miles de jugadores introducirse en un
@@ -376,7 +336,7 @@ Normalmente están construidos sobre una base técnica Cliente-Servidor
 (WOW, SecondLife, Lineage), pero no tiene por qué (Gladiatus, Travian,
 habbo).
 
-# Red social Web
+#### Red social Web
 
 Su plataforma de desarrollo está basada en una estructura típica de web.
 Algunos ejemplos representativos son: MySpace, Friendfeed y Hi5.
@@ -410,7 +370,7 @@ Es así que cuando los dueños de Facebook vieron este perfil comercial
 que estaba tomando el sitio, decidieron darle rienda suelta a esta
 faceta, logrando ser lo que es hoy en día.
 
-# ¿Cómo funciona y para qué sirve Facebook? 
+### ¿Cómo funciona y para qué sirve Facebook? 
 
 Las principales características son:
 
@@ -461,7 +421,7 @@ A principios de 2008, el equipo de Twitter estaba compuesto por 18
 personas, durante 2009 han multiplicado su plantilla por cuatro y siguen
 creciendo.
 
-# ¿Cómo funciona y para qué sirve Twitter? 
+### ¿Cómo funciona y para qué sirve Twitter? 
 
 > Tienes que registrarte y crear tu perfil de usuario.
 
@@ -494,7 +454,7 @@ Yahoo! Respuestas es un sitio donde la gente puede plantear preguntas
 sobre cualquier tema y obtener respuestas compartiendo conocimientos,
 opiniones y experiencias personales.
 
-# ¿Cómo funciona Yahoo Answers?
+### ¿Cómo funciona Yahoo Answers?
 
 > Una vez que tengas tu perfil creado, podrás realizar y contestar
     preguntas. Mediante estas preguntas y respuestas, según su
@@ -562,7 +522,7 @@ inquietudes, lo que resulta muy útil en caso de tener alguna duda.
  
 ![](http://histinf.blogs.upv.es/files/2011/12/foto13.png)
 
-### Ventajas y desventajas
+# Ventajas y desventajas
 
 Las redes sociales ofrecen infinitas posibilidades, tales como, entrar
 en contacto con gente de otros países y culturas, mantener el contacto
@@ -625,6 +585,28 @@ de otras personas.
     que buscan entrar en contacto con menores para primero obtener sus
     imágenes y otra información que después utilizan para lograr nuevas
     exigencias.
-    
+
 3 Puedes llegar a perder más tiempo pendiente de lo que ocurre allí
     que en tu vida real.
+
+    
+Fallas de las Redes Sociales: El Aspecto Negativo 
+-------------------------------------------------
+
+A pesar de que el uso de redes sociales tiene muchos beneficios, como
+por ejemplo, contactar con gente que está lejos, conocer gente nueva,
+promover la participación del trabajo en equipo, compartir archivos de
+manera sencilla (documentos, música, fotografías, entre otros), también
+existe un aspecto negativo de éstas, que radica en la falta de
+privacidad, ya que cada archivo o publicación de los usuarios cae en
+manos de los administradores de la red social, o pueden a su vez ser
+alcanzados por hackers, los cuales manipulan así la información para
+beneficio propio y perjuicio del usuario. Otro aspecto riesgoso, es el
+acceso a todo tipo de contenido (por ejemplo de tipo sexual o violento),
+que muchas veces resulta inadecuado sobre todo para grupos sociales
+vulnerables, como los niños. Esto se ve evidenciado en muchas ocasiones
+a casos de acoso, como puede ser el de adultos que buscan contactar con
+niños o personas vulnerables; o por parte de conocidos, como compañeros
+de escuela que buscan burlarse de otros. Todo esto está favorecido por
+el hecho de que los adolescentes y jóvenes son el principal grupo
+usuario de las redes sociales.

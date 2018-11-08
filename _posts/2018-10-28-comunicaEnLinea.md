@@ -27,13 +27,13 @@ Correo electrónico
 
 ### Historia 
 
-1971: El ingeniero informático Ray Tomlison envía el primer correo
+> 1971: El ingeniero informático Ray Tomlison envía el primer correo
 electrónico.
 
-1976: La reina Isabel II se convierte en la primera jefa de estado en
+> 1976: La reina Isabel II se convierte en la primera jefa de estado en
 enviar un email.
 
-1978: Se envía el primer anuncio a través de medios electrónicos en una
+> 1978: Se envía el primer anuncio a través de medios electrónicos en una
 red gubernamental y universitaria.
 
 1982: Se utiliza por primera vez la palabra “email”.
