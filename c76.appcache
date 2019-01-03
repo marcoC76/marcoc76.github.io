@@ -1,5 +1,6 @@
 CACHE MANIFEST
-# v1 - 2019-01-01
-https://marcoc76.github.io/_layauts/*
-https://marcoc76.github.io/_post/*
-https://marcoc76.github.io/media/*
+#v1.1 2019-01-03
+
+/_posts/*
+/_layouts/*
+/_includes/*
