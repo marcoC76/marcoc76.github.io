@@ -15,14 +15,14 @@
             </a>
           .</small>
           <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
-          <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comentarios</a></small>
+          <!-- <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comentarios</a></small> -->
         </h4>
 
         <section class="text-justify">
           {{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }}
         </section>
 
-        <h4><a href="{{site.baseurl}}/blog/">Archivo</a></h4>
+        <h4><a href="{{site.baseurl}}/blog/">Todas las entradas</a></h4>
 
       </div>
     </div>

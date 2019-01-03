@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Blog de apoyo para TICs"
   - text: "Blog de apoyo para Física 1"
+  - text: "Blog de apoyo para TICs"
 
 me-img: "/img/chip.png"
 
@@ -107,9 +107,9 @@ icon-192p: "/img/web-app/browser6.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 96
+post-preview-words: 200
 
-paginate: 5
+paginate: 10
 
 email-share: True
 fb-share: True
