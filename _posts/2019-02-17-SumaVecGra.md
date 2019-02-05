@@ -244,16 +244,6 @@ la “punta” libre. Nuevamente el orden en que se realice la suma no interesa,
 pues aunque el polígono resultante tiene forma diferente en cada caso, la
 resultante final conserva su magnitud, dirección y sentido.
 
-<div style="position: relative;
-            padding-bottom: 56.25%;
-            height: 0;
-            overflow: hidden;">
-  <iframe style="position: absolute;
-                  top:0;
-                  left: 0;
-                  width: 100%;
-                  height: 100%;"   src="//giphy.com/embed/IurWuie6LZvbi?hideSocial=true" width="480" height="366" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div><br>
-
 Este método sirve para sumar 3 o más vectores y se considera como una extensión
 del método del triángulo. La resultante se obtiene de acuerdo al siguiente
 procedimiento:
