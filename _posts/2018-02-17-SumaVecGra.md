@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: Suma de vectores - Métodos gráficos
-category: primerperiodo
-tags: [ 'metodo' , 'grafico', 'vectores', 'poligono', 'triangulo', 'paralelogramo' ]
+category: 
+tags: [  ]
 ---
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
