@@ -18,9 +18,9 @@ tags: [ 'método' , 'gráfico', 'vectores', 'polígono', 'triangulo', 'paralelog
                  top:0;
                  left: 0;
                  width: 100%;
-                 height: 100%;" width="550" height="400" src="https://marcoc76.github.io/guacamole/sumaGrafico.htm"></iframe></div><br>
+                 height: 100%;" width="550" height="400" src="https://marcoc76.github.io/guacamole/sumaGrafico.html"></iframe></div><br>
 
-[Pantalla completa](https://marcoc76.github.io/guacamole/sumaGrafico.htm "Presentación en pantalla completa")
+[Pantalla completa](https://marcoc76.github.io/guacamole/sumaGrafico.html "Presentación en pantalla completa")
 
 <hr>
 
