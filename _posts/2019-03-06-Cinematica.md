@@ -195,3 +195,8 @@ $$d = \sqrt{100}$$
 
 $$d = 10m$$
 
+<hr>
+
+[Version Antigua](https://marcoc76.github.io/2018/03/06/Cinemtica.html "Ir a la version anterior de este apunte")
+
+<hr>
