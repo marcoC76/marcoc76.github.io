@@ -316,3 +316,9 @@ m+100 m = 900 m Distancia total recorrida = 900 m
 
 También puedes verlo en este link: <a target="_blank" href="https://ggbm.at/GKsHdPva"> Ejemplo </a>
 <br>
+
+<hr>
+
+[Version Antigua](https://marcoc76.github.io/2018/02/17/SumaVecGra.html "Ir a la version anterior de este apunte")
+
+<hr>

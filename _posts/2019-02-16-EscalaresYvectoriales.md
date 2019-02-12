@@ -203,3 +203,8 @@ acción sin que se alteren sus efectos.
 
 ![]({{ site.baseurl }}/media/cc3c4fc69ed860c616ad0bd2b7667318.png)
 
+<hr>
+
+[Version Antigua](https://marcoc76.github.io/2018/02/16/EscalaresYvectoriales.html "Ir a la version anterior de este apunte")
+
+<hr>

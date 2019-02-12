@@ -285,3 +285,9 @@ $$F_{R} = 5N$$
 $$\alpha = \tan^{- 1}\left( \frac{0.598}{4.964} \right)$$
 
 $$\alpha = 6.87^{\circ}$$
+
+<hr>
+
+[Version Antigua](https://marcoc76.github.io/2018/02/18/SumaVecAna.html "Ir a la version anterior de este apunte")
+
+<hr>
