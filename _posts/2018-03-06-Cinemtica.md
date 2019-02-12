@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: Cinemática
-category: segundoperiodo
-tags: [ 'movimineto' , 'posicion', 'velocidad', 'aceleracion', 'trayectoria', 'desplazamiento']
+category: 
+tags: [ ]
 ---
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
