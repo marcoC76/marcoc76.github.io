@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: Rapidez y Velocidad
-category: segundoperiodo
-tags: [ 'rapidez' , 'velocidad', 'distacia', 'tiempo', 'constante', 'variable', 'instantanea' ]
+category: 
+tags: []
 ---
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
