@@ -246,6 +246,6 @@ tiempo correspondiente tiende a cero.
 
 <hr>
 
-[Version Antigua](https://marcoc76.github.io/segundoperiodo/2018/03/11/RapidesVelocidad.html "Ir a la version anterior de este apunte")
+[Version Antigua](https://marcoc76.github.io/2018/03/11/RapidesVelocidad.html "Ir a la version anterior de este apunte")
 
 <hr>
