@@ -18,7 +18,7 @@ tags: [ 'estática' , 'equilibrio', 'partícula', 'fuerza', 'tensión', 'momento
                  top:0;
                  left: 0;
                  width: 100%;
-                 height: 100%;" width="550" height="400" src="hhttps://marcoc76.github.io/guacamole/estatica.html"></iframe></div><br>
+                 height: 100%;" width="550" height="400" src="https://marcoc76.github.io/guacamole/estatica.html"></iframe></div><br>
 
 [Pantalla completa](https://marcoc76.github.io/guacamole/estatica.html "Presentación en pantalla completa")
 
