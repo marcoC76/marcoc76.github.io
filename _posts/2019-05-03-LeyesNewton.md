@@ -9,7 +9,7 @@ tags: [ 'fuerza' , 'movimiento', 'masa', 'aceleración', 'dinámica', 'newton', 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
 
 
-### Presentación electronica
+### Presentación electrónica
 
  <div style="position: relative;
             padding-bottom: 56.25%;
