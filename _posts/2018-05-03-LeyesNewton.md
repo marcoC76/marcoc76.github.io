@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: Leyes de Newton
-category: tercerperiodo
-tags: [ 'fuerza' , 'movimiento', 'masa', 'aceleracion', 'dinamica', 'newton', 'accion', 'reaccion',]
+category: 
+tags: [ ]
 ---
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
