@@ -228,6 +228,6 @@ Pero esta fuerza es en sentido contrario.
 
 <hr>
 
-[Version Antigua](https://marcoc76.github.io/2018/05/01/Fuerza.html "Ir a la version anterior de este apunte")
+[Version Antigua](https://marcoc76.github.io/2018/05/03/LeyesNewton.html "Ir a la version anterior de este apunte")
 
 <hr>
