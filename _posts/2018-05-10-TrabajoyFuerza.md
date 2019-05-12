@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: Trabajo y Energía
-category: tercerperiodo
-tags: [ 'trabajo' , 'energia', 'peso', 'fuerza', 'potencia', 'joule', 'cinetica']
+category: 
+tags: [ ]
 ---
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
