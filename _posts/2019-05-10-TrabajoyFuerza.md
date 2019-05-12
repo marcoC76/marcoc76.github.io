@@ -519,6 +519,6 @@ pero la cantidad de energía se conserva.
 
 <hr>
 
-[Version Antigua](https://marcoc76.github.io/2018/05/03/Equilibrio.html "Ir a la version anterior de este apunte")
+[Version Antigua](https://marcoc76.github.io/2018/05/10/TrabajoyFuerza.html "Ir a la version anterior de este apunte")
 
 <hr>
