@@ -5,7 +5,7 @@ title: Comunicación en linea
 category: TercerPeriodo
 tags: [ 'Correo' , 'electrónico', 'foro', 'chat', 'redes', 'sociales']
 ---
-
+<!-- agregar imagenes y resumir un poco -->
 ### Presentación electronica
 
  <div style="position: relative;

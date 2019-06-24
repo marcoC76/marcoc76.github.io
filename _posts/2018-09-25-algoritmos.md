@@ -20,8 +20,8 @@ tags: [ 'instrucciones' , 'pasos', 'secuencia', 'inicio', 'final']
 
 [Pantalla completa](https://marcoc76.github.io/musical-pancake/algoritmos.html "Presentación en pantalla completa")
 
-### Algoritmos 
-
+### Algoritmos  
+<!-- agregar mas imagenes -->
 La lógica computacional está relacionada íntimamente con la manera en
 que utilizas tu pensamiento lógico, esto es, con la  forma en que
 resuelves un problema.
@@ -119,12 +119,12 @@ Algoritmo para comprar las boletas de entrada al cine.
     ​6. Esperar el turno
     ​7. Solicitar la película.
         Si la hay
-    ​       8. Entregar el dinero
-    ​       9. Esperar por las boletas y la diferencia de pago
-    ​       10. Retirarse
+    ​       7-1. Entregar el dinero
+    ​       7-2. Esperar por las boletas y la diferencia de pago
+    ​       7-3. Retirarse
         Si no hay la película
-    ​       11. Escoger otra película o retirarse
-    ​12. Fin
+    ​       7-4. Escoger otra película o retirarse
+    ​8. Fin
 
 <hr>
 

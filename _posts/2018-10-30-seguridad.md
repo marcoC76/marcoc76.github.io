@@ -5,7 +5,7 @@ title: Seguridad Informatica
 category: TercerPeriodo
 tags: [ 'virus' , 'seguridad', 'información', 'identidad', 'hack', 'contraseñas']
 ---
-
+<!-- agregar iamgenes y revisar listas de tipos de amenazas -->
 ### Presentación electronica
 
  <div style="position: relative;

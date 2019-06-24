@@ -61,7 +61,8 @@ Los archivos que se revisaran son los de tipo texto y los estructurados,
 donde en el primero la forma de almacenamiento es mediante código ASCII,
 mientras que en el segundo es mediante el uso de registros.
 
-### Javascript 
+### Javascript  
+<!-- cambiar por progracion con bloques appLab -->
 
 JavaScript es un lenguaje de programación de alto nivel, que se ejecuta
 dentro de los navegadores. Por ejemplo, un sistema operativo (Linux,

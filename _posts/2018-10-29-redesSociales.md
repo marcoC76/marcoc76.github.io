@@ -5,7 +5,7 @@ title: Redes Sociales
 category: TercerPeriodo
 tags: [ 'Facebook' , 'Twitter', 'trabajo', 'genericas', 'tematicas', 'redes', 'sociales']
 ---
-
+<!-- agregar mas imagenes -->
 ### Presentación electronica
 
  <div style="position: relative;
