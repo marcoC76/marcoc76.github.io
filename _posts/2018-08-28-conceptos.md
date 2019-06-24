@@ -388,7 +388,7 @@ una máquina de propósito general, es decir, puede realizar tareas muy
 diversas, de acuerdo a las posibilidades que brinde los lenguajes de
 programación y el hardware.
 
-Antecedentes
+Antecedentes <!-- esto no va -->
 ------------
 
 Las computadoras no siempre han sido iguales. En realidad existe un
@@ -1103,6 +1103,104 @@ concentrado, enfocado y dirigido con lentes, prismas y espejos. El foco
 conciso del rayo láser es posible debido a que toda la luz tiene la
 misma longitud de onda.
 
+<!-- 
+Hardware Software Datos Usuario
+
+Resulta interesante recordar el significado de la palabra Sistema, el cual refiere a un conjunto de elementos que están íntimamente interrelacionados y buscan un objetivo en común.
+Con la anterior definición de sistema es que ahora podemos inferir la definición de un sistema de cómputo, la cual podemos considerarla como al conjunto de elementos electrónicos que interactúan entre sí, para procesar y almacenar datos o información de acuerdo a una serie de instrucciones .
+Tanto el hardware como el software son indispensables para trabajar, ya que podemos tener la parte física, pero sin las aplicaciones simplemente no se haría nada y viceversa. Por eso ambos deben ir entrelazados.
+Los datos son unidades o elementos que por sí solos no cumplen función alguna, pero que al ser introducidos por un usuario a la computadora son procesados en un archivo.
+Los sistemas de cómputo manejan una gran diversidad en cuanto al tamaño, costo, desempeño, funcionalidades, periféricos, etc.
+
+
+UNIDAD CENTRAL DE PROCESAMIENTO
+
+El término unidad central de procesamiento se refiere al hardware de procesamiento de la computadora, ya sea que conste de un solo chip o de varias tarjetas de circuitos.
+Este «órgano vital» ocupa un espacio sorprendentemente pequeño en una PC.
+El procesador es como el cerebro de la computadora; es la parte que organiza y lleva a cabo las instrucciones que provienen del usuario o del software.
+
+
+UNIDAD DE CONTROL
+
+La unidad de control se refiere a las instrucciones o conjuntos de instrucciones que enumeran todas las operaciones que puede realizar la CPU.
+Cada instrucción, en el conjunto de instrucciones, es expresada en microcódigo, una serie de direcciones básicas que le dicen a la CPU cómo ejecutar operaciones más complejas.
+
+
+La unidad de control tiene tres funciones básicas
+
+Leer e interpretar las instrucciones de los programas.
+Dirigir la operación de los componentes internos del procesador.
+
+
+UNIDAD ARITMÉTICO LÓGICA
+
+Además de establecer secuencias ordenadas y cambiar éstas, la computadora puede realizar sólo dos tipos de operaciones: operaciones aritméticas y operaciones lógicas.
+Las operaciones aritméticas incluyen suma, resta, multiplicación y división.
+Las operaciones lógicas incluyen comparaciones, cómo determinar cuándo un número es igual a, mayor que o menor que otro número. Asimismo, cada operación lógica tiene un puesto.
+
+
+MEMORIA PRINCIPAL
+
+La memoria es el espacio que necesita la CPU para poder guardar los programas y los datos que se manipulan mientras están en uso.
+Desde el punto de vista físico, la memoria consiste en chips, ya sea en la tarjeta madre o en un pequeño tablero de circuitos conectados a ésta.
+Tal memoria electrónica permite a la CPU almacenar y recuperar datos rápidamente.
+RAM. Se le llama memoria de acceso aleatorio . Su propósito es conservar programas y datos mientras están en uso. Una computadora no tiene que buscar su memoria entera cada vez que necesita encontrar datos, ya que la CPU almacena y recupera cada pieza de datos usando una dirección de memoria. Éste es un número que indica la ubicación en los chips de memoria.
+ROM. Se llama memoria de sólo lectura . 
+
+MEMORIAS CACHÉ
+
+Memoria caché. La memoria caché es similar a la RAM, excepto que es muy rápida si la comparamos con la memoria normal, y se usa en forma diferente. Cuando un programa está corriendo y la CPU necesita leer datos o instrucciones desde la RAM, la CPU verifica primero para ver si los datos están en la memoria caché. Si los datos que necesita no están en ésta, lee los datos desde la RAM a sus registros, pero también carga una copia de los datos en la memoria caché. La siguiente vez que la CPU necesite los mismos datos, los encontrará en la memoria caché y ahorrará el tiempo necesario para cargar los datos desde la RAM.
+RAM de video. En la actualidad, la mayor parte de los controladores de video también incluyen al menos 2MB de RAM de video o VRAM. La VRAM es de «doble puerto», lo que significa que puede enviar una pantalla de datos al monitor mientras, al mismo tiempo, recibe la siguiente pantalla de datos de la CPU; es más rápida y más costosa que la DRAM . 
+
+BUS
+
+El bus de datos. Es una ruta eléctrica que conecta a la CPU, la memoria y los otros dispositivos de hardware en la tarjeta madre. En realidad, el bus es un grupo de cables paralelos. El número de cables en el bus afecta la velocidad a la que pueden viajar los datos entre los componentes del hardware. 
+
+MEMORIA SECUNDARIA
+
+Proporciona a la CPU una capacidad de almacenamiento adicional que le permite leer o escribir informaciones que se pueden conservar durante largo tiempo. Por su carácter universal y limitado, es imposible que la memoria principal sirva para almacenar información durante más tiempo que el necesario para ejecutar un programa. 
+
+DISPOSITIVOS DE ENTRADA
+
+Teclado. El teclado es el principal dispositivo de entrada para introducir letras, números, símbolos, puntuación y comandos en la computadora. Es un dispositivo relativamente simple, que consta de más o menos 100 teclas, cada una de las cuales envía un código de carácter diferente a la CPU. Fue uno de los primeros periféricos que se usó con las PC, y todavía es el más común; nosotros encontraremos un teclado incorporado o conectado a todas las PC. Los teclados de computadora por lo general incluyen teclas numéricas, alfanuméricas, de movimiento del cursor, modificadoras y de función, así como otras teclas especiales.
+Mouse. Es un dispositivo de entrada que rueda sobre una superficie plana y controla el puntero. El puntero es un objeto en la pantalla , que se usa para seleccionar texto, tener acceso a menús, mover archivos o interactuar con programas, archivos o datos que aparece en la pantalla. En lugar de obligarnos a teclear o emitir comandos desde el teclado, el mouse y los sistemas operativos basados en éste nos permiten elegir comandos desde menús y cuadros de diálogo fáciles de usar.
+Lápices. Los sistemas basados en lápices usan un lápiz electrónico como el principal dispositivo de entrada. Se sostiene el lápiz en la mano y se escribe en una almohadilla especial o en forma directa en la pantalla. También se puede usar el lápiz como un dispositivo de señalamiento, como un mouse, para seleccionar comandos. Es importante darse cuenta de que la pantalla es el dispositivo de entrada, no el lápiz. La pantalla detecta presión, luz o una carga electrostática que proviene del lápiz y luego almacena la posición de esa señal.
+Pantalla sensible al tacto. Permite al usuario señalar directamente en la visualización de la computadora, generalmente para seleccionar de un menú de opciones en la pantalla. La mayor parte de las computadoras con pantallas sensibles al tacto usan sensores en ésta, o cerca de ella, que pueden detectar el tacto de un dedo, sintiendo la presión o el calor de éste.
+Lectores de códigos de barras. Después del teclado, es el dispositivo de entrada usado en forma más amplia. El tipo más común de lector de códigos de barras es el modelo de cama plana, el cual se encuentra por lo común en supermercados y tiendas departamentales. Estos dispositivos convierten un código de barras, que es un patrón de barras impresas en productos, en un número de producto emitiendo un rayo de luz, con frecuencia un rayo láser, que refleja la imagen del código de barras y convierte estos patrones de barras individuales en dígitos numéricos.
+
+
+SISTEMAS DE ENTRADA VISUAL
+
+Los sistemas de entrada visual son adecuados para tareas más especializadas, en las que sólo se encuentran unas cuantas imágenes. Estas tareas por lo general son simples y monótonas, como la inspección. Un sistema digital de inspección visual en una línea de ensamble rechaza aquellas piezas que no satisfacen ciertas especificaciones de calidad. 
+
+DISPOSITIVOS DE SALIDA
+
+Monitor. Es el más importante, porque es el dispositivo de salida con el que los usuarios interactúan con más frecuencia. Dos elementos importantes determinan la calidad de la imagen que despliega un monitor: el monitor mismo y el controlador de video. Se usan dos tipos básicos de monitores con las PC. El primero es el monitor típico que vemos en una computadora de escritorio; se parece a un aparato de televisión y funciona en la misma forma. El segundo tipo, conocido como monitor de pantalla plana, se usa con las computadoras notebook.
+Impresora. Dispositivo de salida que produce una copia impresa en papel. Hay muchos tipos de impresoras:
+Plotter. Es como una impresora en vista de que produce imágenes en papel, pero el plotter se usa para imprimir imágenes de formato grande, como dibujos de construcción o de ingeniería creados en un sistema CAD.
+Sistemas de sonido. 
+
+DISPOSITIVOS DE ENTRADA/SALIDA
+
+Hoy en día, para almacenar datos, se usan dos tecnologías principales: almacenamiento magnético y óptico. 
+
+Los tipos principales de almacenamiento magnético son
+
+Disquetes.
+Discos duros.
+
+
+Los tipos principales de almacenamiento óptico son
+
+Disco compacto de memoria de sólo lectura .
+Unidades escribir una vez, leer muchas .
+Unidades regrabables de cambio de fase.
+Disco magneto-ópticos.
+Unidades ópticas.
+Las unidades de disquete y las unidades de disco duro se conocen como almacenamiento magnético porque registran los datos como campos magnéticos. También se encuentran la unidad de cinta, la cual es un agregado que se usa a menudo para crear una copia de respaldo de un disco duro, preservando el contenido en caso de que el disco duro se dañe.
+
+ -->
+
 ### Sistema operativo 
 
 El Sistema Operativo (SO) es el programa de control maestro de la
@@ -1332,3 +1430,45 @@ sino que también influyen los demás componentes, como son: memoria ram,
 disco duro, etc. Para el caso de definir las velocidades de transmisión
 se suele usar como base el bit, y más concretamente el bit por segundo,
 o bps.
+
+<!--
+SISTEMA OPERATIVO
+
+El Sistema Operativo es el programa de control maestro de la computadora. El SO proporciona las herramientas que nos permiten interactuar con la PC. Cuando emitimos un comando, el SO lo traduce en un código que la máquina puede usar. El SO también asegura que los resultados de las acciones sean desplegados en pantalla, impresos, etcétera.
+El sistema operativo es el núcleo de toda actividad de software, monitorea y controla toda la entrada y salida, así como la actividad de procesamiento dentro del sistema de computadora. Uno de los programas del sistema operativo, llamado por lo general el kernel, carga a otros programas del SO y de aplicaciones en RAM, conforme se van necesitando. El kernel se carga en RAM al iniciarse el sistema y permanece en el residente, es decir, está disponible en RAM hasta que se apaga la computadora.
+
+
+TIPOS DE SISTEMAS OPERATIVOS
+
+Existen plataformas un solo usuario y multiusuario debido a los objetivos y orientación de los tipos de sistemas operativos.
+Plataformas multiusuario, de nivel PC, se dividen en dos grupos: las que están basadas en UNIX y las que posibilitan la computación de trabajo en grupo.
+Los objetivos de los sistemas operativos se aplican a todos los sistemas de computación; sin embargo, los sistemas operativos de las mainframes y de las microcomputadoras difieren considerablemente en complejidad y orientación. En la mainframe, el sistema operativo multiusuario coordina numerosos procesadores de funciones especiales y monitorea la interacción con cientos, y quizá miles, de terminales de una red. 
+
+El sistema operativo realiza las siguientes funciones
+
+Provee las instrucciones para desplegar los elementos en pantalla con los cuales interactuamos. De manera colectiva, estos elementos se conocen como interfaz del usuario.
+Carga programas en la memoria de la computadora para que podamos usarlos.
+Coordina cómo trabajan los programas con la CPU, RAM, teclado, ratón, impresora y demás hardware, así como otro software.
+Administra la forma en que se almacena la información y se recupera de los discos.
+Facilita la comunicación entre el sistema de computación y la gente que lo maneja. La interfaz a través de la cual los usuarios emiten los comandos relacionados con el sistema es parte del sistema operativo.
+Facilita la comunicación entre los componentes del sistema de computación. El sistema operativo administra los recursos del sistema para maximizar el rendimiento, esto es, la cantidad de procesamiento entre la unidad de tiempo.
+Minimiza el tiempo necesario para ejecutar un comando del usuario. En los sistemas interactivos actuales, cualquier reducción del tiempo de espera por pequeña que sea, rinde dividendos en la eficiencia del usuario.
+
+
+REPRESENTACIÓN BINARIA DE DATOS
+
+En una computadora, todos los datos deben ser reducidos a interruptores eléctricos. Un interruptor sólo tiene dos estados posibles, «encendido» y «apagado», así que únicamente tiene dos símbolos numéricos: 0 representa «apagado» y 1 representa «encendido». Ya que sólo hay dos símbolos, se dice que las computadoras funcionan con base 2, lo cual también se conoce como sistema binario .
+Cuando una computadora necesita representar una cantidad mayor que 1, hace lo mismo que nosotros cuando tenemos que representar una cantidad mayor que 9: usa dos dígitos.
+Cuando nos referimos a datos computarizados, cada interruptor, esté encendido o apagado, se llama bit. El término bit es una contracción de dígito binario . Un bit es la unidad de datos más pequeña posible.
+Después del bit, la siguiente unidad mayor de datos es el byte, el cual es un grupo de 8 bits. Con un byte, la computadora puede representar hasta 256 valores diferentes, ya que con 8 dígitos binarios es posible contar de 0 a 255.
+
+
+UNIDADES DE MEDICIÓN
+
+En la informática y en sistemas de cómputo se utilizan diversas unidades de medición, todo dependerá si se habla de almacenamiento, procesamiento o transmisión. Comenzaremos por tratar las unidades de almacenamiento. Con estas unidades medimos la capacidad que tienen los diferentes dispositivos de guardar información.
+La unidad básica en la informática es el bit o también conocido como Binary Digit, que representa a un dígito en sistema binario con el que se forma toda la información. Evidentemente esta unidad es demasiado pequeña para poder contener una información diferente a una dualidad , por lo que se emplea un conjunto de bits Después del bit la unidad que le sigue es el byte, la cual está formada por un octeto . El Kilobyte está compuesto de 1.024 bytes . Debido al mal uso de este prefijo , se está utilizando cada vez más el término definido por el IEC Kibi o KiB para designar esta unidad.
+El Megabyte está dejando de ser la unidad de capacidad más utilizada en Informática. El MB está formado por 1.048.576 bytes . Al igual que ocurre con el KB, dado el mal uso del término, cada vez se está empleando más el término MiB. El Gigabyte es la unidad que actualmente más se utiliza. Un GB son 1.024 MB , por lo tanto 1.048.576 KB. Cada vez se emplea más el término Gibibyte o GiB. El Terabyte es la unidad de medida que está empezando a surgir, sobre todo cuando hablamos de disco duros. Un TB son 1.024 GB. Nomenclatura : Byte Kilobyte = KB Megabyte = MB Gigabyte = GB Terabyte = TB Petabyte = PB Exabyte = EB Zettabyte = ZB Yottabye = YB Las unidades de procesamiento se miden en megahercios . Un megahercio es igual a un millón de hercios. Un hercio o hertz es una unidad de frecuencia que equivale a un ciclo o repetición de un evento por segundo.
+En palabras simples significa que un procesador que trabaje a una velocidad de 500 megahercios es capaz de repetir 500 millones de ciclos por segundo. 
+
+
+-->
