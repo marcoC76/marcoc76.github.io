@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: Conceptos generales
-category: PrimerPeriodo
-tags: [ 'información' , 'datos', 'computadoras', 'binario', 'bit']
+category: 
+tags: []
 ---
 
 ### Presentación electronica

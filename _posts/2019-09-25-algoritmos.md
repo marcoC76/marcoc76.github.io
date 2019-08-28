@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: Algoritmos
-category: 
-tags: []
+category: SegundoPeriodo
+tags: [ 'instrucciones' , 'pasos', 'secuencia', 'inicio', 'final']
 ---
 
 ### Presentación electronica
@@ -50,6 +50,8 @@ adecuado. (Fase de codificación).
 
 3.- Ejecución y validación del programa por computadora.
 
+![](https://i.chzbgr.com/full/9172487680/hB9EB3712/)
+
 La completa ejecución de un algoritmo debe finalizar con la producción
 del resultado esperado a partir de las entradas proporcionadas.
 
@@ -71,7 +73,9 @@ sus respectivos valores.
 El algoritmo es la antesala del programa que ejecutará la computadora, y
 cuando éste se traslada al lenguaje escogido para representarlo se debe
 conservar el orden preestablecido en él, independientemente del lenguaje
-seleccionado. Un algoritmo, una vez construido, puede expresarse en
+seleccionado. 
+
+Un algoritmo, una vez construido, puede expresarse en
 lenguajes diferentes de programación y ejecutarse en computadoras
 distintas; sin embargo, el algoritmo será siempre el mismo. De ahí que
 los errores lógicos que se cometan en la elaboración de éste pasarán al
@@ -91,6 +95,8 @@ Los algoritmos tienen las siguientes propiedades:
     terminar en algún momento; o sea, debe tener un número finito de
     pasos.
 
+![](https://www.picgifs.com/graphics/r/rubiks-cube/animaatjes-rubiks-cube-7217468.gif)
+
 Ejemplos de algoritmos
 
 <hr>
@@ -106,6 +112,8 @@ tiene la llave que abre
 > Paso 3 Da una vuelta                                       
 > Paso 4 El pasador cede                                                 
 > Paso 5 La puerta se abre
+
+![](https://i.pinimg.com/originals/39/ac/41/39ac41a313ae2e231910cf5a58883cd9.gif)
 
 <hr>
 
@@ -125,6 +133,8 @@ Algoritmo para comprar las boletas de entrada al cine.
         Si no hay la película
     ​       7-4. Escoger otra película o retirarse
     ​8. Fin
+
+![](https://www.gifmania.com/Gif-Animados-Peliculas-Cine/Imagenes-Elementos-Cine/Cines/Cine-Antiguo-82068.gif)
 
 <hr>
 
@@ -171,6 +181,8 @@ Con base en lo anterior se aprecian los principales símbolos:
 
 
 Cuando se utiliza el símbolo de decisión, puede ser simple o múltiple:
+
+![](https://media1.tenor.com/images/74a87da6760e119fdfbb1ee9d2914871/tenor.gif?itemid=5437251)
 
 Decisión simple: Se evalúa una condición en su interior, y dependiendo
 del resultado, se selecciona uno de los caminos establecidos.  Este
@@ -231,7 +243,9 @@ Las acciones y las estructuras de control se representan en el
 pseudocódigo con palabras reservadas, similares a las utilizadas en los
 lenguajes de programación estructurada. Entre estas palabras reservadas,
 las más usadas en inglés son: begin, read, write, if-then, if-then-else,
-while-end, do-while, repeat for-to y end. En español se utilizan
+while-end, do-while, repeat for-to y end. 
+
+En español se utilizan
 palabras como las siguientes: inicio, leer, escribir, si-entonces,
 si-entonces-sino, mientras-hacer, hacer-mientras, repetir desde-hasta y
 fin. Es muy recomendable utilizar solo una de estas dos formas durante
@@ -311,6 +325,8 @@ tales como:
 Lenguaje máquina. Serie de instrucciones directamente entendibles por la
 computadora, pero de muy difícil manejo para cualquier programador.
 
+![](https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif)
+
 Lenguaje de bajo nivel. Conjunto de instrucciones específicas
 entendibles por la computadora. Las instrucciones se escriben en códigos
 alfabéticos conocidos como mnemotécnicos.
@@ -319,6 +335,8 @@ Lenguaje de alto nivel. Serie de instrucciones escritas con palabras muy
 similares al idioma propio, esto implica que la computadora requerirá de
 un traductor para entender convertirlo al lenguaje máquina, el cual es
 el único idioma que interpreta la computadora.
+
+![  |](https://technical.ly/philly/wp-content/uploads/sites/2/2018/07/code.gif)
 
 Lo anterior requiere que manejes los elementos mínimos necesarios para
 manipular el ambiente, lo que implica el uso de menús, operaciones con
@@ -336,6 +354,8 @@ tendrán que definir estructuras de datos especialmente para esto.
 Los archivos que se revisaran son los de tipo texto y los estructurados,
 donde en el primero la forma de almacenamiento es mediante código ASCII,
 mientras que en el segundo es mediante el uso de registros.
+
+![](https://static01.nyt.com/images/2018/10/19/business/19AIcover-illo/19AIcover-illo-mediumThreeByTwo210-v5.gif)
 
 Mas informacion:
 [http://uapas1.bunam.unam.mx/matematicas/diagramas\_flujo/](https://www.google.com/url?q=http://uapas1.bunam.unam.mx/matematicas/diagramas_flujo/&sa=D&ust=1537900270724000)
