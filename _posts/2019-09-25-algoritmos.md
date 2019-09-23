@@ -315,8 +315,7 @@ que el lunes es 1.
 Cuando se aplica cualquier metodología para la resolución de problemas,
 con la intención de presentar un programa que se pueda ejecutar en la
 computadora, forzosamente tendremos que elegir el lenguaje de
-programación a utilizar, en nuestro caso, un lenguaje de cuarta
-generación como lo es Pascal.
+programación a utilizar.
 
 Es importante aclarar que la computadora tiene su propio idioma, de tal
 forma que tendremos que considerar los diferentes lenguajes que existen,
@@ -342,10 +341,6 @@ Lo anterior requiere que manejes los elementos mínimos necesarios para
 manipular el ambiente, lo que implica el uso de menús, operaciones con
 los bloques de  instrucciones, así como la forma de imprimir tus códigos
 y pantallas de ejecución.
-
-Pascal es por naturaleza un lenguaje de programación estructurado, por
-lo cual en el podrás codificar programas modulares con una metodología
-de programación estructurada.
 
 En algunos casos se requiere que la información procesada dentro del
 programa se almacene para su posterior tratamiento, por lo cual se
