@@ -41,7 +41,7 @@ favicon: "/img/browser.png"
 
 black-favicon: "/img/browser.svg"
 
-background-img: "../img/fondo.jpg"
+background-img: "../img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
