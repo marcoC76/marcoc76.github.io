@@ -41,7 +41,7 @@ favicon: "/img/browser.png"
 
 black-favicon: "/img/browser.svg"
 
-background-img: "../img/tics.jpg"
+background-img: "../img/fondo.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -191,7 +191,7 @@ keybase-in-footer: False
 
 pages_list:
   Acerca de: 'about'
-  Blog: 'latest-post'
+  Blog: 'post-list'
  # Timeline: 'timeline'
   Contacto: 'contact'
 
